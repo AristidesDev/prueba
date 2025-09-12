@@ -1,9 +1,11 @@
 import scrapy
 
 class MercadoLibreSpider(scrapy.Spider):
-    name = 'mercadolibre_spider'
+    name = 'productos_boton_siguiente'
     
-    start_urls = ['https://listado.mercadolibre.com.ve/comida-preparada/_CostoEnvio_Gratis']
+    start_urls = [
+        'https://listado.mercadolibre.com.ve/comida-preparada/_CostoEnvio_Gratis',
+    ]
     
     # Se agrega esta configuración para evitar el error 403 Forbidden.
     # Simula una solicitud de navegador web real.
@@ -37,4 +39,4 @@ class MercadoLibreSpider(scrapy.Spider):
         
         # Si el enlace a la siguiente página existe, crea una nueva solicitud para esa URL.
         if next_page_link:
-            yield scrapy.Request(url=next_page_link, callback=self.parse)
+           yield scrapy.Request(url=next_page_link, callback=self.parse)
