@@ -5,8 +5,6 @@ class MercadolibreUrlsListSpider(scrapy.Spider):
     
     start_urls = [
         'https://listado.mercadolibre.com.ve/comida-preparada/_CostoEnvio_Gratis',
-        'https://listado.mercadolibre.com.ve/comida-preparada/_CostoEnvio_Gratis_Desde_51',
-        'https://listado.mercadolibre.com.ve/comida-preparada/_CostoEnvio_Gratis_Desde_101',
     ]
 
     # Se agrega esta configuración para evitar el error 403 Forbidden.
