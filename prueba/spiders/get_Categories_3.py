@@ -2,11 +2,12 @@ import scrapy
 import json
 
 class MercadolibreCategorias1Spider(scrapy.Spider):
-    name = 'prueba'
+    name = 'categorias_3'
     # start_urls = ["https://listado.mercadolibre.com.ve/bebidas-aguas/", 
     # "https://listado.mercadolibre.com.ve/bebidas-blancas-licores/",
     # "https://listado.mercadolibre.com.ve/bebidas-deportivas/",
     # ]
+
 
     def start_requests(self):
         with open('c:/Users/Impresos Salcedo/Desktop/python/ML/Scrapy/Learning/test/prueba/categorias_2.json', encoding='utf-8') as f:

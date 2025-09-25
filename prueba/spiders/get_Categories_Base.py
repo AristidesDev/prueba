@@ -1,7 +1,7 @@
 import scrapy
 
 class GetCategorieBaseSpider(scrapy.Spider):
-    name = "get_categories_base"
+    name = "categorias_base"
     allowed_domains = ["www.mercadolibre.com.ve"]
     start_urls = ["https://www.mercadolibre.com.ve/categorias"] # URL de la página de categorías
 
