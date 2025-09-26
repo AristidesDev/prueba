@@ -3,45 +3,14 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-import random
+
 from scrapy import signals
-from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
-from scrapy.exceptions import NotConfigured
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 
 # class RandomUserAgentMiddleware(UserAgentMiddleware):
-
-#     # Lista de User-Agents comunes para simular diferentes navegadores.
-#     # Esta lista es mejor definirla en settings.py, pero la ponemos aquí por simplicidad.
-#     user_agent_list = [
-#         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
-#         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15',
-#         'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0',
-#         'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
-#     ]
-
-#     def __init__(self, settings, user_agent='Scrapy'):
-#         # Verifica si la configuración del middleware tiene una lista de User-Agents
-#         super().__init__(settings, user_agent)
-#         self.user_agent_list = settings.getlist('USER_AGENT_LIST')
-
-#         if not self.user_agent_list:
-#             raise NotConfigured(
-#                 'No se encontró la configuración USER_AGENT_LIST en settings.py'
-#             )
-
-#     def process_request(self, request, spider):
-#         # Selecciona un User-Agent aleatorio de la lista
-#         random_user_agent = random.choice(self.user_agent_list)
-        
-#         # Asigna el User-Agent aleatorio al encabezado de la solicitud
-#         request.headers['User-Agent'] = random_user_agent
-        
-#         # Muestra en el log qué User-Agent se está usando (útil para depurar)
-#         spider.logger.debug(f"Usando User-Agent: {random_user_agent}")
-
+     
 class PruebaSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the

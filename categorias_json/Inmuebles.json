@@ -1,0 +1,98 @@
+[
+  {
+    "nombre_categoria_base": "Inmuebles",
+    "url_categoria_base": "http://www.mercadolibre.com.ve/inmuebles/#c_id=/home/categories/category-l1/category-l1&c_category_id=MLV1459&c_uid=a83c9137-9261-11f0-84be-97232cbe52bd",
+    "categorias_1": [
+      {
+        "nombre_categoria_1": "Acción de Club",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/accion-de-club/#CATEGORY_ID=MLV50970&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Anexos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/otro-inmueble/#CATEGORY_ID=MLV1892&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Apartamentos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/apartamentos/#CATEGORY_ID=MLV1472&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Casas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/casas/#CATEGORY_ID=MLV1466&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Edificios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/edificios/#CATEGORY_ID=MLV50957&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Galpones",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/galpones/#CATEGORY_ID=MLV50951&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Habitaciones",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/habitaciones/#CATEGORY_ID=MLV60774&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Haciendas - Fincas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/haciendas-fincas/#CATEGORY_ID=MLV50964&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Hoteles y Resorts",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/hoteles-resorts/#CATEGORY_ID=MLV50960&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Locales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/locales/#CATEGORY_ID=MLV68199&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Negocios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/negocios/#CATEGORY_ID=MLV50529&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Oficinas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/oficinas/#CATEGORY_ID=MLV1487&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Parcelas de Cementerio",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/parcelas-cementerio/#CATEGORY_ID=MLV50968&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Terrenos y Lotes",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/terrenos-lotes/#CATEGORY_ID=MLV1493&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Townhouses",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/townhouses/#CATEGORY_ID=MLV60745&S=hc_inmuebles&c_tracking_id=30ec1680-93f3-11f0-ad42-03a645978865",
+        "categoria_base": "Inmuebles",
+        "categorias_2": []
+      }
+    ]
+  }
+]

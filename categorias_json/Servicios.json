@@ -1,0 +1,1440 @@
+[
+  {
+    "nombre_categoria_base": "Servicios",
+    "url_categoria_base": "https://www.mercadolibre.com.ve/c/servicios#c_id=/home/categories/category-l1/category-l1&c_category_id=MLV1540&c_uid=a83c913f-9261-11f0-84be-97232cbe52bd",
+    "categorias_1": [
+      {
+        "nombre_categoria_1": "Belleza e Higiene Personal",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal/#CATEGORY_ID=MLV9079&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Estética",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-e-higiene-personal-estetica/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117285%26applied_value_name%3DEst%C3%A9tica%26applied_value_order%3D1%26applied_value_results%3D9%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Masajes y Spa",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-masajes-y-spa/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9089%26applied_value_name%3DMasajes+y+Spa%26applied_value_order%3D2%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Peluquería",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-peluqueria/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9088%26applied_value_name%3DPeluquer%C3%ADa%26applied_value_order%3D3%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Tatuajes y Piercing",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-tatuajes-y-piercing/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV92348%26applied_value_name%3DTatuajes+y+Piercing%26applied_value_order%3D4%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9092%26applied_value_name%3DOtros%26applied_value_order%3D5%26applied_value_results%3D12%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D5%26applied_value_results%3D15%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D4%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-en-anzoategui/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-en-aragua/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-en-miranda/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D7%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-en-bolivar/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D3%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-en-lara/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D6%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Portuguesa",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-en-portuguesa/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFBPUmEzNzhm%26applied_value_name%3DPortuguesa%26applied_value_order%3D8%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          },
+          {
+            "nombre_categoria_2": "Yaracuy",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-en-yaracuy/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFlBUnliNjMw%26applied_value_name%3DYaracuy%26applied_value_order%3D9%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Belleza e Higiene Personal"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Cursos y Clases",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/cursos-clases/#CATEGORY_ID=MLV1563&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Académicos",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-academicos/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117322%26applied_value_name%3DAcad%C3%A9micos%26applied_value_order%3D1%26applied_value_results%3D41%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Ocio y Tiempo Libre",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-ocio-tiempo-libre/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117323%26applied_value_name%3DOcio+y+Tiempo+Libre%26applied_value_order%3D2%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/educacion-y-formacion-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV8981%26applied_value_name%3DOtros%26applied_value_order%3D3%26applied_value_results%3D10%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D5%26applied_value_results%3D37%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D4%26applied_value_results%3D7%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-en-anzoategui/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-en-aragua/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Táchira",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-en-tachira/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFRBQ2ExMzRkYQ%26applied_value_name%3DT%C3%A1chira%26applied_value_order%3D8%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-en-miranda/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D6%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Nueva Esparta",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-en-nueva-esparta/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE5VRWExNjg5%26applied_value_name%3DNueva+Esparta%26applied_value_order%3D7%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-en-bolivar/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D3%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          },
+          {
+            "nombre_categoria_2": "Yaracuy",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-en-yaracuy/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFlBUnliNjMw%26applied_value_name%3DYaracuy%26applied_value_order%3D9%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Cursos y Clases"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Fiestas y Eventos",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos/#CATEGORY_ID=MLV8738&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Entretenimiento",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/entretenimiento-fiestas-eventos/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV116730%26applied_value_name%3DEntretenimiento%26applied_value_order%3D6%26applied_value_results%3D48%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Servicios Audiovisuales",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-eventos-audiovisuales/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV116732%26applied_value_name%3DServicios+Audiovisuales%26applied_value_order%3D8%26applied_value_results%3D23%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Alquiler de Equipamiento",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-eventos-alquiler-equipamiento/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV116731%26applied_value_name%3DAlquiler+de+Equipamiento%26applied_value_order%3D2%26applied_value_results%3D26%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Agencias de Festejos",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-eventos-agencias-festejos/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9091%26applied_value_name%3DAgencias+de+Festejos%26applied_value_order%3D1%26applied_value_results%3D35%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Catering y Bebidas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-alimentos-catering/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9114%26applied_value_name%3DCatering+y+Bebidas%26applied_value_order%3D4%26applied_value_results%3D10%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Decoración y Ambientación",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-decoracion/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9093%26applied_value_name%3DDecoraci%C3%B3n+y+Ambientaci%C3%B3n%26applied_value_order%3D5%26applied_value_results%3D10%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Salones y Quintas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/salones-quintas-eventos/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9109%26applied_value_name%3DSalones+y+Quintas%26applied_value_order%3D7%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Carros para Bodas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-eventos-carros-bodas/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV94545%26applied_value_name%3DCarros+para+Bodas%26applied_value_order%3D3%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9101%26applied_value_name%3DOtros%26applied_value_order%3D9%26applied_value_results%3D18%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D6%26applied_value_results%3D116%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D5%26applied_value_results%3D28%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-en-miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D9%26applied_value_results%3D9%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D8%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-en-lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D8%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-en-anzoategui/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-en-bolivar/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D4%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-en-zulia/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D14%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          },
+          {
+            "nombre_categoria_2": "Monagas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-en-monagas/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1PTnNiMjdj%26applied_value_name%3DMonagas%26applied_value_order%3D10%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Fiestas y Eventos"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Gastronomía",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/restaurantes/#CATEGORY_ID=MLV9020&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Restaurantes",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/gastronomia-restaurantes/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117394%26applied_value_name%3DRestaurantes%26applied_value_order%3D2%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Delivery",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/gastronomia-delivery/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV92389%26applied_value_name%3DDelivery%26applied_value_order%3D1%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9033%26applied_value_name%3DOtros%26applied_value_order%3D3%26applied_value_results%3D11%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D5%26applied_value_results%3D8%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-en-aragua/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-en-carabobo/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D3%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-en-lara/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D6%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-en-miranda/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D7%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-en-anzoategui/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Delta Amacuro",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-en-delta-amacuro/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERFTG8xM2FmNA%26applied_value_name%3DDelta+Amacuro%26applied_value_order%3D4%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          },
+          {
+            "nombre_categoria_2": "Sucre",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-en-sucre/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFNVQ2U4ZWQ0%26applied_value_name%3DSucre%26applied_value_order%3D8%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Gastronomía"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Hogar",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/hogar/#CATEGORY_ID=MLV116745&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Mantenimiento",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mantenimiento/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9080%26applied_value_name%3DMantenimiento%26applied_value_order%3D2%26applied_value_results%3D96%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Construcción",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-construccion/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9074%26applied_value_name%3DConstrucci%C3%B3n%26applied_value_order%3D1%26applied_value_results%3D89%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/hogar-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D5%26applied_value_results%3D100%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/hogar-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D4%26applied_value_results%3D26%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/hogar-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D23%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/hogar-en-lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D6%26applied_value_results%3D14%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/hogar-en-miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D7%26applied_value_results%3D12%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/hogar-en-anzoategui/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/hogar-en-zulia/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D9%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Mérida",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/hogar-en-merida/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1FUmFhNDEw%26applied_value_name%3DM%C3%A9rida%26applied_value_order%3D8%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          },
+          {
+            "nombre_categoria_2": "Barinas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/hogar-en-barinas/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJBUnNiNjhh%26applied_value_name%3DBarinas%26applied_value_order%3D3%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Hogar"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Imprenta",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/imprenta/#CATEGORY_ID=MLV56666&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Impresiones Digitales",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-impresiones-digitales/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV93877%26applied_value_name%3DImpresiones+Digitales%26applied_value_order%3D2%26applied_value_results%3D21%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Sublimación y Estampados",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-sublimacion-estampados/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117353%26applied_value_name%3DSublimaci%C3%B3n+y+Estampados%26applied_value_order%3D5%26applied_value_results%3D23%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Impresiones en Gran Formato",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-impresiones-gran-formato/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117344%26applied_value_name%3DImpresiones+en+Gran+Formato%26applied_value_order%3D3%26applied_value_results%3D15%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Sellos",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-sellos/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117352%26applied_value_name%3DSellos%26applied_value_order%3D4%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Impresiones 3D",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-impresiones-3d/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117422%26applied_value_name%3DImpresiones+3D%26applied_value_order%3D1%26applied_value_results%3D8%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV94544%26applied_value_name%3DOtros%26applied_value_order%3D6%26applied_value_results%3D14%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D5%26applied_value_results%3D55%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-en-miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D8%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D4%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-en-lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D7%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-en-anzoategui/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Táchira",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-en-tachira/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFRBQ2ExMzRkYQ%26applied_value_name%3DT%C3%A1chira%26applied_value_order%3D11%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-en-zulia/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D13%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Nueva Esparta",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-en-nueva-esparta/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE5VRWExNjg5%26applied_value_name%3DNueva+Esparta%26applied_value_order%3D9%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          },
+          {
+            "nombre_categoria_2": "Solo tiendas oficiales",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta/_Tienda_all_NoIndex_True#applied_filter_id%3Dofficial_store%26applied_filter_name%3DTiendas+oficiales%26applied_filter_order%3D3%26applied_value_id%3Dall%26applied_value_name%3DSolo+tiendas+oficiales%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Imprenta"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Mantenimiento de Vehículos",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos/#CATEGORY_ID=MLV92403&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Mecánica",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-mecanica/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117295%26applied_value_name%3DMec%C3%A1nica%26applied_value_order%3D5%26applied_value_results%3D86%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Parabrisas y Faros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-parabrisas-faros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117297%26applied_value_name%3DParabrisas+y+Faros%26applied_value_order%3D6%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Latonería, Pintura y Pulitura",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-latoneria-pintura-pulitura/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV112057%26applied_value_name%3DLatoner%C3%ADa%2C+Pintura+y+Pulitura%26applied_value_order%3D3%26applied_value_results%3D7%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Servicios para Motos",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-motos/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117298%26applied_value_name%3DServicios+para+Motos%26applied_value_order%3D7%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Lavado y Limpieza",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-lavado-limpieza/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117299%26applied_value_name%3DLavado+y+Limpieza%26applied_value_order%3D4%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Audio",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-audio/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117300%26applied_value_name%3DAudio%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Instalación de Papel Ahumado",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-instalacion-papel-ahumado/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117296%26applied_value_name%3DInstalaci%C3%B3n+de+Papel+Ahumado%26applied_value_order%3D2%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Sistemas de Seguridad",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-sistemas-seguridad/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117302%26applied_value_name%3DSistemas+de+Seguridad%26applied_value_order%3D8%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/automotriz-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV94549%26applied_value_name%3DOtros%26applied_value_order%3D9%26applied_value_results%3D39%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D6%26applied_value_results%3D71%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D5%26applied_value_results%3D13%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-en-miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D10%26applied_value_results%3D11%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D9%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-en-lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D9%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-en-zulia/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D17%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Mérida",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-en-merida/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1FUmFhNDEw%26applied_value_name%3DM%C3%A9rida%26applied_value_order%3D12%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-en-anzoategui/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-en-bolivar/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D4%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Solo tiendas oficiales",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos/_Tienda_all_NoIndex_True#applied_filter_id%3Dofficial_store%26applied_filter_name%3DTiendas+oficiales%26applied_filter_order%3D3%26applied_value_id%3Dall%26applied_value_name%3DSolo+tiendas+oficiales%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Mantenimiento de Vehículos"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Oficios",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/oficios/#CATEGORY_ID=MLV116749&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Carpintería",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/carpinteria/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9082%26applied_value_name%3DCarpinter%C3%ADa%26applied_value_order%3D2%26applied_value_results%3D10%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Albañilería",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/albanileria/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9099%26applied_value_name%3DAlba%C3%B1iler%C3%ADa%26applied_value_order%3D1%26applied_value_results%3D11%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Plomería",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/plomeria/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9084%26applied_value_name%3DPlomer%C3%ADa%26applied_value_order%3D7%26applied_value_results%3D21%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Herrería",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/herreria/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9111%26applied_value_name%3DHerrer%C3%ADa%26applied_value_order%3D5%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Cerrajería",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/cerrajeria/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9096%26applied_value_name%3DCerrajer%C3%ADa%26applied_value_order%3D3%26applied_value_results%3D8%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Electricidad",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/electricidad/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9118%26applied_value_name%3DElectricidad%26applied_value_order%3D4%26applied_value_results%3D11%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Pintura",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/pintura/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9097%26applied_value_name%3DPintura%26applied_value_order%3D6%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-oficios-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV116752%26applied_value_name%3DOtros%26applied_value_order%3D8%26applied_value_results%3D38%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/oficios-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D3%26applied_value_results%3D73%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/oficios-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D2%26applied_value_results%3D10%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/oficios-en-lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D4%26applied_value_results%3D7%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/oficios-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D1%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/oficios-en-miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D5%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Vargas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/oficios-en-vargas/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFZBUnMxM2E2ZQ%26applied_value_name%3DVargas%26applied_value_order%3D10%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Monagas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/oficios-en-monagas/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1PTnNiMjdj%26applied_value_name%3DMonagas%26applied_value_order%3D6%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Portuguesa",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/oficios-en-portuguesa/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFBPUmEzNzhm%26applied_value_name%3DPortuguesa%26applied_value_order%3D7%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          },
+          {
+            "nombre_categoria_2": "Sucre",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/oficios-en-sucre/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFNVQ2U4ZWQ0%26applied_value_name%3DSucre%26applied_value_order%3D8%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Oficios"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Otros Servicios",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/servicios-otros/#CATEGORY_ID=MLV1898&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Recarga de Saldo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/recarga-de-saldo/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV112056%26applied_value_name%3DRecarga+de+Saldo%26applied_value_order%3D3%26applied_value_results%3D11%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Fabricación de Bolsas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fabricacion-de-bolsas/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV94553%26applied_value_name%3DFabricaci%C3%B3n+de+Bolsas%26applied_value_order%3D1%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Fabricación Parques Infantiles",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/fabricacion-parques-infantiles/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV112051%26applied_value_name%3DFabricaci%C3%B3n+Parques+Infantiles%26applied_value_order%3D2%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/otros-servicios/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9016%26applied_value_name%3DOtros%26applied_value_order%3D4%26applied_value_results%3D410%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D8%26applied_value_results%3D190%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D6%26applied_value_results%3D68%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros-en-miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D12%26applied_value_results%3D41%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D3%26applied_value_results%3D29%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros-en-lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D11%26applied_value_results%3D19%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros-en-anzoategui/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D17%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros-en-zulia/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D22%26applied_value_results%3D17%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros-en-bolivar/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D5%26applied_value_results%3D10%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Táchira",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros-en-tachira/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFRBQ2ExMzRkYQ%26applied_value_name%3DT%C3%A1chira%26applied_value_order%3D19%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          },
+          {
+            "nombre_categoria_2": "Solo tiendas oficiales",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-otros/_Tienda_all_NoIndex_True#applied_filter_id%3Dofficial_store%26applied_filter_name%3DTiendas+oficiales%26applied_filter_order%3D3%26applied_value_id%3Dall%26applied_value_name%3DSolo+tiendas+oficiales%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Otros Servicios"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Profesionales",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/profesionales/#CATEGORY_ID=MLV1541&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Informática",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-informatica/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV1545%26applied_value_name%3DInform%C3%A1tica%26applied_value_order%3D5%26applied_value_results%3D39%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Consultoría y Asesoría",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-consultoria-y-asesoria/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV1544%26applied_value_name%3DConsultor%C3%ADa+y+Asesor%C3%ADa%26applied_value_order%3D2%26applied_value_results%3D37%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Contadores y Auditorías",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-contadores-auditorias/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV1547%26applied_value_name%3DContadores+y+Auditor%C3%ADas%26applied_value_order%3D3%26applied_value_results%3D21%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Abogados y Bufetes",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-abogados-bufetes/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV1546%26applied_value_name%3DAbogados+y+Bufetes%26applied_value_order%3D1%26applied_value_results%3D25%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Traductores",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-traductores/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9018%26applied_value_name%3DTraductores%26applied_value_order%3D7%26applied_value_results%3D14%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Diseñadores Gráficos",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-disenadores-graficos/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9098%26applied_value_name%3DDise%C3%B1adores+Gr%C3%A1ficos%26applied_value_order%3D4%26applied_value_results%3D18%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Marketing",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-marketing/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117412%26applied_value_name%3DMarketing%26applied_value_order%3D6%26applied_value_results%3D17%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Trámites para Empresas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-tramites-empresas/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV8983%26applied_value_name%3DTr%C3%A1mites+para+Empresas%26applied_value_order%3D8%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV1894%26applied_value_name%3DOtros%26applied_value_order%3D9%26applied_value_results%3D60%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D7%26applied_value_results%3D159%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D5%26applied_value_results%3D20%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-en-miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D10%26applied_value_results%3D15%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-en-anzoategui/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D7%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D3%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Mérida",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-en-merida/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1FUmFhNDEw%26applied_value_name%3DM%C3%A9rida%26applied_value_order%3D12%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-en-lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D9%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-en-bolivar/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D4%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          },
+          {
+            "nombre_categoria_2": "Vargas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-en-vargas/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFZBUnMxM2E2ZQ%26applied_value_name%3DVargas%26applied_value_order%3D17%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Profesionales Médicos",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/profesionales-medicos/#CATEGORY_ID=MLV9056&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Profesionales",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/medicina-salud-profesionales/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117313%26applied_value_name%3DProfesionales%26applied_value_order%3D2%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Medicina Ocupacional",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/medicina-salud-ocupacional/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117312%26applied_value_name%3DMedicina+Ocupacional%26applied_value_order%3D1%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Servicios de Ambulancia",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/medicina-salud-ambulancia/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117310%26applied_value_name%3DServicios+de+Ambulancia%26applied_value_order%3D3%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-medicos-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9061%26applied_value_name%3DOtros%26applied_value_order%3D4%26applied_value_results%3D12%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-medicos-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D3%26applied_value_results%3D14%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Monagas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-medicos-en-monagas/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1PTnNiMjdj%26applied_value_name%3DMonagas%26applied_value_order%3D5%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-medicos-en-bolivar/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D1%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-medicos-en-carabobo/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D2%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Guárico",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-medicos-en-guarico/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEdVQW8yZmNh%26applied_value_name%3DGu%C3%A1rico%26applied_value_order%3D4%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Sucre",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-medicos-en-sucre/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFNVQ2U4ZWQ0%26applied_value_name%3DSucre%26applied_value_order%3D6%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          },
+          {
+            "nombre_categoria_2": "Trujillo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-medicos-en-trujillo/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFRSVW81Y2Y5%26applied_value_name%3DTrujillo%26applied_value_order%3D7%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Profesionales Médicos"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Reparaciones e Instalaciones",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones/#CATEGORY_ID=MLV9004&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Hogar y Oficina",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-e-instalaciones-hogar-oficina/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117400%26applied_value_name%3DHogar+y+Oficina%26applied_value_order%3D3%26applied_value_results%3D211%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Tecnología",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-e-instalaciones-tecnologia/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117401%26applied_value_name%3DTecnolog%C3%ADa%26applied_value_order%3D4%26applied_value_results%3D103%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Equipos Industriales",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/equipos-industriales/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV93613%26applied_value_name%3DEquipos+Industriales%26applied_value_order%3D1%26applied_value_results%3D98%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Equipos Médicos",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/equipos-medicos/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV93610%26applied_value_name%3DEquipos+M%C3%A9dicos%26applied_value_order%3D2%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9019%26applied_value_name%3DOtros%26applied_value_order%3D5%26applied_value_results%3D111%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D7%26applied_value_results%3D355%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D5%26applied_value_results%3D52%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-en-miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D10%26applied_value_results%3D27%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D26%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-en-zulia/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D19%26applied_value_results%3D14%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-en-anzoategui/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D9%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-en-bolivar/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D4%26applied_value_results%3D9%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-en-lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D9%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          },
+          {
+            "nombre_categoria_2": "Táchira",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-en-tachira/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFRBQ2ExMzRkYQ%26applied_value_name%3DT%C3%A1chira%26applied_value_order%3D16%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Reparaciones e Instalaciones"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Ropa y Moda",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/ropa-moda/#CATEGORY_ID=MLV91068&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Confección de Uniformes",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/confeccion-de-uniformes/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV112059%26applied_value_name%3DConfecci%C3%B3n+de+Uniformes%26applied_value_order%3D2%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Ropa y Moda"
+          },
+          {
+            "nombre_categoria_2": "Bordados",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-bordados/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV112061%26applied_value_name%3DBordados%26applied_value_order%3D1%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Ropa y Moda"
+          },
+          {
+            "nombre_categoria_2": "Corte y Costura",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-corte-costura/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117341%26applied_value_name%3DCorte+y+Costura%26applied_value_order%3D3%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Ropa y Moda"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/indumentaria-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV112055%26applied_value_name%3DOtros%26applied_value_order%3D4%26applied_value_results%3D7%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Ropa y Moda"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D2%26applied_value_results%3D16%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Ropa y Moda"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-en-miranda/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D4%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Ropa y Moda"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-en-anzoategui/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Ropa y Moda"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-en-lara/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D3%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Ropa y Moda"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Servicios para Mascotas",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/servicios-mascotas/#CATEGORY_ID=MLV9116&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Adiestramiento y Recreación",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-adiestramiento-recreacion/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117355%26applied_value_name%3DAdiestramiento+y+Recreaci%C3%B3n%26applied_value_order%3D1%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Monta",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-monta/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117354%26applied_value_name%3DMonta%26applied_value_order%3D3%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Cuidado e Higiene",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-cuidado-e-higiene/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117356%26applied_value_name%3DCuidado+e+Higiene%26applied_value_order%3D2%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117357%26applied_value_name%3DOtros%26applied_value_order%3D4%26applied_value_results%3D15%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D3%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D1%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-en-miranda/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D6%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-en-lara/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D5%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Táchira",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-en-tachira/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFRBQ2ExMzRkYQ%26applied_value_name%3DT%C3%A1chira%26applied_value_order%3D8%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-en-zulia/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D10%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Nueva Esparta",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-en-nueva-esparta/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE5VRWExNjg5%26applied_value_name%3DNueva+Esparta%26applied_value_order%3D7%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-en-carabobo/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D2%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          },
+          {
+            "nombre_categoria_2": "Guárico",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-en-guarico/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEdVQW8yZmNh%26applied_value_name%3DGu%C3%A1rico%26applied_value_order%3D4%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Servicios para Mascotas"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Transporte",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/transporte/#CATEGORY_ID=MLV9038&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Mudanzas y Fletes",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/traslados-y-envios-mudanzas-fletes/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV9015%26applied_value_name%3DMudanzas+y+Fletes%26applied_value_order%3D3%26applied_value_results%3D65%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Traslados Ejecutivos",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-traslados-ejecutivos/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV8986%26applied_value_name%3DTraslados+Ejecutivos%26applied_value_order%3D5%26applied_value_results%3D12%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Grúas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/traslados-y-envios-gruas/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV92402%26applied_value_name%3DGr%C3%BAas%26applied_value_order%3D2%26applied_value_results%3D28%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Encomiendas y Mensajerías",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-encomiendas-mensajerias/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117336%26applied_value_name%3DEncomiendas+y+Mensajer%C3%ADas%26applied_value_order%3D1%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Taxis",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-taxis/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117339%26applied_value_name%3DTaxis%26applied_value_order%3D4%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/traslados-y-envios-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV8987%26applied_value_name%3DOtros%26applied_value_order%3D6%26applied_value_results%3D28%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-en-distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D5%26applied_value_results%3D87%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-en-carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D4%26applied_value_results%3D10%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-en-lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D7%26applied_value_results%3D7%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-en-miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D8%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-en-aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-en-zulia/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D15%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-en-anzoategui/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-en-bolivar/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D3%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          },
+          {
+            "nombre_categoria_2": "Nueva Esparta",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-en-nueva-esparta/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE5VRWExNjg5%26applied_value_name%3DNueva+Esparta%26applied_value_order%3D10%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Transporte"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Viajes y Turismo",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/viajes-y-turismo/#CATEGORY_ID=MLV1229&S=hc_servicios&c_tracking_id=2eaa8af0-93f3-11f0-bb83-5d4ce329f607",
+        "categoria_base": "Servicios",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Full Day",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-turismo-full-day/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV117393%26applied_value_name%3DFull+Day%26applied_value_order%3D2%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Viajes y Turismo"
+          },
+          {
+            "nombre_categoria_2": "Excursiones Turísticas",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-turismo-excursiones-turisticas/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV6311%26applied_value_name%3DExcursiones+Tur%C3%ADsticas%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Viajes y Turismo"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-y-turismo-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D1%26applied_value_id%3DMLV1245%26applied_value_name%3DOtros%26applied_value_order%3D3%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Viajes y Turismo"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-y-turismo-en-anzoategui/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Viajes y Turismo"
+          },
+          {
+            "nombre_categoria_2": "Falcón",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-y-turismo-en-falcon/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEZBTG5hNTRk%26applied_value_name%3DFalc%C3%B3n%26applied_value_order%3D4%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Viajes y Turismo"
+          },
+          {
+            "nombre_categoria_2": "Nueva Esparta",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-y-turismo-en-nueva-esparta/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE5VRWExNjg5%26applied_value_name%3DNueva+Esparta%26applied_value_order%3D6%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Viajes y Turismo"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-y-turismo-en-aragua/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Viajes y Turismo"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-y-turismo-en-bolivar/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D3%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Viajes y Turismo"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-y-turismo-en-lara/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D5%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Servicios",
+            "categoria_1": "Viajes y Turismo"
+          }
+        ]
+      }
+    ]
+  }
+]

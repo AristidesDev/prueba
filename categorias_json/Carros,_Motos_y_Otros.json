@@ -1,0 +1,600 @@
+[
+  {
+    "nombre_categoria_base": "Carros, Motos y Otros",
+    "url_categoria_base": "http://www.mercadolibre.com.ve/vehiculos/#c_id=/home/categories/category-l1/category-l1&c_category_id=MLV1743&c_uid=a83c6a28-9261-11f0-84be-97232cbe52bd",
+    "categorias_1": [
+      {
+        "nombre_categoria_1": "Carros y Camionetas",
+        "url_categoria_1": "https://carros.mercadolibre.com.ve/#CATEGORY_ID=MLV1744&S=hc_carros-motos-y-otros&c_tracking_id=2667acb0-93f3-11f0-8762-f1c302740e76",
+        "categoria_base": "Carros, Motos y Otros",
+        "categorias_2": []
+      },
+      {
+        "nombre_categoria_1": "Maquinaria Pesada",
+        "url_categoria_1": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/#CATEGORY_ID=MLV405183&S=hc_carros-motos-y-otros&c_tracking_id=2667acb0-93f3-11f0-8762-f1c302740e76",
+        "categoria_base": "Carros, Motos y Otros",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/bolivar/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D1%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D4%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Falcón",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/falcon/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D1%26applied_value_id%3DTUxWUEZBTG5hNTRk%26applied_value_name%3DFalc%C3%B3n%26applied_value_order%3D7%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Yaracuy",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/yaracuy/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D1%26applied_value_id%3DTUxWUFlBUnliNjMw%26applied_value_name%3DYaracuy%26applied_value_order%3D12%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D1%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D5%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D1%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D6%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Mérida",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/merida/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D1%26applied_value_id%3DTUxWUE1FUmFhNDEw%26applied_value_name%3DM%C3%A9rida%26applied_value_order%3D10%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/miranda/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D1%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D9%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/anzoategui/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D1%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Apure",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/apure/_NoIndex_True#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D1%26applied_value_id%3DTUxWUEFQVWUxM2U3OQ%26applied_value_name%3DApure%26applied_value_order%3D2%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Minicargadoras",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada-minicargadoras/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV455844%26applied_value_name%3DMinicargadoras%26applied_value_order%3D1%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Otras Maquinarias",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada-otras-maquinarias/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV405186%26applied_value_name%3DOtras+Maquinarias%26applied_value_order%3D2%26applied_value_results%3D22%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Hasta US$ 2.400",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/_PriceRange_0USD-2400USD",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "US$ 2.400 a US$ 21.000",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/_PriceRange_2400USD-21000USD",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Más de US$ 21.000",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/_PriceRange_21000USD-0USD",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Dueño directo",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/dueno-directo/#applied_filter_id%3Dseller_type%26applied_filter_name%3DPublica%26applied_filter_order%3D4%26applied_value_id%3Dprivate_seller%26applied_value_name%3DDue%C3%B1o+directo%26applied_value_order%3D2%26applied_value_results%3D22%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Automotora",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/concesionaria/#applied_filter_id%3Dseller_type%26applied_filter_name%3DPublica%26applied_filter_order%3D4%26applied_value_id%3Dcar_dealer%26applied_value_name%3DAutomotora%26applied_value_order%3D1%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Nuevo",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/_ITEM*CONDITION_2230284#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D5%26applied_value_id%3D2230284%26applied_value_name%3DNuevo%26applied_value_order%3D1%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          },
+          {
+            "nombre_categoria_2": "Usado",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/_ITEM*CONDITION_2230581#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D5%26applied_value_id%3D2230581%26applied_value_name%3DUsado%26applied_value_order%3D2%26applied_value_results%3D23%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Maquinaria Pesada"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Motos",
+        "url_categoria_1": "https://motos.mercadolibre.com.ve/#CATEGORY_ID=MLV1763&S=hc_carros-motos-y-otros&c_tracking_id=2667acb0-93f3-11f0-8762-f1c302740e76",
+        "categoria_base": "Carros, Motos y Otros",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Motos y Scooters Eléctricos",
+            "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-vehiculos/motos/motos-scooters-electricos/",
+            "categoria_base": "Accesorios para Vehículos",
+            "categoria_1": "Motos"
+          },
+          {
+            "nombre_categoria_2": "Motos y Scooters a Combustión",
+            "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-vehiculos/motos-scooters-electricos/",
+            "categoria_base": "Accesorios para Vehículos",
+            "categoria_1": "Motos"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-vehiculos/motos/otros/",
+            "categoria_base": "Accesorios para Vehículos",
+            "categoria_1": "Motos"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Náutica",
+        "url_categoria_1": "https://vehiculos.mercadolibre.com.ve/nautica/#CATEGORY_ID=MLV6112&S=hc_carros-motos-y-otros&c_tracking_id=2667acb0-93f3-11f0-8762-f1c302740e76",
+        "categoria_base": "Carros, Motos y Otros",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Solo tiendas oficiales",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/_Tienda_all#applied_filter_id%3Dofficial_store%26applied_filter_name%3DTiendas+oficiales%26applied_filter_order%3D2%26applied_value_id%3Dall%26applied_value_name%3DSolo+tiendas+oficiales%26applied_value_order%3D1%26applied_value_results%3D768%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Falcón",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/falcon/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D3%26applied_value_id%3DTUxWUEZBTG5hNTRk%26applied_value_name%3DFalc%C3%B3n%26applied_value_order%3D7%26applied_value_results%3D220%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/anzoategui/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D3%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D169%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D3%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D10%26applied_value_results%3D136%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Vargas",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/vargas/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D3%26applied_value_id%3DTUxWUFZBUnMxM2E2ZQ%26applied_value_name%3DVargas%26applied_value_order%3D13%26applied_value_results%3D46%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D3%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D4%26applied_value_results%3D37%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D3%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D6%26applied_value_results%3D28%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/zulia/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D3%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D14%26applied_value_results%3D12%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Nueva Esparta",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/nueva-esparta/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D3%26applied_value_id%3DTUxWUE5VRWExNjg5%26applied_value_name%3DNueva+Esparta%26applied_value_order%3D11%26applied_value_results%3D8%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/bolivar/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D3%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D3%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Botes y Canoas",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-botes-y-canoas/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D4%26applied_value_id%3DMLV44042%26applied_value_name%3DBotes+y+Canoas%26applied_value_order%3D1%26applied_value_results%3D17%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Motos de Agua",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-motos-agua/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D4%26applied_value_id%3DMLV44039%26applied_value_name%3DMotos+de+Agua%26applied_value_order%3D2%26applied_value_results%3D26%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Peñeros",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-peneros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D4%26applied_value_id%3DMLV44041%26applied_value_name%3DPe%C3%B1eros%26applied_value_order%3D3%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Puestos en Marinas",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-puestos-marinas/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D4%26applied_value_id%3DMLV60750%26applied_value_name%3DPuestos+en+Marinas%26applied_value_order%3D4%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-otros/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D4%26applied_value_id%3DMLV44037%26applied_value_name%3DOtros%26applied_value_order%3D5%26applied_value_results%3D743%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Gasolina",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/_FUEL*TYPE_64364#applied_filter_id%3DFUEL_TYPE%26applied_filter_name%3DTipo+de+combustible%26applied_filter_order%3D5%26applied_value_id%3D64364%26applied_value_name%3DGasolina%26applied_value_order%3D2%26applied_value_results%3D454%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Diésel",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/_FUEL*TYPE_60406#applied_filter_id%3DFUEL_TYPE%26applied_filter_name%3DTipo+de+combustible%26applied_filter_order%3D5%26applied_value_id%3D60406%26applied_value_name%3DDi%C3%A9sel%26applied_value_order%3D1%26applied_value_results%3D250%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "2025",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/2025/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D6%26applied_value_id%3D%5B2025-2025%5D%26applied_value_name%3D2025%26applied_value_order%3D1%26applied_value_results%3D12%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "2024",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/2024/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D6%26applied_value_id%3D%5B2024-2024%5D%26applied_value_name%3D2024%26applied_value_order%3D2%26applied_value_results%3D12%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "2023",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/2023/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D6%26applied_value_id%3D%5B2023-2023%5D%26applied_value_name%3D2023%26applied_value_order%3D3%26applied_value_results%3D26%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "2022",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/2022/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D6%26applied_value_id%3D%5B2022-2022%5D%26applied_value_name%3D2022%26applied_value_order%3D4%26applied_value_results%3D15%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "2021",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/2021/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D6%26applied_value_id%3D%5B2021-2021%5D%26applied_value_name%3D2021%26applied_value_order%3D5%26applied_value_results%3D9%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "2020",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/2020/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D6%26applied_value_id%3D%5B2020-2020%5D%26applied_value_name%3D2020%26applied_value_order%3D6%26applied_value_results%3D10%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "2019",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/2019/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D6%26applied_value_id%3D%5B2019-2019%5D%26applied_value_name%3D2019%26applied_value_order%3D7%26applied_value_results%3D11%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "2018",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/2018/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D6%26applied_value_id%3D%5B2018-2018%5D%26applied_value_name%3D2018%26applied_value_order%3D8%26applied_value_results%3D11%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "2017",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/2017/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D6%26applied_value_id%3D%5B2017-2017%5D%26applied_value_name%3D2017%26applied_value_order%3D9%26applied_value_results%3D15%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Hasta US$ 18.000",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/_PriceRange_0USD-18000USD",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "US$ 18.000 a US$ 61.000",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/_PriceRange_18000USD-61000USD",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Más de US$ 61.000",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/_PriceRange_61000USD-0USD",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Automotora",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/concesionaria/#applied_filter_id%3Dseller_type%26applied_filter_name%3DPublica%26applied_filter_order%3D8%26applied_value_id%3Dcar_dealer%26applied_value_name%3DAutomotora%26applied_value_order%3D1%26applied_value_results%3D769%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Dueño directo",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/dueno-directo/#applied_filter_id%3Dseller_type%26applied_filter_name%3DPublica%26applied_filter_order%3D8%26applied_value_id%3Dprivate_seller%26applied_value_name%3DDue%C3%B1o+directo%26applied_value_order%3D2%26applied_value_results%3D23%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Nuevo",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/_ITEM*CONDITION_2230284#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D9%26applied_value_id%3D2230284%26applied_value_name%3DNuevo%26applied_value_order%3D1%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Usado",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/_ITEM*CONDITION_2230581#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D9%26applied_value_id%3D2230581%26applied_value_name%3DUsado%26applied_value_order%3D2%26applied_value_results%3D787%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          },
+          {
+            "nombre_categoria_2": "Publicados hoy",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica/_PublishedToday_YES#applied_filter_id%3Dsince%26applied_filter_name%3DPublicados+hoy%26applied_filter_order%3D1%26applied_value_id%3Dtoday%26applied_value_name%3DPublicados+hoy%26applied_value_order%3D1%26applied_value_results%3D11%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Náutica"
+          }
+        ]
+      },
+      {
+        "nombre_categoria_1": "Otros Vehículos",
+        "url_categoria_1": "https://vehiculos.mercadolibre.com.ve/otros/#CATEGORY_ID=MLV1907&S=hc_carros-motos-y-otros&c_tracking_id=2667acb0-93f3-11f0-8762-f1c302740e76",
+        "categoria_base": "Carros, Motos y Otros",
+        "categorias_2": [
+          {
+            "nombre_categoria_2": "Solo tiendas oficiales",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_Tienda_all#applied_filter_id%3Dofficial_store%26applied_filter_name%3DTiendas+oficiales%26applied_filter_order%3D1%26applied_value_id%3Dall%26applied_value_name%3DSolo+tiendas+oficiales%26applied_value_order%3D1%26applied_value_results%3D5%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Distrito Capital",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/distrito-capital/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUERJU2wxMzkxMA%26applied_value_name%3DDistrito+Capital%26applied_value_order%3D6%26applied_value_results%3D47%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Carabobo",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/carabobo/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUENBUm9kMDg3%26applied_value_name%3DCarabobo%26applied_value_order%3D5%26applied_value_results%3D34%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Aragua",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/aragua/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFSQWExMGMyMw%26applied_value_name%3DAragua%26applied_value_order%3D2%26applied_value_results%3D23%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Miranda",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/miranda/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUE1JUmE0ZDAw%26applied_value_name%3DMiranda%26applied_value_order%3D10%26applied_value_results%3D19%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Bolívar",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/bolivar/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEJPTHJkMjM5%26applied_value_name%3DBol%C3%ADvar%26applied_value_order%3D4%26applied_value_results%3D11%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Zulia",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/zulia/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFpVTGEyNTY5%26applied_value_name%3DZulia%26applied_value_order%3D17%26applied_value_results%3D10%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Lara",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/lara/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUExBUmFlZTI0%26applied_value_name%3DLara%26applied_value_order%3D9%26applied_value_results%3D7%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Yaracuy",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/yaracuy/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUFlBUnliNjMw%26applied_value_name%3DYaracuy%26applied_value_order%3D16%26applied_value_results%3D7%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Anzoátegui",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/anzoategui/#applied_filter_id%3Dstate%26applied_filter_name%3DUbicaci%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3DTUxWUEFOWmkxNDJmNQ%26applied_value_name%3DAnzo%C3%A1tegui%26applied_value_order%3D1%26applied_value_results%3D6%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Camiones",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/camiones/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLV41696%26applied_value_name%3DCamiones%26applied_value_order%3D2%26applied_value_results%3D138%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Carros de Colección",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/carros-de-coleccion/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLV53286%26applied_value_name%3DCarros+de+Colecci%C3%B3n%26applied_value_order%3D3%26applied_value_results%3D15%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Autobuses",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/autobuses/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLV9374%26applied_value_name%3DAutobuses%26applied_value_order%3D1%26applied_value_results%3D14%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Chocados",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/chocados/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLV53276%26applied_value_name%3DChocados%26applied_value_order%3D4%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Maquinaria Pesada",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/maquinaria-pesada/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLV41706%26applied_value_name%3DMaquinaria+Pesada%26applied_value_order%3D6%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Gruas",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/gruas/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLV52943%26applied_value_name%3DGruas%26applied_value_order%3D5%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Otros",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/otros-vehiculos/#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLV4096%26applied_value_name%3DOtros%26applied_value_order%3D7%26applied_value_results%3D9%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "2025",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/2025/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D4%26applied_value_id%3D%5B2025-2025%5D%26applied_value_name%3D2025%26applied_value_order%3D1%26applied_value_results%3D34%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "2024",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/2024/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D4%26applied_value_id%3D%5B2024-2024%5D%26applied_value_name%3D2024%26applied_value_order%3D2%26applied_value_results%3D7%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "2023",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/2023/_NoIndex_True#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D4%26applied_value_id%3D%5B2023-2023%5D%26applied_value_name%3D2023%26applied_value_order%3D3%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "2021",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/2021/_NoIndex_True#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D4%26applied_value_id%3D%5B2021-2021%5D%26applied_value_name%3D2021%26applied_value_order%3D4%26applied_value_results%3D2%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "2020",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/2020/_NoIndex_True#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D4%26applied_value_id%3D%5B2020-2020%5D%26applied_value_name%3D2020%26applied_value_order%3D5%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "2017",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/2017/_NoIndex_True#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D4%26applied_value_id%3D%5B2017-2017%5D%26applied_value_name%3D2017%26applied_value_order%3D6%26applied_value_results%3D1%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "2015",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/2015/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D4%26applied_value_id%3D%5B2015-2015%5D%26applied_value_name%3D2015%26applied_value_order%3D7%26applied_value_results%3D3%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "2014",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/2014/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D4%26applied_value_id%3D%5B2014-2014%5D%26applied_value_name%3D2014%26applied_value_order%3D8%26applied_value_results%3D4%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "2013",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/2013/#applied_filter_id%3DVEHICLE_YEAR%26applied_filter_name%3DA%C3%B1o%26applied_filter_order%3D4%26applied_value_id%3D%5B2013-2013%5D%26applied_value_name%3D2013%26applied_value_order%3D9%26applied_value_results%3D12%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Hasta US$ 12.000",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_PriceRange_0USD-12000USD",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "US$ 12.000 a US$ 30.000",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_PriceRange_12000USD-30000USD",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Más de US$ 30.000",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_PriceRange_30000USD-0USD",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Dueño directo",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/dueno-directo/#applied_filter_id%3Dseller_type%26applied_filter_name%3DPublica%26applied_filter_order%3D6%26applied_value_id%3Dprivate_seller%26applied_value_name%3DDue%C3%B1o+directo%26applied_value_order%3D2%26applied_value_results%3D106%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Automotora",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/concesionaria/#applied_filter_id%3Dseller_type%26applied_filter_name%3DPublica%26applied_filter_order%3D6%26applied_value_id%3Dcar_dealer%26applied_value_name%3DAutomotora%26applied_value_order%3D1%26applied_value_results%3D76%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Nuevo",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_ITEM*CONDITION_2230284#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D7%26applied_value_id%3D2230284%26applied_value_name%3DNuevo%26applied_value_order%3D1%26applied_value_results%3D44%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "Usado",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_ITEM*CONDITION_2230581#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D7%26applied_value_id%3D2230581%26applied_value_name%3DUsado%26applied_value_order%3D2%26applied_value_results%3D138%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "0 km",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_KILOMETERS_0km-0km#applied_filter_id%3DKILOMETERS%26applied_filter_name%3DKil%C3%B3metros%26applied_filter_order%3D8%26applied_value_id%3D%5B0km-0km%5D%26applied_value_name%3D0+km%26applied_value_order%3D2%26applied_value_results%3D43%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "0 a 10.000 km",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_KILOMETERS_0.001km-10000km#applied_filter_id%3DKILOMETERS%26applied_filter_name%3DKil%C3%B3metros%26applied_filter_order%3D8%26applied_value_id%3D%5B0.001km-10000km%5D%26applied_value_name%3D0+a+10.000+km%26applied_value_order%3D1%26applied_value_results%3D15%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "10.000 a 55.000 km",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_KILOMETERS_10000km-55000km#applied_filter_id%3DKILOMETERS%26applied_filter_name%3DKil%C3%B3metros%26applied_filter_order%3D8%26applied_value_id%3D%5B10000km-55000km%5D%26applied_value_name%3D10.000+a+55.000+km%26applied_value_order%3D3%26applied_value_results%3D16%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "55.000 a 100.000 km",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_KILOMETERS_55000km-100000km#applied_filter_id%3DKILOMETERS%26applied_filter_name%3DKil%C3%B3metros%26applied_filter_order%3D8%26applied_value_id%3D%5B55000km-100000km%5D%26applied_value_name%3D55.000+a+100.000+km%26applied_value_order%3D5%26applied_value_results%3D15%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          },
+          {
+            "nombre_categoria_2": "100.000 km o más",
+            "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/_KILOMETERS_100000km-*#applied_filter_id%3DKILOMETERS%26applied_filter_name%3DKil%C3%B3metros%26applied_filter_order%3D8%26applied_value_id%3D%5B100000km-*%29%26applied_value_name%3D100.000+km+o+m%C3%A1s%26applied_value_order%3D4%26applied_value_results%3D77%26is_custom%3Dfalse",
+            "categoria_base": "Carros, Motos y Otros",
+            "categoria_1": "Otros Vehículos"
+          }
+        ]
+      }
+    ]
+  }
+]

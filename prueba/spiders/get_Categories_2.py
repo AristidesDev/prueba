@@ -8,7 +8,7 @@ class MercadolibreCategorias1Spider(scrapy.Spider):
     # start_urls = ["https://listado.mercadolibre.com.ve/bebidas/#CATEGORY_ID=MLV178700&S=hc_alimentos-y-bebidas&c_tracking_id=0f111880-93f3-11f0-ae82-3db4a47c6659"] # URL de la página de categorías
     
     def start_requests(self):
-        with open('c:/Users/Impresos Salcedo/Desktop/python/ML/Scrapy/Learning/test/prueba/categorias_1.json', encoding='utf-8') as f:
+        with open('c:/Users/Impresos Salcedo/Desktop/python/ML/Scrapy/Learning/test/prueba/Categorias_1.json', encoding='utf-8') as f:
             categorias = json.load(f)
         for categoria in categorias:
             url = categoria.get('url_categoria_1')

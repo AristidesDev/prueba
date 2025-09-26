@@ -23,7 +23,7 @@ ADDONS = {}
 USER_AGENT = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0',
+    # 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0',
 ]
 
 # Obey robots.txt rules
@@ -32,13 +32,12 @@ ROBOTSTXT_OBEY = False
 # Concurrency and throttling settings
 CONCURRENT_REQUESTS = 4
 CONCURRENT_REQUESTS_PER_DOMAIN = 2
-CONCURRENT_REQUESTS_PER_IP = 0
 DOWNLOAD_DELAY = 4 # 1.5 seconds of delay
 RANDOMIZE_DOWNLOAD_DELAY = True
 
 
 # RediRECT settings
-REDIRECT_ENABLED = False
+# REDIRECT_ENABLED = False
 
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
@@ -51,24 +50,6 @@ REDIRECT_ENABLED = False
 #    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 #    "Accept-Language": "en",
 #}
-
-
-# # 1. Deshabilitar el middleware de User-Agent predeterminado de Scrapy
-# DOWNLOADER_MIDDLEWARES = {
-#     'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
-#     # 2. Habilitar tu middleware personalizado. 
-#     # El número (500) es la prioridad; un valor más bajo se ejecuta antes.
-#     'prueba.middlewares.RandomUserAgentMiddleware': 400,
-# }
-# # 3. Definir una lista de User-Agents en la configuración
-# USER_AGENT_LIST = [
-#     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
-#     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15',
-#     'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0',
-# ]
-
-
-
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
