@@ -5,8 +5,8 @@
 
 import scrapy
 
-
-class PruebaItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class CategoryItem(scrapy.Item):
+    # Define los campos para tu item
+    nombre = scrapy.Field()
+    url = scrapy.Field()
+    jerarquia = scrapy.Field() # Ej: ["Accesorios para Vehículos", "Audio para Vehículos", "Antenas"]
