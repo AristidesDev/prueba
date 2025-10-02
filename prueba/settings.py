@@ -32,7 +32,7 @@ ROBOTSTXT_OBEY = False
 # Concurrency and throttling settings
 CONCURRENT_REQUESTS = 4
 CONCURRENT_REQUESTS_PER_DOMAIN = 2
-DOWNLOAD_DELAY = 3.5 # 1.5 seconds of delay
+DOWNLOAD_DELAY = 4 # 1.5 seconds of delay
 RANDOMIZE_DOWNLOAD_DELAY = True
 
 

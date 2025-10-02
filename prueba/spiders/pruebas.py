@@ -1,11 +1,11 @@
-# prueba/spiders/category_tree_spider.py
+# prueba/spiders/pruebas.py
 
 import scrapy
 from prueba.items import CategoryItem
 
 class CategoryTreeSpider(scrapy.Spider):
-    name = "category_tree_1"
-    # Hemos ampliado los dominios permitidos para incluir los subdominios que usa ML
+    name = "catego"
+    
     allowed_domains = [
         "www.mercadolibre.com.ve",
         "listado.mercadolibre.com.ve",
@@ -19,18 +19,23 @@ class CategoryTreeSpider(scrapy.Spider):
 
     def parse(self, response):
         """
-        Punto de entrada. Extrae las categorías base (Nivel 0, Ej: "Accesorios para Vehículos").
+        Punto de entrada. Extrae las categorías base (Nivel 0).
         """
         self.logger.info('Parseando la página principal de categorías...')
         
-        # Iteramos sobre cada bloque de categoría principal
         for category_container in response.xpath('//div[contains(@class, "categories__container")]'):
-            name = category_container.xpath('.//h2[contains(@class, "categories__title")]/a/text()').get()
-            url = category_container.xpath('.//h2[contains(@class, "categories__title")]/a/@href').get()
+            # name = category_container.xpath('.//h2[contains(@class, "categories__title")]/a/text()').get()
+            # url = category_container.xpath('.//h2[contains(@class, "categories__title")]/a/@href').get()
             
+            # testiar una categoria
+            #-------------------------------------------
+            name = category_container.xpath('.//h2[contains(@class, "categories__title")]/a[contains(text(), "Antigüedades y Colecciones")]/text()').get()
+            url = category_container.xpath('.//h2[contains(@class, "categories__title")]/a[contains(text(), "Antigüedades y Colecciones")]/@href').get()
+            # ------------------------------------------
+            #Fin testiar una categoria
+
             if name and url:
                 nombre_limpio = name.strip()
-                # La jerarquía inicial solo contiene el nombre de la categoría base
                 jerarquia = [nombre_limpio]
                 
                 item = CategoryItem()
@@ -39,7 +44,6 @@ class CategoryTreeSpider(scrapy.Spider):
                 item['jerarquia'] = jerarquia
                 yield item
 
-                # Pasamos la jerarquía inicial a la siguiente función de parseo
                 yield scrapy.Request(
                     url=response.urljoin(url),
                     callback=self.parse_level_1,
@@ -48,21 +52,24 @@ class CategoryTreeSpider(scrapy.Spider):
 
     def parse_level_1(self, response):
         """
-        Extrae las categorías de Nivel 1 (Ej: "Audio para Vehículos") que se muestran como tarjetas.
+        Extrae las categorías de Nivel 1 (las que están en los H3 de las tarjetas).
         """
         jerarquia_actual = response.meta['jerarquia']
         self.logger.info(f'Parseando Nivel 1 para: {" > ".join(jerarquia_actual)}')
 
-        # Selector para las categorías que se muestran como "tarjetas"
-        categories_l1 = response.xpath('.//div[contains(@class, "desktop__view-child")]')
+        categories_l1 = response.xpath('.//div[contains(@class, "desktop__view-child")]//h3/a')
 
-        for category in categories_l1:
-            name = category.xpath('.//h3/a/div/text()').get() # Usamos text() para obtener todo el texto
-            url = category.xpath('..//h3/a/@href').get()
+        if not categories_l1:
+            self.logger.warning(f"No se encontró el layout de H3 en {response.url}. Pasando a la lógica de filtros laterales.")
+            yield from self.parse_subsequent_levels(response)
+            return
+
+        for category_link in categories_l1:
+            name = category_link.xpath('string(.)').get()
+            url = category_link.xpath('./@href').get()
 
             if name and url and name.strip():
                 nombre_limpio = " ".join(name.strip().split())
-                # **CLAVE:** Creamos la nueva jerarquía añadiendo el nombre actual a la jerarquía del padre
                 nueva_jerarquia = jerarquia_actual + [nombre_limpio]
                 
                 item = CategoryItem()
@@ -71,7 +78,6 @@ class CategoryTreeSpider(scrapy.Spider):
                 item['jerarquia'] = nueva_jerarquia
                 yield item
                 
-                # Pasamos la jerarquía COMPLETA Y ACTUALIZADA a la siguiente función
                 yield scrapy.Request(
                     url=response.urljoin(url),
                     callback=self.parse_subsequent_levels,
@@ -85,24 +91,23 @@ class CategoryTreeSpider(scrapy.Spider):
         jerarquia_actual = response.meta['jerarquia']
         self.logger.info(f'Parseando subniveles para: {" > ".join(jerarquia_actual)}')
 
-        # XPath mejorado para apuntar solo al filtro de "Categorías"
-        selector_sidebar = [
-        './/div[@class="ui-search-filter-dl"][./h3[contains(text(), "Categorías")]]/ul/li',
-        './/div[@class="ui-search-filter-dl"][./h3[contains(text(), "Categorias")]]/ul/li',                 
-        ]
+        # **XPath CORREGIDO Y PRECISO (basado en tu sugerencia)**
+        # Selecciona solo los 'li' dentro del div de filtros cuyo h3 contiene "Categor".
+        selector_sidebar = './/div[@class="ui-search-filter-dl" and .//h3[contains(text(), "Categor")]]//li'
+        
         categories_sidebar = response.xpath(selector_sidebar)
         
         if not categories_sidebar:
             self.logger.info(f'--- Hoja final del árbol: {" > ".join(jerarquia_actual)} ---')
             return
 
-        for category in categories_sidebar:
-            name = category.xpath('.//span/text()').get()
-            url = category.xpath('.//a/@href').get()
+        for category_item in categories_sidebar:
+            # Ahora extraemos el enlace 'a' que está dentro del 'li'
+            name = category_item.xpath('.//a/span/text()').get()
+            url = category_item.xpath('.//a/@href').get()
 
             if name and url and name.strip():
                 nombre_limpio = " ".join(name.strip().split())
-                # **CLAVE:** De nuevo, construimos la jerarquía completa
                 nueva_jerarquia = jerarquia_actual + [nombre_limpio]
                 
                 item = CategoryItem()
@@ -111,7 +116,6 @@ class CategoryTreeSpider(scrapy.Spider):
                 item['jerarquia'] = nueva_jerarquia
                 yield item
 
-                # **RECURSIÓN:** Llamamos a esta misma función, pasando la nueva jerarquía completa
                 yield scrapy.Request(
                     url=response.urljoin(url),
                     callback=self.parse_subsequent_levels,

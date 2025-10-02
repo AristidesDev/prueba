@@ -9,4 +9,6 @@ class CategoryItem(scrapy.Item):
     # Define los campos para tu item
     nombre = scrapy.Field()
     url = scrapy.Field()
-    jerarquia = scrapy.Field() # Ej: ["Accesorios para Vehículos", "Audio para Vehículos", "Antenas"]
+    jerarquia = scrapy.Field() # Ej: ["Accesorios para Vehículos", "Audio para Vehículos", "Antenas"
+
+
