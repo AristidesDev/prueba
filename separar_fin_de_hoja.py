@@ -54,17 +54,17 @@ def guardar_archivos(categorias_fin_hoja, categorias_sin_fin_hoja):
     lista_sin_fin_hoja = list(categorias_sin_fin_hoja.values())
     
     # Guardar archivo con categorías que tienen "Fin de Hoja"
-    with open('categorias_con_fin_hoja1.json', 'w', encoding='utf-8') as f:
+    with open('categorias_con_fin_hoja.json', 'w', encoding='utf-8') as f:
         json.dump(lista_fin_hoja, f, ensure_ascii=False, indent=2)
     
     # Guardar archivo con categorías que no tienen "Fin de Hoja"
-    with open('categorias_sin_fin_hoja1.json', 'w', encoding='utf-8') as f:
+    with open('categorias_sin_fin_hoja_odificada.json', 'w', encoding='utf-8') as f:
         json.dump(lista_sin_fin_hoja, f, ensure_ascii=False, indent=2)
     
     return len(lista_fin_hoja), len(lista_sin_fin_hoja)
 
 # Cargar el archivo JSON original
-with open('categorias_flat1.json', 'r', encoding='utf-8') as f:
+with open('categorias_con_fin_hoja_modificado.json', 'r', encoding='utf-8') as f:
     datos = json.load(f)
 
 # Separar las categorías
