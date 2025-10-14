@@ -44,17 +44,17 @@ def construir_arbol_categorias(categorias_planas):
     return arbol_completo
 
 # Cargar el JSON original
-with open('categorias_sin_fin_hoja.json', 'r', encoding='utf-8') as f:
+with open('categorias_para_arbol.json', 'r', encoding='utf-8') as f:
     categorias_planas = json.load(f)
 
 # Construir el árbol anidado
 arbol_anidado = construir_arbol_categorias(categorias_planas)
 
 # Guardar el resultado en un nuevo archivo JSON
-with open('categorias_anidadas.json', 'w', encoding='utf-8') as f:
+with open('arbol_categorias_anidadas.json', 'w', encoding='utf-8') as f:
     json.dump(arbol_anidado, f, ensure_ascii=False, indent=2)
 
-print("Proceso completado. El archivo 'categorias_anidadas.json' ha sido generado.")
+print("Proceso completado. El archivo 'arbol_categorias_anidadas55.json' ha sido generado.")
 print(f"Se encontraron {len(arbol_anidado)} categorías raíz.")
 
 # Mostrar un ejemplo de la estructura resultante

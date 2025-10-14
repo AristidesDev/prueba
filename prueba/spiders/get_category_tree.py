@@ -29,8 +29,8 @@ class CategoryTreeSpider(scrapy.Spider):
             
             # testiar una categoria
             #-------------------------------------------
-            # name = category_container.xpath('.//h2[contains(@class, "categories__title")]/a[contains(text(), "Alimentos ")]/text()').get()
-            # url = category_container.xpath('.//h2[contains(@class, "categories__title")]/a[contains(text(), "Alimentos ")]/@href').get()
+            # name = category_container.xpath('.//h2[contains(@class, "categories__title")]/a[contains(text(), "Antigüedades")]/text()').get()
+            # url = category_container.xpath('.//h2[contains(@class, "categories__title")]/a[contains(text(), "Antigüedades")]/@href').get()
             # ------------------------------------------
             #Fin testiar una categoria
 

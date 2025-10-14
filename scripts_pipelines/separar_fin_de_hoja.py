@@ -7,6 +7,22 @@ def normalizar_jerarquia(jerarquia):
         return jerarquia[:-1]
     return jerarquia
 
+def agregar_categorias_individuales(datos, categorias_fin_hoja, jerarquias_fin_hoja_vistas):
+    """Agrega al diccionario urls_fin_hoja los elementos que solo tienen un elemento en la jerarquía"""
+    for item in datos:
+        jerarquia = item["jerarquia"]
+        
+        # Verificar si la jerarquía tiene solo un elemento
+        if len(jerarquia) == 1:
+            jerarquia_normalizada = tuple(jerarquia)
+            
+            # Si no hemos visto esta jerarquía normalizada antes, agregarla
+            if jerarquia_normalizada not in jerarquias_fin_hoja_vistas:
+                categorias_fin_hoja[len(categorias_fin_hoja)] = item
+                jerarquias_fin_hoja_vistas.add(jerarquia_normalizada)
+    
+    return categorias_fin_hoja, jerarquias_fin_hoja_vistas
+
 def separar_categorias(datos):
     # Diccionarios para almacenar las categorías separadas
     categorias_fin_hoja = {}
@@ -16,6 +32,7 @@ def separar_categorias(datos):
     jerarquias_fin_hoja_vistas = set()
     jerarquias_sin_fin_hoja_vistas = set()
     
+    # Primero, agregar las categorías con "Fin de Hoja" y las categorías especiales
     for item in datos:
         jerarquia = item["jerarquia"]
         jerarquia_normalizada = tuple(normalizar_jerarquia(jerarquia))
@@ -46,6 +63,11 @@ def separar_categorias(datos):
                 categorias_sin_fin_hoja[len(categorias_sin_fin_hoja)] = item_modificado
                 jerarquias_sin_fin_hoja_vistas.add(jerarquia_para_comparar)
     
+    # Ahora, agregar las categorías que solo tienen un elemento en la jerarquía
+    categorias_fin_hoja, jerarquias_fin_hoja_vistas = agregar_categorias_individuales(
+        datos, categorias_fin_hoja, jerarquias_fin_hoja_vistas
+    )
+    
     return categorias_fin_hoja, categorias_sin_fin_hoja
 
 def guardar_archivos(categorias_fin_hoja, categorias_sin_fin_hoja):
@@ -54,17 +76,17 @@ def guardar_archivos(categorias_fin_hoja, categorias_sin_fin_hoja):
     lista_sin_fin_hoja = list(categorias_sin_fin_hoja.values())
     
     # Guardar archivo con categorías que tienen "Fin de Hoja"
-    with open('categorias_con_fin_hoja.json', 'w', encoding='utf-8') as f:
+    with open('urls_fin_hoja.json', 'w', encoding='utf-8') as f:
         json.dump(lista_fin_hoja, f, ensure_ascii=False, indent=2)
     
     # Guardar archivo con categorías que no tienen "Fin de Hoja"
-    with open('categorias_sin_fin_hoja_odificada.json', 'w', encoding='utf-8') as f:
+    with open('categorias_para_arbol.json', 'w', encoding='utf-8') as f:
         json.dump(lista_sin_fin_hoja, f, ensure_ascii=False, indent=2)
     
     return len(lista_fin_hoja), len(lista_sin_fin_hoja)
 
 # Cargar el archivo JSON original
-with open('categorias_con_fin_hoja_modificado.json', 'r', encoding='utf-8') as f:
+with open('categorias_flat.json', 'r', encoding='utf-8') as f:
     datos = json.load(f)
 
 # Separar las categorías
@@ -76,8 +98,8 @@ cantidad_fin_hoja, cantidad_sin_fin_hoja = guardar_archivos(categorias_fin_hoja,
 # Mostrar resumen
 print("RESUMEN DE LA SEPARACIÓN:")
 print(f"Total de elementos en el JSON original: {len(datos)}")
-print(f"Elementos en 'categorias_con_fin_hoja.json': {cantidad_fin_hoja}")
-print(f"Elementos en 'categorias_sin_fin_hoja.json': {cantidad_sin_fin_hoja}")
+print(f"Elementos en 'urls_fin_hoja.json': {cantidad_fin_hoja}")
+print(f"Elementos en 'categorias_para_arbol.json': {cantidad_sin_fin_hoja}")
 print(f"Suma de ambos archivos: {cantidad_fin_hoja + cantidad_sin_fin_hoja}")
 print(f"Elementos eliminados por duplicados: {len(datos) - (cantidad_fin_hoja + cantidad_sin_fin_hoja)}")
 
@@ -85,8 +107,15 @@ print(f"Elementos eliminados por duplicados: {len(datos) - (cantidad_fin_hoja + 
 categorias_especiales = [item for item in datos if len(item["jerarquia"]) == 3 and item["jerarquia"][-1] == "Fin de Hoja"]
 if categorias_especiales:
     print(f"\nSe encontraron {len(categorias_especiales)} categorías especiales (3 elementos con 'Fin de Hoja' como tercero):")
-    for i, item in enumerate(categorias_especiales[:10]):  # Mostrar solo las primeras 10
+    for i, item in enumerate(categorias_especiales[:5]):  # Mostrar solo las primeras 5
         print(f"  {i+1}. Original: {' -> '.join(item['jerarquia'])}")
         # Buscar cómo aparece en cada archivo
         jerarquia_sin_fin_hoja = item["jerarquia"][:-1]
-        print(f"     En 'categorias_sin_fin_hoja.json': {' -> '.join(jerarquia_sin_fin_hoja)}")
+        print(f"     En 'categorias_para_arbol.json': {' -> '.join(jerarquia_sin_fin_hoja)}")
+
+# Mostrar ejemplos de categorías individuales
+categorias_individuales = [item for item in datos if len(item["jerarquia"]) == 1]
+if categorias_individuales:
+    print(f"\nSe encontraron {len(categorias_individuales)} categorías individuales (1 elemento en jerarquía):")
+    for i, item in enumerate(categorias_individuales[:10]):  # Mostrar solo las primeras 10
+        print(f"  {i+1}. {' -> '.join(item['jerarquia'])}")
