@@ -1,15 +1,22 @@
 import scrapy
 import json
+from pathlib import Path
 
 class MercadolibreCategorias1Spider(scrapy.Spider):
     name = 'categorias_2'
 
-    # allowed_domains = ['www.mercadolibre.com.ve']
-    # start_urls = ["https://listado.mercadolibre.com.ve/bebidas/#CATEGORY_ID=MLV178700&S=hc_alimentos-y-bebidas&c_tracking_id=0f111880-93f3-11f0-ae82-3db4a47c6659"] # URL de la página de categorías
-    
     def start_requests(self):
-        with open('c:/Users/Impresos Salcedo/Desktop/python/ML/Scrapy/Learning/test/prueba/Categorias_1.json', encoding='utf-8') as f:
-            categorias = json.load(f)
+        base_path = Path(__file__).resolve().parent.parent.parent
+        json_file = base_path / 'Categorias_1.json'
+        if not json_file.exists():
+            self.logger.error(f"Archivo {json_file} no encontrado.")
+            return
+        try:
+            with open(json_file, encoding='utf-8') as f:
+                categorias = json.load(f)
+        except json.JSONDecodeError as e:
+            self.logger.error(f"Error al parsear JSON: {e}")
+            return
         for categoria in categorias:
             url = categoria.get('url_categoria_1')
             nombre_categoria_1 = categoria.get('nombre_categoria_1')

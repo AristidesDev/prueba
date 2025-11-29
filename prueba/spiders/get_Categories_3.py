@@ -5,31 +5,8 @@ from pathlib import Path
 
 class MercadolibreCategorias1Spider(scrapy.Spider):
     name = 'categorias_3'
-    # start_urls = ["https://listado.mercadolibre.com.ve/bebidas-aguas/", 
-    # "https://listado.mercadolibre.com.ve/bebidas-blancas-licores/",
-    # "https://listado.mercadolibre.com.ve/bebidas-deportivas/",
-    # ]
-
 
     def start_requests(self):
-        with open('c:/Users/Impresos Salcedo/Desktop/python/ML/Scrapy/Learning/test/prueba/Categorias_2.json', encoding='utf-8') as f:
-            categorias = json.load(f)
-        for categoria in categorias:
-            url = categoria.get('url_categoria_2')
-            categoria_2 = categoria.get('nombre_categoria_2')
-            categoria_1 = categoria.get('categoria_1')
-            categoria_base = categoria.get('categoria_base')
-            print(f'Iniciando scraping de la categoría: {categoria_2} - {url} - {categoria_1} - {categoria_base}')
-            if url:
-                yield scrapy.Request(
-                    url=url,
-                    callback=self.parse,
-                    meta={
-                        'nombre_categoria_2': categoria_2,
-                        'nombre_categoria_1': categoria_1,
-                        'categoria_base': categoria_base
-                    }
-                )
         # Asumimos que la carpeta 'categorias_json' está en el directorio raíz del proyecto Scrapy.
         # Path(__file__) se refiere a este archivo. .parent.parent.parent nos lleva a la raíz del proyecto.
         project_root = Path(__file__).resolve().parent.parent.parent
@@ -40,9 +17,13 @@ class MercadolibreCategorias1Spider(scrapy.Spider):
             return
 
         for json_file in json_dir.glob('*.json'):
-            with open(json_file, 'r', encoding='utf-8') as f:
-                categorias = json.load(f)
-            
+            try:
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    categorias = json.load(f)
+            except (IOError, json.JSONDecodeError) as e:
+                self.logger.error(f"Error al cargar {json_file}: {e}")
+                continue
+
             for categoria in categorias:
                 url = categoria.get('url_categoria_2')
                 categoria_2 = categoria.get('nombre_categoria_2')

@@ -19,7 +19,7 @@ class NestedJsonPipeline:
         Aquí guardamos la estructura de árbol completa en un archivo JSON.
         """
         # Abre el archivo de salida en modo escritura con codificación UTF-8
-        with open('categorias_anidadas.json', 'w', encoding='utf-8') as f:
+        with open('categorias_prueba.json', 'w', encoding='utf-8') as f:
             # json.dump escribe la estructura de datos en el archivo.
             # ensure_ascii=False permite que se guarden caracteres como tildes correctamente.
             # indent=4 hace que el archivo JSON sea legible para los humanos.

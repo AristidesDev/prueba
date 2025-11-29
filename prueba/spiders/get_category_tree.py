@@ -1,10 +1,13 @@
-# prueba/spiders/pruebas.py
-
 import scrapy
 from prueba.items import CategoryItem
 
 class CategoryTreeSpider(scrapy.Spider):
     name = "category_tree"
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.processed_hierarchies = set()
+        self.test_category = kwargs.get('category')  # Para pruebas rápidas con una categoría específica
 
     allowed_domains = [
         "www.mercadolibre.com.ve",
@@ -27,22 +30,21 @@ class CategoryTreeSpider(scrapy.Spider):
             name = category_container.xpath('.//h2[contains(@class, "categories__title")]/a/text()').get()
             url = category_container.xpath('.//h2[contains(@class, "categories__title")]/a/@href').get()
             
-            # testiar una categoria
-            #-------------------------------------------
-            # name = category_container.xpath('.//h2[contains(@class, "categories__title")]/a[contains(text(), "Antigüedades")]/text()').get()
-            # url = category_container.xpath('.//h2[contains(@class, "categories__title")]/a[contains(text(), "Antigüedades")]/@href').get()
-            # ------------------------------------------
-            #Fin testiar una categoria
-
             if name and url:
                 nombre_limpio = name.strip()
+                if self.test_category and nombre_limpio != self.test_category:
+                    continue  # Saltar categorías que no coincidan con la de prueba
+
                 jerarquia = [nombre_limpio]
-                
-                item = CategoryItem()
-                item['nombre'] = nombre_limpio
-                item['url'] = response.urljoin(url)
-                item['jerarquia'] = jerarquia
-                yield item
+                jerarquia_tuple = tuple(jerarquia)
+
+                if jerarquia_tuple not in self.processed_hierarchies:
+                    self.processed_hierarchies.add(jerarquia_tuple)
+                    item = CategoryItem()
+                    item['nombre'] = nombre_limpio
+                    item['url'] = response.urljoin(url)
+                    item['jerarquia'] = jerarquia
+                    yield item
 
                 yield scrapy.Request(
                     url=response.urljoin(url),
@@ -71,12 +73,15 @@ class CategoryTreeSpider(scrapy.Spider):
             if name and url and name.strip():
                 nombre_limpio = " ".join(name.strip().split())
                 nueva_jerarquia = jerarquia_actual + [nombre_limpio]
-                
-                item = CategoryItem()
-                item['nombre'] = nombre_limpio
-                item['url'] = response.urljoin(url)
-                item['jerarquia'] = nueva_jerarquia
-                yield item
+                jerarquia_tuple = tuple(nueva_jerarquia)
+
+                if jerarquia_tuple not in self.processed_hierarchies:
+                    self.processed_hierarchies.add(jerarquia_tuple)
+                    item = CategoryItem()
+                    item['nombre'] = nombre_limpio
+                    item['url'] = response.urljoin(url)
+                    item['jerarquia'] = nueva_jerarquia
+                    yield item
                 
                 yield scrapy.Request(
                     url=response.urljoin(url),
@@ -99,6 +104,15 @@ class CategoryTreeSpider(scrapy.Spider):
         
         if not categories_sidebar:
             self.logger.info(f'--- Hoja final del árbol: {" > ".join(jerarquia_actual)} ---')
+            jerarquia_hoja = jerarquia_actual + ["Fin de Hoja"]
+            jerarquia_tuple = tuple(jerarquia_hoja)
+            if jerarquia_tuple not in self.processed_hierarchies:
+                self.processed_hierarchies.add(jerarquia_tuple)
+                item = CategoryItem()
+                item['nombre'] = jerarquia_actual[-1]
+                item['url'] = response.url
+                item['jerarquia'] = jerarquia_hoja
+                yield item
             return
 
         for category_item in categories_sidebar:
@@ -109,12 +123,15 @@ class CategoryTreeSpider(scrapy.Spider):
             if name and url and name.strip():
                 nombre_limpio = " ".join(name.strip().split())
                 nueva_jerarquia = jerarquia_actual + [nombre_limpio]
-                
-                item = CategoryItem()
-                item['nombre'] = nombre_limpio
-                item['url'] = response.urljoin(url)
-                item['jerarquia'] = nueva_jerarquia
-                yield item
+                jerarquia_tuple = tuple(nueva_jerarquia)
+
+                if jerarquia_tuple not in self.processed_hierarchies:
+                    self.processed_hierarchies.add(jerarquia_tuple)
+                    item = CategoryItem()
+                    item['nombre'] = nombre_limpio
+                    item['url'] = response.urljoin(url)
+                    item['jerarquia'] = nueva_jerarquia
+                    yield item
 
                 yield scrapy.Request(
                     url=response.urljoin(url),

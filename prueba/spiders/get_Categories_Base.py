@@ -12,9 +12,8 @@ class GetCategorieBaseSpider(scrapy.Spider):
             name = category_base.xpath('.//h2[contains(@class, "categories__title")]/a/text()').get()
             categorie_url = category_base.xpath('.//h2[contains(@class, "categories__title")]/a/@href').get()
             
-            if name and categorie_url: # Asegúrate de que ambos valores no sean None
+            if name and categorie_url:
                 yield {
                     'nombre_categoria_base': name,
                     'url_categoria_base': categorie_url,
-                    # 'categoria_primary': primary,
-                    }       
+                    }

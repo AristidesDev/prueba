@@ -1,12 +1,22 @@
 import scrapy
 import json
+from pathlib import Path
 
 class MercadolibreCategorias_1_Spider(scrapy.Spider):
     name = 'categorias_1'
 
     def start_requests(self):
-        with open('c:/Users/Impresos Salcedo/Desktop/python/ML/Scrapy/Learning/test/prueba/Categories_base.json', encoding='utf-8') as f:
-            urls = json.load(f)
+        base_path = Path(__file__).resolve().parent.parent.parent
+        json_file = base_path / 'Categories_base.json'
+        if not json_file.exists():
+            self.logger.error(f"Archivo {json_file} no encontrado.")
+            return
+        try:
+            with open(json_file, encoding='utf-8') as f:
+                urls = json.load(f)
+        except json.JSONDecodeError as e:
+            self.logger.error(f"Error al parsear JSON: {e}")
+            return
         for url in urls:
             nombre_base = url.get('nombre_categoria_base')
             link = url.get('url_categoria_base')
