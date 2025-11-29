@@ -104,14 +104,14 @@ class CategoryTreeSpider(scrapy.Spider):
         
         if not categories_sidebar:
             self.logger.info(f'--- Hoja final del árbol: {" > ".join(jerarquia_actual)} ---')
-            jerarquia_hoja = jerarquia_actual + ["Fin de Hoja"]
-            jerarquia_tuple = tuple(jerarquia_hoja)
+            jerarquia_tuple = tuple(jerarquia_actual)
             if jerarquia_tuple not in self.processed_hierarchies:
                 self.processed_hierarchies.add(jerarquia_tuple)
                 item = CategoryItem()
                 item['nombre'] = jerarquia_actual[-1]
                 item['url'] = response.url
-                item['jerarquia'] = jerarquia_hoja
+                item['jerarquia'] = jerarquia_actual
+                item['is_leaf'] = True
                 yield item
             return
 
