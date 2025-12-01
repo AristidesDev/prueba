@@ -1,0 +1,148 @@
+[
+    {
+        "categoria_base": "Consolas y Videojuegos",
+        "nombre_categoria_1": "Accesorios para Consolas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/accesorios-consolas/#CATEGORY_ID=MLV438578&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Para Atari",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-atari/#CATEGORY_ID=MLV447193&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para Family Game",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-family-game/#CATEGORY_ID=MLV447208&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para NeoGeo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-neogeo/#CATEGORY_ID=MLV439548&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para Nintendo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-nintendo/#CATEGORY_ID=MLV373768&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para Otras Consolas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-otras/#CATEGORY_ID=MLV1152&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para PlayStation",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/consolas-videojuegos/accesorios-consolas/playstation/#CATEGORY_ID=MLV373769&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para SEGA",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-sega/#CATEGORY_ID=MLV373018&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para Xbox",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-xbox/#CATEGORY_ID=MLV9826&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "PlayStation 2 - PS2",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/consolas-y-videojuegos/accesorios-para-consolas/playstation-2-ps2/#CATEGORY_ID=MLV2948&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Consolas y Videojuegos",
+        "nombre_categoria_1": "Accesorios para PC Gaming",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/accesorios-pc-gaming/#CATEGORY_ID=MLV439527&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Audífonos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-pc-gaming-audifonos/#CATEGORY_ID=MLV439596&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Controles para Gamers",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-pc-gaming-controles-gamers/#CATEGORY_ID=MLV448169&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Lentes VR",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-pc-gaming-lentes-vr/#CATEGORY_ID=MLV439595&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Micrófonos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-pc-gaming-microfonos/#CATEGORY_ID=MLV191054&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Sillas Gamer",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-pc-gaming-sillas-gamer/#CATEGORY_ID=MLV187264&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Soportes para Auriculares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-pc-gaming-soportes-auriculares/#CATEGORY_ID=MLV456574&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Tarjetas Prepagas para Juegos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-pc-gaming-tarjetas-prepagas-juegos/#CATEGORY_ID=MLV411425&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-consolas-pc-gaming-otros/#CATEGORY_ID=MLV439597&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Consolas y Videojuegos",
+        "nombre_categoria_1": "Consolas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/consolas/#CATEGORY_ID=MLV2922&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Consolas y Videojuegos",
+        "nombre_categoria_1": "Pinballs y Arcade",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/pinballs-arcade/#CATEGORY_ID=MLV447099&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios y Repuestos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pinballs-arcade-accesorios-repuestos/#CATEGORY_ID=MLV447100&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Máquinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pinballs-arcade-maquina/#CATEGORY_ID=MLV417297&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pinballs-arcade-otros/#CATEGORY_ID=MLV447102&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Consolas y Videojuegos",
+        "nombre_categoria_1": "Repuestos para Consolas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/repuestos-consolas/#CATEGORY_ID=MLV438579&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Para Nintendo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-consolas-nintendo/#CATEGORY_ID=MLV438639&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para Otras Consolas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-consolas-otras/#CATEGORY_ID=MLV438636&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para PlayStation",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-consolas-playstation/#CATEGORY_ID=MLV438638&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para SEGA",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-consolas-sega/#CATEGORY_ID=MLV439687&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Para Xbox",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-consolas-xbox/#CATEGORY_ID=MLV438637&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Consolas y Videojuegos",
+        "nombre_categoria_1": "Videojuegos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/videojuegos/#CATEGORY_ID=MLV2937&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Consolas y Videojuegos",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/otras-consolas-otros/#CATEGORY_ID=MLV10154&S=hc_consolas-y-videojuegos&c_tracking_id=af1c7830-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": []
+    }
+]

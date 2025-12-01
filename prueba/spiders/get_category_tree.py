@@ -4,6 +4,8 @@ from prueba.items import CategoryItem
 class CategoryTreeSpider(scrapy.Spider):
     name = "category_tree"
 
+    handle_httpstatus_list = [301, 302, 303, 307, 308]
+
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.processed_hierarchies = set()
@@ -59,7 +61,7 @@ class CategoryTreeSpider(scrapy.Spider):
         jerarquia_actual = response.meta['jerarquia']
         self.logger.info(f'Parseando Nivel 1 para: {" > ".join(jerarquia_actual)}')
 
-        categories_l1 = response.xpath('.//div[contains(@class, "desktop__view-child")]//h3/a')
+        categories_l1 = response.xpath('.//div[contains(@class, "desktop__view-child")]')
 
         if not categories_l1:
             self.logger.warning(f"No se encontró el layout de H3 en {response.url}. Pasando a la lógica de filtros laterales.")
@@ -67,8 +69,8 @@ class CategoryTreeSpider(scrapy.Spider):
             return
 
         for category_link in categories_l1:
-            name = category_link.xpath('string(.)').get()
-            url = category_link.xpath('./@href').get()
+            name = category_link.xpath('.//h3/a/div/string(.)').get()
+            url = category_link.xpath('.//h3/a/@href').get()
 
             if name and url and name.strip():
                 nombre_limpio = " ".join(name.strip().split())

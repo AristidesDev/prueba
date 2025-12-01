@@ -1,0 +1,534 @@
+[
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Abrigos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/abrigos/#CATEGORY_ID=MLV455528&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Chaquetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/abrigos-chaquetas/#CATEGORY_ID=MLV116909&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Saquitos, Suéteres y Chalecos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/abrigos-saquitos-sueteres-chalecos/#CATEGORY_ID=MLV445824&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Sweaters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/abrigos-sweaters/#CATEGORY_ID=MLV446108&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/abrigos-otros/#CATEGORY_ID=MLV455529&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Accesorios de Moda",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/ropa-accesorios/#CATEGORY_ID=MLV8820&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Abanicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-abanicos/#CATEGORY_ID=MLV446036&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Accesorios para el Cabello",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-cabello/#CATEGORY_ID=MLV437215&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Antifaces para Dormir",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-antifaces-dormir/#CATEGORY_ID=MLV417715&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Antifaz para Dormir Eléctrico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-accesorios/accesorios-moda/antifaz-dormir-electrico/#CATEGORY_ID=MLV457382&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Bufandas y Pañuelos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-bufandas-panuelos/#CATEGORY_ID=MLV437217&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Calentadores para Piernas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-calentadores-piernas/#CATEGORY_ID=MLV446034&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Corbatas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-corbatas/#CATEGORY_ID=MLV121110&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Correas y Cinturones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-correas-y-cinturones/#CATEGORY_ID=MLV10399&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Espejitos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-espejitos/#CATEGORY_ID=MLV446037&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Fajas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-fajas/#CATEGORY_ID=MLV446035&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Filtros para Tapabocas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-filtros-tapabocas/#CATEGORY_ID=MLV454755&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Gorras, Sombreros y Boinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-gorras-sombreros-boinas/#CATEGORY_ID=MLV8704&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Guantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-guantes/#CATEGORY_ID=MLV121111&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Lentes y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-lentes/#CATEGORY_ID=MLV446019&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Llaveros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-llaveros/#CATEGORY_ID=MLV10849&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Orejeras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-orejeras/#CATEGORY_ID=MLV446033&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Paraguas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-paraguas/#CATEGORY_ID=MLV412056&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Pareos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-pareos/#CATEGORY_ID=MLV412059&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Pisacorbatas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-pisacorbatas/#CATEGORY_ID=MLV416198&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Prendedores y Pinzas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-prendedores-pinzas/#CATEGORY_ID=MLV446029&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Tapabocas Reutilizables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-tapabocas-reutilizables/#CATEGORY_ID=MLV445787&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Tirantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-tirantes/#CATEGORY_ID=MLV446038&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Toallas de Playa",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-moda-toallas-playa/#CATEGORY_ID=MLV446854&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-accesorios-otros/#CATEGORY_ID=MLV8825&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Blusas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/blusas/#CATEGORY_ID=MLV116898&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Calzado",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/#CATEGORY_ID=MLV5208&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alpargatas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/alpargatas/#CATEGORY_ID=MLV414673&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Botas y Botines",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/botas-y-botines/#CATEGORY_ID=MLV414251&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Cubre Zapatos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/cubre-zapatos/#CATEGORY_ID=MLV455893&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Mocasines y Oxfords",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/mocasines-y-oxfords/#CATEGORY_ID=MLV414674&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Pantuflas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/pantuflas/#CATEGORY_ID=MLV414610&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Sandalias",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/sandalias/#CATEGORY_ID=MLV9255&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Stilletos y Plataformas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/stilletos-y-plataformas/#CATEGORY_ID=MLV415194&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Zapatillas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/zapatillas/#CATEGORY_ID=MLV415192&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Zapatos Deportivos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/zapatos-deportivos/#CATEGORY_ID=MLV9865&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-y-accesorios/calzado/otros/#CATEGORY_ID=MLV415193&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Camisas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/camisas/#CATEGORY_ID=MLV116867&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Enteritos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/enteritos/#CATEGORY_ID=MLV446109&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Equipaje y Bolsos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/equipaje-bolsos/#CATEGORY_ID=MLV26400&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipaje-bolsos-accesorios/#CATEGORY_ID=MLV431991&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Billeteras y Monederos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipaje-bolsos-billeteras-monederos/#CATEGORY_ID=MLV26404&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Bolsos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/carteras/#CATEGORY_ID=MLV6870&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Equipaje y Accesorios de Viaje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipaje-bolsos-accesorios-viaje/#CATEGORY_ID=MLV431994&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Kits de Bolsos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipaje-bolsos-kits/#CATEGORY_ID=MLV455760&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Kits de Mochilas Escolares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-accesorios/equipaje-bolsos/kits-mochilas-escolares/#CATEGORY_ID=MLV455455&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Koalas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/carteras-morrales-billetera-koalas/#CATEGORY_ID=MLV10708&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Luncheras Escolares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipaje-bolsos-luncheras-escolares/#CATEGORY_ID=MLV412348&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Maletines",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipaje-bolsos-maletines/#CATEGORY_ID=MLV48634&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Morrales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/carteras-morrales-billetera/#CATEGORY_ID=MLV10717&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Neceseres",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipaje-bolsos-neceseres/#CATEGORY_ID=MLV446110&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/carteras-morrales-y-billetera-otros/#CATEGORY_ID=MLV26405&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Faldas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/faldas/#CATEGORY_ID=MLV116862&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Franelas y Chemises",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/franelas-chemises/#CATEGORY_ID=MLV116883&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Indumentaria Laboral y Escolar",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/indumentaria-laboral-escolar/#CATEGORY_ID=MLV445932&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios Tácticos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-ropa-trabajo-accesorios-tacticos/#CATEGORY_ID=MLV455530&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Guardapolvos Escolares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/indumentaria-laboral-escolar-guardapolvos-escolares/#CATEGORY_ID=MLV445946&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Indumentaria Táctica",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-accesorios/indumentaria-laboral-escolar/indumentaria-tactica/#CATEGORY_ID=MLV445948&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Uniformes Escolares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/indumentaria-laboral-escolar-uniformes-escolares/#CATEGORY_ID=MLV445950&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Uniformes y Ropa de Trabajo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/indumentaria-laboral-escolar-uniformes-ropa-trabajo/#CATEGORY_ID=MLV417943&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-ropa-trabajo-otro/#CATEGORY_ID=MLV445947&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Kimonos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/kimonos/#CATEGORY_ID=MLV455550&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Leggings",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/leggings/#CATEGORY_ID=MLV446117&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Lotes de Ropa",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/lotes-ropa/#CATEGORY_ID=MLV413460&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Pantalones",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/pantalones/#CATEGORY_ID=MLV116856&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Ropa Deportiva",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/ropa-deportiva/#CATEGORY_ID=MLV445957&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bolsos Deportivos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-bolsos-deportivos/#CATEGORY_ID=MLV432002&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Chaquetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-chaquetas/#CATEGORY_ID=MLV417368&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Conjuntos Deportivos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-conjuntos-deportivos/#CATEGORY_ID=MLV417374&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Fajas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-accesorios/ropa-deportiva/fajas/#CATEGORY_ID=MLV458017&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Franelas y Chemises",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-franelas-chemises/#CATEGORY_ID=MLV417371&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Gorras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-gorras/#CATEGORY_ID=MLV445986&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Guantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-guantes/#CATEGORY_ID=MLV417386&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Leggings Deportivos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-leggings-deportivos/#CATEGORY_ID=MLV417367&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Mangas de Compresión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-mangas-compresion/#CATEGORY_ID=MLV413345&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Medias",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-medias/#CATEGORY_ID=MLV417388&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Pantalones y Joggings",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-pantalones-joggings/#CATEGORY_ID=MLV417370&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Ropa de Danza y Patinaje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-danza-patinaje/#CATEGORY_ID=MLV417479&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Shorts",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-shorts/#CATEGORY_ID=MLV417372&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Sweaters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-sweaters/#CATEGORY_ID=MLV417369&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Tobilleras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-tobilleras/#CATEGORY_ID=MLV417387&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Tops",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-tops/#CATEGORY_ID=MLV417376&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Vestidos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-vestidos/#CATEGORY_ID=MLV417828&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-deportiva-otros/#CATEGORY_ID=MLV417373&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Ropa Interior y de Dormir",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/ropa-interior-dormir/#CATEGORY_ID=MLV445813&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Pijamas y Ropa de Dormir",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-interior-dormir-pijamas/#CATEGORY_ID=MLV116849&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Ropa Interior",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-interior/#CATEGORY_ID=MLV116864&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Ropa para Bebés",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/ropa-bebes/#CATEGORY_ID=MLV24621&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-para-bebes/#CATEGORY_ID=MLV86799&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Batas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-batas/#CATEGORY_ID=MLV446093&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Bermudas y Shorts",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-bermudas-shorts/#CATEGORY_ID=MLV446081&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Blusas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-blusas/#CATEGORY_ID=MLV446089&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Bolsas de Dormir",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-zapatos-accesorios/ropa-bebes/bolsas-dormir/#CATEGORY_ID=MLV458052&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Calzados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-zapatos/#CATEGORY_ID=MLV40407&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Camisas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-camisas/#CATEGORY_ID=MLV446087&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Chaquetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-chaquetas/#CATEGORY_ID=MLV446083&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Conjuntos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/conjuntos-para-bebe/#CATEGORY_ID=MLV74771&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Faldas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-faldas/#CATEGORY_ID=MLV446088&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Franelas y Chemises",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-franelas-chemises/#CATEGORY_ID=MLV446091&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Jardineros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-jardineros/#CATEGORY_ID=MLV446084&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Kits para Salida del Hospital",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-kits-salida-del-hospital/#CATEGORY_ID=MLV446090&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Medias",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-medias/#CATEGORY_ID=MLV446092&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Monitos y Bodys",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-monitos-y-bodys/#CATEGORY_ID=MLV40409&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Pantalones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-pantalones/#CATEGORY_ID=MLV40410&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Pijamas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-pijamas/#CATEGORY_ID=MLV446086&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Sweaters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-sweaters/#CATEGORY_ID=MLV446085&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Sweters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-sweters/#CATEGORY_ID=MLV62572&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Trajes de Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/trajes-de-bano-para-bebe/#CATEGORY_ID=MLV86803&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Vestidos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-vestidos/#CATEGORY_ID=MLV40406&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebes-otros/#CATEGORY_ID=MLV40408&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Shorts y Bermudas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/shorts-bermudas/#CATEGORY_ID=MLV116824&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Trajes",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/trajes/#CATEGORY_ID=MLV445987&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Trajes de Baño",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/trajes-bano/#CATEGORY_ID=MLV430281&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Vestidos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/vestidos/#CATEGORY_ID=MLV116827&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Ropa, Zapatos y Accesorios",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/ropa-otros/#CATEGORY_ID=MLV1911&S=hc_ropa-zapatos-y-accesorios&c_tracking_id=ea7a8750-ce66-11f0-a2ce-914a480fd837",
+        "categorias_nivel_2": []
+    }
+]

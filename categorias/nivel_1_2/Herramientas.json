@@ -1,0 +1,612 @@
+[
+    {
+        "categoria_base": "Herramientas",
+        "nombre_categoria_1": "Accesorios para Herramientas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/accesorios-herramientas/#CATEGORY_ID=MLV447697&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios para Compresores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-herramientas-compresores/#CATEGORY_ID=MLV455572&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Baterías",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-baterias/#CATEGORY_ID=MLV372121&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cargadores para Baterías",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-herramientas-cargadores-baterias/#CATEGORY_ID=MLV456075&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cuchillas para Cepilladoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-cuchillas-cepilladoras/#CATEGORY_ID=MLV429005&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Discos y Piedras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-herramientas-discos-piedras/#CATEGORY_ID=MLV372119&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Escobillas de Carbón",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-herramientas-escobillas-carbon/#CATEGORY_ID=MLV455621&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Guardacabos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-guardacabos/#CATEGORY_ID=MLV429035&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Hojas para Sierras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-herramientas-hojas-sierras/#CATEGORY_ID=MLV414154&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Inducidos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-inducidos/#CATEGORY_ID=MLV433101&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Kit de Consumibles para Plasma",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-kit-consumibles-plasma/#CATEGORY_ID=MLV416710&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Kits para Minitornos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-kits-minitornos/#CATEGORY_ID=MLV417614&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Lupas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-lupas/#CATEGORY_ID=MLV399134&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Mezcladores para Taladros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-mezcladores-taladros/#CATEGORY_ID=MLV430924&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Poleas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-poleas/#CATEGORY_ID=MLV384754&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Puntas y Adaptadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-puntas-adaptadores/#CATEGORY_ID=MLV372123&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Rodeles Cortadoras de Cerámica",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/accesorios-herramientas/rodeles-cortadoras-ceramica/#CATEGORY_ID=MLV416796&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Soldado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-soldado/#CATEGORY_ID=MLV455231&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Soportes para Taladros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-soportes-taladros/#CATEGORY_ID=MLV430230&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tijeras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-tijeras/#CATEGORY_ID=MLV399135&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-accesorios-otros/#CATEGORY_ID=MLV372114&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Herramientas",
+        "nombre_categoria_1": "Cajas y Organizadores",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/cajas-organizadores/#CATEGORY_ID=MLV372059&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bancos de Trabajo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadores-bancos-trabajo/#CATEGORY_ID=MLV372122&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bandejas Imantadas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadores-bandejas-imantadas/#CATEGORY_ID=MLV429230&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bolsos de Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadores-bolsos/#CATEGORY_ID=MLV430153&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cajas de Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-construccion-cajas/#CATEGORY_ID=MLV122325&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cajas de Ingletes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadores-ingletes/#CATEGORY_ID=MLV416809&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Carros Portaherramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/cajas-organizadores/carros-portaherramientas/#CATEGORY_ID=MLV372113&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cartucheras Portaherramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadores-cartucheras-portaherramientas/#CATEGORY_ID=MLV429015&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Gabinetes para Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadores-gabinetes/#CATEGORY_ID=MLV416543&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Maletines de Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadores-maletines/#CATEGORY_ID=MLV416544&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Organizadores de Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadore/#CATEGORY_ID=MLV372111&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tableros de Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadores-tableros/#CATEGORY_ID=MLV372110&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-cajas-organizadores-otros/#CATEGORY_ID=MLV372112&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Herramientas",
+        "nombre_categoria_1": "Herramientas Eléctricas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/herramientas-electricas/#CATEGORY_ID=MLV5228&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Afiladores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-afiladores/#CATEGORY_ID=MLV371913&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Amarradoras de Varillas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-amarradoras-varillas/#CATEGORY_ID=MLV455623&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Canteadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-canteadoras/#CATEGORY_ID=MLV431024&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Compresores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-compresores/#CATEGORY_ID=MLV122297&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Corte",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-corte/#CATEGORY_ID=MLV455277&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Destornilladores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-electricas/destornilladores/#CATEGORY_ID=MLV122308&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Detectores de Metales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-detectores-metales/#CATEGORY_ID=MLV447716&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Equipos para Pintar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-equipos-pintar/#CATEGORY_ID=MLV433705&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Kits de Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-electricas/kits-herramientas/#CATEGORY_ID=MLV455536&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Lijado, Desbaste y Pulido",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-lijado-desbaste-pulido/#CATEGORY_ID=MLV455275&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Limpieza",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-limpieza/#CATEGORY_ID=MLV455279&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Llaves de Impacto",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-electricas/llaves-impacto/#CATEGORY_ID=MLV457298&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Mezcladores de Pintura",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-mezcladores-pintura/#CATEGORY_ID=MLV414181&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Multiherramientas Oscilantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-multiherramientas-oscilantes/#CATEGORY_ID=MLV456073&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Perforación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-perforacion/#CATEGORY_ID=MLV455276&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pirograbadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-pirograbadores/#CATEGORY_ID=MLV371914&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pistolas de Calor",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-pistolas-calor/#CATEGORY_ID=MLV447703&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pistolas para Pintar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-pistolas-pintar/#CATEGORY_ID=MLV447627&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Soldadura",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-soldadura/#CATEGORY_ID=MLV455278&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Termofusoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-termofusoras/#CATEGORY_ID=MLV322824&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-electricas-otro/#CATEGORY_ID=MLV122294&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Herramientas",
+        "nombre_categoria_1": "Herramientas Industriales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/herramientas-industriales/#CATEGORY_ID=MLV447372&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Balanceadoras de Ruedas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-ruedas/#CATEGORY_ID=MLV431110&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bobinadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-bobinadoras/#CATEGORY_ID=MLV371977&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "CNC",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-cn/#CATEGORY_ID=MLV455007&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Calderas Industriales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-caldera/#CATEGORY_ID=MLV455035&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Carga y Descarga",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-carga-descarga/#CATEGORY_ID=MLV454952&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Colectores de Polvo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-colectores-polvo/#CATEGORY_ID=MLV431055&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Conformado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-conformad/#CATEGORY_ID=MLV454948&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Enfriadores de Agua",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-enfriadores-agu/#CATEGORY_ID=MLV454947&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Equip. Pintura Electrostática",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-equip-pintura-electrostatic/#CATEGORY_ID=MLV455039&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Escopleadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-escopleadora/#CATEGORY_ID=MLV455037&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Hornos y Tratamiento Térmico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-hornos-tratamiento-termi/#CATEGORY_ID=MLV454945&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Mecanizado y Acabado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-mecanizado-acabado/#CATEGORY_ID=MLV454950&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Motores Estacionarios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-motores-estacionarios/#CATEGORY_ID=MLV413316&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Máquinas Duplicadoras de Llave",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-industriales/maquinas-duplicadoras-llave/#CATEGORY_ID=MLV417050&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Máquinas Pelacables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-maquinas-pelacables/#CATEGORY_ID=MLV417350&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pegadoras de Cantos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-pegadoras-canto/#CATEGORY_ID=MLV455036&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Plasturgia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-plasturgi/#CATEGORY_ID=MLV454957&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Rebobinadoras para Papel",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-rebobinadoras-papel/#CATEGORY_ID=MLV455726&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Repuestos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-repuestos/#CATEGORY_ID=MLV412763&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sierras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-industriales/sierras/#CATEGORY_ID=MLV447707&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Taladros a Combustión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-industriales/taladros-combustion/#CATEGORY_ID=MLV455474&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-otros/#CATEGORY_ID=MLV447679&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Herramientas",
+        "nombre_categoria_1": "Herramientas Manuales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/herramientas-manuales/#CATEGORY_ID=MLV5235&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aceiteras Manuales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-aceiteras/#CATEGORY_ID=MLV431292&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Albañilería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-albanileria/#CATEGORY_ID=MLV455257&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Corte y Desbaste",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-corte-desbaste/#CATEGORY_ID=MLV455249&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Elevación y Tracción",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-elevacion-traccion/#CATEGORY_ID=MLV455259&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Engrasadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-engrasadores/#CATEGORY_ID=MLV371996&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Espejos Telescópicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-espejos-telescopicos/#CATEGORY_ID=MLV431197&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Extracción",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-extraccion/#CATEGORY_ID=MLV455260&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Fijación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-fijacion/#CATEGORY_ID=MLV455252&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Ganzúas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-ganzuas/#CATEGORY_ID=MLV372002&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Martillos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-martillos/#CATEGORY_ID=MLV122317&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pinzas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-pinzas/#CATEGORY_ID=MLV447698&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Prensas Sargento",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-prensas-sargento/#CATEGORY_ID=MLV122316&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Prensas de Banco",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-prensas-banco/#CATEGORY_ID=MLV371999&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sets de Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-sets/#CATEGORY_ID=MLV8405&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sopapas Ventosas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-sopapas-ventosas/#CATEGORY_ID=MLV430445&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sopletes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-sopletes/#CATEGORY_ID=MLV371997&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Yunques",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-yunques/#CATEGORY_ID=MLV431037&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Zancos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-zancos/#CATEGORY_ID=MLV438635&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-manuales-otro/#CATEGORY_ID=MLV122313&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Herramientas",
+        "nombre_categoria_1": "Herramientas Neumáticas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/herramientas-neumaticas/#CATEGORY_ID=MLV437789&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aerógrafos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-neumaticas-aerografos/#CATEGORY_ID=MLV8461&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Engrapadoras y Clavadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-neumaticas-engrapadoras-clavadoras/#CATEGORY_ID=MLV424824&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Esmeriles Neumáticos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-neumaticas/esmeriles-neumaticos/#CATEGORY_ID=MLV455290&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Lijadoras Neumáticas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-neumaticas/lijadoras-neumaticas/#CATEGORY_ID=MLV455291&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pistolas para Pintar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-neumaticas/pistolas-para-pintar/#CATEGORY_ID=MLV455331&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Taladros Neumáticos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-neumaticas-taladros-neumaticos/#CATEGORY_ID=MLV437469&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-neumaticas/otros/#CATEGORY_ID=MLV437794&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Herramientas",
+        "nombre_categoria_1": "Herramientas para Jardín",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/herramientas-jardin/#CATEGORY_ID=MLV424989&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Chipeadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-jardin/chipeadoras/#CATEGORY_ID=MLV456761&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cortadoras de Grama",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-cortadoras-grama/#CATEGORY_ID=MLV411882&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cortasetos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-cortasetos/#CATEGORY_ID=MLV411881&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Desmalezadoras y Orilladoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-desmalezadoras-orilladoras/#CATEGORY_ID=MLV445854&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Fumigadores y Pulverizadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/herramientas-jardin/fumigadores-pulverizadores/#CATEGORY_ID=MLV411887&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Herramientas Multifuncionales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-multifuncionales/#CATEGORY_ID=MLV456146&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Hoyadoras de Combustión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-hoyadoras-combustion/#CATEGORY_ID=MLV417357&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Motocultores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-motocultores/#CATEGORY_ID=MLV413009&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Motosierras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-motosierras/#CATEGORY_ID=MLV411888&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Podadoras de Altura",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-podadoras-altura/#CATEGORY_ID=MLV416246&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pulverizadores a Explosión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-pulverizadores-a-explosion/#CATEGORY_ID=MLV431107&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Recolectores de Frutas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-recolectores-frutas/#CATEGORY_ID=MLV439060&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Repuestos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-repuestos/#CATEGORY_ID=MLV411906&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sopladoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-sopladoras/#CATEGORY_ID=MLV411907&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Utensilios de Jardinería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-utensilios-jardineria/#CATEGORY_ID=MLV411908&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-jardin-otros/#CATEGORY_ID=MLV424990&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Herramientas",
+        "nombre_categoria_1": "Testers y Equipos de Medición",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/testers-equipos-medicion/#CATEGORY_ID=MLV447691&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Caudalimetro",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/testers-y-equipos-de-medicion/caudalimetro/#CATEGORY_ID=MLV380663&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cuenta Ganado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-cuenta-ganado/#CATEGORY_ID=MLV372008&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Durómetros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-durometros/#CATEGORY_ID=MLV413475&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Escuadras de Precisión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-escuadras-precision/#CATEGORY_ID=MLV429734&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Hidrómetros y Densímetros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/testers-equipos-medicion/hidrometros-densimetros/#CATEGORY_ID=MLV413584&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medidores Ambientales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-medidores-ambientales/#CATEGORY_ID=MLV455201&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medidores de Distancia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-medidores-distancia/#CATEGORY_ID=MLV455212&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medidores de Electricidad",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-medidores-electricidad/#CATEGORY_ID=MLV455200&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medidores de Espesor",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-medidores-espesor/#CATEGORY_ID=MLV413321&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medidores de Fuerza",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-medidores-fuerza/#CATEGORY_ID=MLV455207&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medidores de Longitud",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-medidores-longitud/#CATEGORY_ID=MLV455198&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medidores de Presión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-medidores-presion/#CATEGORY_ID=MLV455204&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medidores de Ángulos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-medidores-angulos/#CATEGORY_ID=MLV455210&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Niveles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-niveles/#CATEGORY_ID=MLV455206&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pistolas Infrarrojas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-pistolas-infrarrojas/#CATEGORY_ID=MLV431206&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Refractómetros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-refractometros/#CATEGORY_ID=MLV372009&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Reguladores de Oxígeno",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas/testers-equipos-medicion/reguladores-oxigeno/#CATEGORY_ID=MLV414017&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tacómetros Portátiles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-tacometros-portatiles/#CATEGORY_ID=MLV434737&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Termostatos Digitales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-termostatos-digitales/#CATEGORY_ID=MLV431209&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-testers-equipos-medicion-otros/#CATEGORY_ID=MLV447692&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Herramientas",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/industrias-herramientas-otros/#CATEGORY_ID=MLV5236&S=hc_herramientas&c_tracking_id=c51b6ba0-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": []
+    }
+]

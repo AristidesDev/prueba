@@ -1,0 +1,622 @@
+[
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Artefactos para el Cabello",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/artefactos-cabello/#CATEGORY_ID=MLV455174&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cepillos Eléctricos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electrodomesticos-belleza-cepillos-alisadores/#CATEGORY_ID=MLV409559&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cortadoras de Cabello",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electrodomesticos-belleza-artefactos-cabello-cortadoras/#CATEGORY_ID=MLV5411&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Kits de Aparatos para Cabello",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/artefactos-cabello-kits-aparatos/#CATEGORY_ID=MLV455869&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Planchas de Cabello",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electrodomesticos-belleza-artefactos-cabello-planchas/#CATEGORY_ID=MLV4598&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Repuestos de Cortadora de Pelo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/artefactos-cabello-repuestos-cortadora-pelo/#CATEGORY_ID=MLV456356&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Rizadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electrodomesticos-belleza-artefactos-cabello-rizadoras/#CATEGORY_ID=MLV117276&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Secadores de Cabello",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electrodomesticos-belleza-artefactos-cabello-secadores/#CATEGORY_ID=MLV4597&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Trimmers",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electrodomesticos-belleza-artefactos-cabello-trimmers/#CATEGORY_ID=MLV446228&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electrodomesticos-belleza-artefactos-cabello-otros/#CATEGORY_ID=MLV455197&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Artículos de Peluquería",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/articulos-peluqueria/#CATEGORY_ID=MLV431642&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios de Peluquería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-peluqueria-accesorios/#CATEGORY_ID=MLV447605&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Extensiones y Pelucas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-peluqueria-extensiones-pelucas/#CATEGORY_ID=MLV447568&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Muebles para Peluquerías",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-peluqueria-muebles-peluquerias/#CATEGORY_ID=MLV447601&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-peluqueria-otros/#CATEGORY_ID=MLV431644&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Barbería",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/barberia/#CATEGORY_ID=MLV417575&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Afeitadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-afeitadoras/#CATEGORY_ID=MLV417597&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Brochas de Afeitar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-brochas-afeitar/#CATEGORY_ID=MLV417581&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Bálsamos, Aceites y Tónicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-balsamos-aceites-tonicos/#CATEGORY_ID=MLV417772&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Capas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-capas/#CATEGORY_ID=MLV417580&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cartuchos para Afeitadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-cartuchos-afeitadoras/#CATEGORY_ID=MLV417576&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cepillos Alisadores para Barba",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-cepillos-alisadores-barba/#CATEGORY_ID=MLV433420&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Espumas de Afeitar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-espumas-afeitar/#CATEGORY_ID=MLV417577&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Hojas de Afeitar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-hojas-afeitar/#CATEGORY_ID=MLV417578&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Jabones para Barba",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-jabones-barba/#CATEGORY_ID=MLV417751&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Kits para Barba",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-kits-barba/#CATEGORY_ID=MLV417752&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Navajas de Afeitar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-navajas-afeitar/#CATEGORY_ID=MLV414021&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Peines Barberos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-peines-barberos/#CATEGORY_ID=MLV416970&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Productos Post Afeitar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-productos-post-afeitar/#CATEGORY_ID=MLV416819&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/barberia-otros/#CATEGORY_ID=MLV417595&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Cuidado de la Piel",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/cuidado-piel/#CATEGORY_ID=MLV1253&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Autobronceadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-piel-autobronceadores/#CATEGORY_ID=MLV392401&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Bálsamos Labiales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-piel-balsamos-labiales/#CATEGORY_ID=MLV412637&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cuidado Corporal",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-piel-corporal/#CATEGORY_ID=MLV392701&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cuidado Facial",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-piel-facial/#CATEGORY_ID=MLV392452&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Kits de Cuidado de la Piel",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-piel-kits/#CATEGORY_ID=MLV432665&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Limpieza Facial",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-piel-limpieza-facial/#CATEGORY_ID=MLV447543&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Mascarillas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-piel-mascarillas/#CATEGORY_ID=MLV121512&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Protección Solar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-piel-proteccion-solar/#CATEGORY_ID=MLV447586&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Pulseras Repelentes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/cuidado-piel/pulseras-repelentes/#CATEGORY_ID=MLV417004&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Repelentes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/cuidado-piel/repelentes/#CATEGORY_ID=MLV393890&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-piel-otros/#CATEGORY_ID=MLV121502&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Cuidado del Cabello",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/cuidado-del-cabello/#CATEGORY_ID=MLV1263&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Crema para Peinar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-del-cabello-crema-peinar/#CATEGORY_ID=MLV388017&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Fijadores para el Cabello",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-del-cabello-fijadores/#CATEGORY_ID=MLV388015&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Shampoos y Acondicionadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-del-cabello-shampoos-acondicionadores/#CATEGORY_ID=MLV414007&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Tintes y Decolorantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/cuidado-cabello/tintes-decolorantes/#CATEGORY_ID=MLV457556&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Tratamientos para el Cabello",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-del-cabello-tratamientos/#CATEGORY_ID=MLV117278&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuidado-del-cabello/otros/#CATEGORY_ID=MLV1267&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Depilación",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/depilacion/#CATEGORY_ID=MLV447654&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bandas Depilatorias",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/depilacion-bandas-depilatorias/#CATEGORY_ID=MLV409557&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Bolígrafos Capilares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/depilacion-boligrafos-capilares/#CATEGORY_ID=MLV431641&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Calentadores de Cera",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/depilacion-calentadores-cera/#CATEGORY_ID=MLV393384&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Depiladoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/depilacion-depiladoras/#CATEGORY_ID=MLV431640&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Pinzas de Depilar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/depilacion-pinzas-depilar/#CATEGORY_ID=MLV413522&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Plantillas para Cejas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/depilacion-plantillas-cejas/#CATEGORY_ID=MLV416943&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Resortes Depiladores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/depilacion-resortes-depiladores/#CATEGORY_ID=MLV417345&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/depilacion-otros/#CATEGORY_ID=MLV447669&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Farmacia",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/farmacia/#CATEGORY_ID=MLV999165&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alcohol Etílico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/farmacia/alcohol-etilico/#CATEGORY_ID=MLV180988&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Alcoholes Líquidos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/farmacia/alcoholes-liquidos/#CATEGORY_ID=MLV458021&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Alcoholes en Aerosol",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/_CategID_445794#CATEGORY_ID=MLV445794&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Alcoholes en Spray",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/farmacia/alcoholes-spray/#CATEGORY_ID=MLV458020&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Algodones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/farmacia-algodones/#CATEGORY_ID=MLV431648&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Bicarbonato de Sodio",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/farmacia-bicarbonato-sodio/#CATEGORY_ID=MLV431649&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Bolsas de Colostomía",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/_CategID_435060#CATEGORY_ID=MLV435060&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cuidado Sexual",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/farmacia-cuidado-sexual/#CATEGORY_ID=MLV181035&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cápsulas Vacías",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/farmacia-capsulas-vacias/#CATEGORY_ID=MLV455797&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Gasas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/farmacia-gasas/#CATEGORY_ID=MLV431652&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Geles Antibacteriales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/_CategID_431659#CATEGORY_ID=MLV431659&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Prueba de Embarazo y Ovulación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/_CategID_431651#CATEGORY_ID=MLV431651&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Vendas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/farmacia-vendas/#CATEGORY_ID=MLV435061&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/farmacia-otros/#CATEGORY_ID=MLV431660&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Higiene Personal",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/higiene-personal/#CATEGORY_ID=MLV393366&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Absorbentes de Axilas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-absorbentes-axilas/#CATEGORY_ID=MLV431596&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Afeitadoras Descartables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-afeitadoras-descartables/#CATEGORY_ID=MLV417520&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Bandas Adhesivas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/higiene-personal/bandas-adhesivas/#CATEGORY_ID=MLV416850&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cartuchos para Afeitadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-cartuchos-afeitadoras/#CATEGORY_ID=MLV416700&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cuidado Bucal",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-cuidado-bucal/#CATEGORY_ID=MLV447694&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Desodorantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-desodorantes/#CATEGORY_ID=MLV393368&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Espumas de Afeitar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-espumas-afeitar/#CATEGORY_ID=MLV416858&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Higiene Femenina",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-femenina/#CATEGORY_ID=MLV409575&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Hisopos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-hisopos/#CATEGORY_ID=MLV413175&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Hojas de Afeitar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-hojas-afeitar/#CATEGORY_ID=MLV191046&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Jabones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-jabones/#CATEGORY_ID=MLV447693&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Limpiadores de Oídos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-limpiadores-oidos/#CATEGORY_ID=MLV417679&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Papeles Higiénicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-papeles-higienicos/#CATEGORY_ID=MLV431600&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Pañuelos Descartables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-panuelos-descartables/#CATEGORY_ID=MLV413224&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Protección para Incontinencia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-proteccion-incontinencia/#CATEGORY_ID=MLV455041&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Rascadores de Espalda",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-rascadores-espalda/#CATEGORY_ID=MLV417023&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Talco",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-talco/#CATEGORY_ID=MLV393380&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Toallas Húmedas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-toallas-humedas/#CATEGORY_ID=MLV416707&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-personal-otros/#CATEGORY_ID=MLV393367&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Manicura y Pedicura",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/estetica-belleza/manicura-pedicura/#CATEGORY_ID=MLV447624&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Decoración para Uñas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-decoracion-unas/#CATEGORY_ID=MLV418893&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Dedos para Práctica",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-dedos-practica/#CATEGORY_ID=MLV416696&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Diluyentes de Esmalte",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-diluyentes-esmalte/#CATEGORY_ID=MLV417560&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Esmaltes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-esmaltes/#CATEGORY_ID=MLV120898&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Instrumentos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-instrumentos/#CATEGORY_ID=MLV447641&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Manos para Práctica",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-manos-practica/#CATEGORY_ID=MLV416693&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Mesas para Manicura",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/manicura-pedicura/mesas-manicura/#CATEGORY_ID=MLV416820&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Moldes Protectores de Esmalte",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-moldes-protectores-esmalte/#CATEGORY_ID=MLV430213&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Muestrarios de Uñas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-muestrarios-unas/#CATEGORY_ID=MLV417464&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Pantuflas Desechables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-pantuflas-desechables/#CATEGORY_ID=MLV416984&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Parafineros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-parafineros/#CATEGORY_ID=MLV428952&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Porta Esmaltes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-porta-esmaltes/#CATEGORY_ID=MLV432594&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Removedores de Esmalte",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-removedores-esmalte/#CATEGORY_ID=MLV414076&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Sprays y Gotas Seca Esmaltes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/manicura-pedicura/sprays-gotas-seca-esmaltes/#CATEGORY_ID=MLV417138&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Tratamientos para Manos y Pies",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-tratamientos-manos-pies/#CATEGORY_ID=MLV418895&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Uñas Esculpidas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-unas-esculpidas/#CATEGORY_ID=MLV447642&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/manicuria-pedicuria-otros/#CATEGORY_ID=MLV447649&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Maquillaje",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/maquillaje/#CATEGORY_ID=MLV1248&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Agujas para Microblading",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquillaje-agujas-microblading/#CATEGORY_ID=MLV416716&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Aplicadores y Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquillaje-aplicadores-herramientas/#CATEGORY_ID=MLV409553&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Facial",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquillaje-facial/#CATEGORY_ID=MLV1251&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Labios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquillaje-labios/#CATEGORY_ID=MLV447542&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Maletines de Maquillaje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquillaje-maletines/#CATEGORY_ID=MLV389336&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Ojos, Pestañas y Cejas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/estetica-belleza/maquillaje/ojos-pestanas-cejas/#CATEGORY_ID=MLV1252&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Organizadores de Maquillaje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquillaje-organizadores/#CATEGORY_ID=MLV121498&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Set de Maquillaje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquillaje-set/#CATEGORY_ID=MLV447668&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquillaje-otros/#CATEGORY_ID=MLV1881&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Perfumes",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/estetica-belleza/perfumes/#CATEGORY_ID=MLV1271&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Salud",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/salud/#CATEGORY_ID=MLV447634&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bombas Efervescentes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-bombas-efervescentes/#CATEGORY_ID=MLV414039&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cuidado de la Salud",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-cuidado/#CATEGORY_ID=MLV447632&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Equipamiento Médico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-equipamiento-medico/#CATEGORY_ID=MLV180802&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Masajes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-masajes/#CATEGORY_ID=MLV447587&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Movilidad",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-movilidad/#CATEGORY_ID=MLV447631&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Ortopedia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-ortopedia/#CATEGORY_ID=MLV447625&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Sales de baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-sales-bano/#CATEGORY_ID=MLV412710&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Suplementos Alimenticios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-suplementos-alimenticios/#CATEGORY_ID=MLV447630&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-otros/#CATEGORY_ID=MLV447635&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Tratamientos de Belleza",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/tratamientos-belleza/#CATEGORY_ID=MLV417770&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Correctores Nasales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-correctores-nasales/#CATEGORY_ID=MLV414032&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Dermógrafos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-dermografos/#CATEGORY_ID=MLV455925&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Equipos de Cosmetología",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-equipos-cosmetologia/#CATEGORY_ID=MLV455802&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Equipos de Estética Corporal",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-equipos-estetica-corporal/#CATEGORY_ID=MLV393682&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Guantes Exfoliantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-guantes-exfoliantes/#CATEGORY_ID=MLV417559&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Insumos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-insumos/#CATEGORY_ID=MLV455804&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Microblading",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-microblading/#CATEGORY_ID=MLV431636&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Reductores de Papada",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-reductores-papada/#CATEGORY_ID=MLV431634&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Vinchas Cosmetológicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-vinchas-cosmetologicas/#CATEGORY_ID=MLV417104&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Voluminizadores de Labios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-voluminizadores-labios/#CATEGORY_ID=MLV425043&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/tratamientos-belleza-otros/#CATEGORY_ID=MLV417771&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Estética y Belleza",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/salud-belleza-otros/#CATEGORY_ID=MLV1275&S=hc_estetica-y-belleza&c_tracking_id=c266d2f0-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": []
+    }
+]

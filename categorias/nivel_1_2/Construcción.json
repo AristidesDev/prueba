@@ -1,0 +1,522 @@
+[
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Aberturas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/construccion-aberturas/#CATEGORY_ID=MLV120998&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aleros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aberturas-aleros/#CATEGORY_ID=MLV456074&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Claraboyas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aberturas-claraboyas/#CATEGORY_ID=MLV321151&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Herrajes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aberturas-herrajes/#CATEGORY_ID=MLV321152&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Persianas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aberturas-persianas/#CATEGORY_ID=MLV321149&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Portones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aberturas-portones/#CATEGORY_ID=MLV447404&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Postigos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aberturas-postigos/#CATEGORY_ID=MLV321150&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Puertas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aberturas-puertas/#CATEGORY_ID=MLV122367&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Ventanas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aberturas-ventanas/#CATEGORY_ID=MLV122370&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aberturas-otros/#CATEGORY_ID=MLV122366&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Accesorios de Construcción",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/construccion-accesorios/#CATEGORY_ID=MLV455443&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Andamios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-accesorios-andamios/#CATEGORY_ID=MLV372023&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Carros y Carretillas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-accesorios-carros-carretillas/#CATEGORY_ID=MLV455255&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Escaleras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-accesorios-escaleras/#CATEGORY_ID=MLV447580&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Puntales Telescópicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-accesorios-puntales-telescopicos/#CATEGORY_ID=MLV417264&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Soportes de Vigas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-accesorios-soportes-vigas/#CATEGORY_ID=MLV417265&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-accesorios-otros/#CATEGORY_ID=MLV455444&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Baños y Sanitarios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/construccion-banos-sanitarios/#CATEGORY_ID=MLV411920&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios para Sanitarios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-accesorios/#CATEGORY_ID=MLV417763&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Bidets",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-bidets/#CATEGORY_ID=MLV401166&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Grifería para Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-griferia-bano/#CATEGORY_ID=MLV447407&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Lavamanos para Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-lavamanos-bano/#CATEGORY_ID=MLV447405&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Mamparas y Cabinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion/banos-sanitarios/mamparas-cabinas/#CATEGORY_ID=MLV411923&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Mesadas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion/banos-sanitarios/mesadas/#CATEGORY_ID=MLV457042&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Muebles para Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-muebles-bano/#CATEGORY_ID=MLV454707&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Pocetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-pocetas/#CATEGORY_ID=MLV118042&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Sets de Artefactos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-sets-artefactos/#CATEGORY_ID=MLV447406&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Tinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-tinas/#CATEGORY_ID=MLV443822&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Urinarios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-urinarios/#CATEGORY_ID=MLV401167&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Ventilación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-ventilacion/#CATEGORY_ID=MLV456536&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/banos-sanitarios-otros/#CATEGORY_ID=MLV411928&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Electricidad",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/construccion-electricidad/#CATEGORY_ID=MLV2467&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Ahorradores de Energía",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-ahorradores-energia/#CATEGORY_ID=MLV424834&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Balastros Electrónicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/energia-electrica-balastros-electronicos/#CATEGORY_ID=MLV122410&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Buscapolos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-buscapolos/#CATEGORY_ID=MLV435490&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Cables y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-electricidad-cables-accesorios/#CATEGORY_ID=MLV447466&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Cintas Aisladoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-electricidad-cintas-aisladoras/#CATEGORY_ID=MLV422401&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Cintas Aislantes Líquidas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-cintas-aislantes-liquidas/#CATEGORY_ID=MLV429239&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Energía Solar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-energia-solar/#CATEGORY_ID=MLV436889&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Fotocontroles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-fotocontroles/#CATEGORY_ID=MLV434732&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Fusibles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/energia-electrica-fusibles/#CATEGORY_ID=MLV122422&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Interruptores y Enchufes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-interruptores-enchufes/#CATEGORY_ID=MLV435360&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Motores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-motores/#CATEGORY_ID=MLV122424&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Multímetros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-multimetros/#CATEGORY_ID=MLV435492&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Pinzas Amperimétricas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-pinzas-amperimetricas/#CATEGORY_ID=MLV435491&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Plantas Eléctricas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-plantas-electricas/#CATEGORY_ID=MLV122414&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Tableros y Medidores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-tableros-medidores/#CATEGORY_ID=MLV435347&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Temporizadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electricidad-temporizadores/#CATEGORY_ID=MLV388861&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Transformadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/energia-electrica-transformadores/#CATEGORY_ID=MLV122419&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Tubos Corrugados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-electricidad-tubos-corrugados/#CATEGORY_ID=MLV411424&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/energia-electrica-otros/#CATEGORY_ID=MLV122402&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Materiales de Obra",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/construccion-materiales-obra/#CATEGORY_ID=MLV403697&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Adhesivos y Selladores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-obra-adhesivos-selladores/#CATEGORY_ID=MLV435264&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Alambres",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-alambres/#CATEGORY_ID=MLV425065&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Cables de Acero y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-cables-acero-accesorios/#CATEGORY_ID=MLV455236&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Cenefas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-cenefas/#CATEGORY_ID=MLV417274&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Construcción en Seco",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-seco/#CATEGORY_ID=MLV435266&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Cuerdas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-obra-cuerdas/#CATEGORY_ID=MLV384755&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Fijaciones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-materiales-obra-fijaciones/#CATEGORY_ID=MLV372049&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Hierros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-hierros/#CATEGORY_ID=MLV435288&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Láminas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-laminas/#CATEGORY_ID=MLV372045&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Mallas Ciclónicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-mallas-ciclonicas/#CATEGORY_ID=MLV413517&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Obra Pesada",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-pesada/#CATEGORY_ID=MLV435268&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Sacos de Escombros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-materiales-obra-sacos-escombros/#CATEGORY_ID=MLV412350&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Tubos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-materiales-obra-tubos/#CATEGORY_ID=MLV425054&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Vigas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-vigas/#CATEGORY_ID=MLV425061&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/materiales-construccion-obra-otros/#CATEGORY_ID=MLV403698&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Mobiliario para Cocinas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/construccion-mobiliario-cocinas/#CATEGORY_ID=MLV411938&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Amoblamientos de Cocina",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/mobiliario-cocinas-amoblamientos-cocina/#CATEGORY_ID=MLV447720&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Grifería Convencionales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/mobiliario-cocinas-griferia-convencionales/#CATEGORY_ID=MLV447728&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Griferías Eléctricas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/mobiliario-cocinas-griferias-electricas/#CATEGORY_ID=MLV455667&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/mobiliario-cocinas-otros/#CATEGORY_ID=MLV447730&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Máquinas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/industrias-construccion-maquinas/#CATEGORY_ID=MLV1502&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alisadoras de Pisos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion/maquinas/alisadoras-pisos/#CATEGORY_ID=MLV403705&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Apisonadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-apisonadores/#CATEGORY_ID=MLV431608&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Aserradoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-aserradoras/#CATEGORY_ID=MLV403876&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Bloqueras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-bloqueras/#CATEGORY_ID=MLV403703&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Hormigoneras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-hormigoneras/#CATEGORY_ID=MLV372071&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Mezcladoras de Polvo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-mezcladoras-polvo/#CATEGORY_ID=MLV430756&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-otras/#CATEGORY_ID=MLV403702&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Ranas Compactadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-ranas-compactadoras/#CATEGORY_ID=MLV403877&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Revocadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-revocadoras/#CATEGORY_ID=MLV403704&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Rodillos Compactadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-rodillos-compactadores/#CATEGORY_ID=MLV435528&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Trituradoras de Mandíbulas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-trituradoras-mandibulas/#CATEGORY_ID=MLV432185&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Vibradores de Inmersión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion-maquinas-vibradores-inmersion/#CATEGORY_ID=MLV403878&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Pinturería",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/construccion-pintureria/#CATEGORY_ID=MLV403700&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Acabados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pintureria-acabados/#CATEGORY_ID=MLV435333&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Accesorios para Pintura",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pintureria-accesorios-pintura/#CATEGORY_ID=MLV435332&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Diluyentes y Solventes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pintureria-diluyentes-solventes/#CATEGORY_ID=MLV413236&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Pinturas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pintureria-pinturas/#CATEGORY_ID=MLV447629&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Terminación de Superficies",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pintureria-terminacion-superficies/#CATEGORY_ID=MLV413334&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pintureria-otros/#CATEGORY_ID=MLV403701&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Pisos y Revestimientos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/construccion-pisos-revestimientos/#CATEGORY_ID=MLV447443&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alfombrados para Construcción",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion/pisos-revestimientos/alfombrados-construccion/#CATEGORY_ID=MLV447650&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Azulejos y Mosaicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion/pisos-revestimientos/azulejos-mosaicos/#CATEGORY_ID=MLV391516&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Baldosas de Cemento",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-baldosas-cemento/#CATEGORY_ID=MLV390787&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Bloques de Vidrio",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-bloques-vidrio/#CATEGORY_ID=MLV417223&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Cerámica Simil Madera",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-ceramica-simil-madera/#CATEGORY_ID=MLV413527&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Cerámicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-ceramicas/#CATEGORY_ID=MLV425063&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Empapelados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-empapelados/#CATEGORY_ID=MLV447653&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Entrepisos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-entrepisos/#CATEGORY_ID=MLV417137&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Molduras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-molduras/#CATEGORY_ID=MLV391078&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Pisos Flotantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-flotantes/#CATEGORY_ID=MLV456039&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Pisos Vinílicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-vinilicos/#CATEGORY_ID=MLV321227&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Pisos de Goma",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-goma/#CATEGORY_ID=MLV321226&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Pisos de Madera",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-madera/#CATEGORY_ID=MLV447651&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Placas Antihumedad",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-placas-antihumedad/#CATEGORY_ID=MLV391518&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Porcelanatos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-porcelanatos/#CATEGORY_ID=MLV447652&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Revestimientos Cementicios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-cementicios/#CATEGORY_ID=MLV435291&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Revestimientos de Piedra",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion/pisos-revestimientos/revestimientos-piedra/#CATEGORY_ID=MLV429327&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Rodapiés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-rodapies/#CATEGORY_ID=MLV391077&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pisos-revestimientos-otros/#CATEGORY_ID=MLV447447&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Plomería",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/construccion-plomeria/#CATEGORY_ID=MLV435273&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aislantes Térmicos para Tubos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/plomeria-aislantes-termicos-tubos/#CATEGORY_ID=MLV416827&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Bombas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/plomeria-bombas/#CATEGORY_ID=MLV447690&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Boroscopios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/plomeria-boroscopios/#CATEGORY_ID=MLV417170&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Conexiones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/plomeria-conexiones/#CATEGORY_ID=MLV435316&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Motobombas a Combustión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/plomeria-motobombas-a-combustion/#CATEGORY_ID=MLV419158&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Prolongadores de Cámaras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/construccion/plomeria/prolongadores-camaras/#CATEGORY_ID=MLV429502&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Tanques",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/plomeria-tanques/#CATEGORY_ID=MLV435274&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/plomeria-otros/#CATEGORY_ID=MLV435278&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Construcción",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/industrias-construccion-otros/#CATEGORY_ID=MLV1503&S=hc_construccion&c_tracking_id=b33e5c80-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": []
+    }
+]

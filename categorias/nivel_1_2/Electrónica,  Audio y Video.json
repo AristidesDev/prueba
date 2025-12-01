@@ -1,0 +1,532 @@
+[
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Accesorios para Audio y Video",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-audio-y-video/#CATEGORY_ID=MLV8886&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Adaptadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-audio-y-video/adaptadores/#CATEGORY_ID=MLV447109&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Convertidores de Audio y Video",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-audio-y-video/convertidores-de-audio-y-video/#CATEGORY_ID=MLV430537&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Convertidores de TV",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-audio-y-video/convertidores-de-tv/#CATEGORY_ID=MLV447108&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Punteros Láser",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-audio-video-punteros-laser/#CATEGORY_ID=MLV121570&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Sistemas de Monitoreo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-audio-y-video/sistemas-de-monitoreo/#CATEGORY_ID=MLV409814&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Switches y Splitters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-audio-y-video/switches-y-splitters/#CATEGORY_ID=MLV432569&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-audio-y-video/otros/#CATEGORY_ID=MLV8887&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Accesorios para TV",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/#CATEGORY_ID=MLV431414&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Actualización para TV",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/actualizacion-para-tv/#CATEGORY_ID=MLV447813&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Antenas Parabólicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/antenas-parabolicas/#CATEGORY_ID=MLV431454&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Antenas de TV",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/antenas-de-tv/#CATEGORY_ID=MLV447159&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Bases Elevadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/bases-elevadoras/#CATEGORY_ID=MLV457513&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Bases de TV",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/bases-de-tv/#CATEGORY_ID=MLV11529&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Decodificadores para TV",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/decodificadores-para-tv/#CATEGORY_ID=MLV431416&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Fundas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/fundas/#CATEGORY_ID=MLV457720&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Kits de Antenas Parabólicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/kits-de-antenas-parabolicas/#CATEGORY_ID=MLV431455&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Lentes 3D",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/lentes-3d/#CATEGORY_ID=MLV447160&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Localizadores de Satélites",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/localizadores-de-satelites/#CATEGORY_ID=MLV428963&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/accesorios-para-tv/otros/#CATEGORY_ID=MLV431415&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Audio",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/#CATEGORY_ID=MLV409810&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Amplificadores y Receivers",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/amplificadores-y-receivers/#CATEGORY_ID=MLV431488&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Asistentes Virtuales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/asistentes-virtuales/#CATEGORY_ID=MLV409415&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Audio Portátil y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/audio-portatil-y-accesorios/#CATEGORY_ID=MLV431428&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Audífonos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/audifonos/#CATEGORY_ID=MLV8901&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Cassetteras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/cassetteras/#CATEGORY_ID=MLV447425&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Cassettes de Audio",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/cassettes-de-audio/#CATEGORY_ID=MLV447427&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Cornetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/cornetas/#CATEGORY_ID=MLV1022&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Dispositivos Traductores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-video/audio/dispositivos-traductores/#CATEGORY_ID=MLV457936&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Driver, Difusor y Diafragma",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/driver-difusor-y-diafragma/#CATEGORY_ID=MLV447275&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Equipos de DJ y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/equipos-de-dj-y-accesorios/#CATEGORY_ID=MLV3837&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Estudio de Grabación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/estudio-de-grabacion/#CATEGORY_ID=MLV431445&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Grabadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/grabadoras/#CATEGORY_ID=MLV431452&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Home Theaters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/home-theaters/#CATEGORY_ID=MLV1015&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Megáfonos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/megafonos/#CATEGORY_ID=MLV447430&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Micrófonos y Preamplificadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/microfonos-y-preamplificadores/#CATEGORY_ID=MLV447216&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "MiniDiscs",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/minidiscs/#CATEGORY_ID=MLV447429&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Minicomponentes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/minicomponentes/#CATEGORY_ID=MLV1014&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Máquinas de Ruido Blanco",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-video/audio/maquinas-ruido-blanco/#CATEGORY_ID=MLV457852&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Radio Despertadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/radio-despertadores/#CATEGORY_ID=MLV447432&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Radiograbadores Digitales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-video/audio/radiograbadores-digitales/#CATEGORY_ID=MLV447424&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Radios AM/FM",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/radios-am/fm/#CATEGORY_ID=MLV103757&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Reproductores de CDs",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/reproductores-de-cds/#CATEGORY_ID=MLV447426&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Sintonizadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/sintonizadores/#CATEGORY_ID=MLV447431&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Soportes de Home Theaters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/soportes-de-home-theaters/#CATEGORY_ID=MLV431491&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Soportes para Cornetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/soportes-para-cornetas/#CATEGORY_ID=MLV447428&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Tocadiscos y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/tocadiscos-y-accesorios/#CATEGORY_ID=MLV431449&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Torres de Sonido",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/torres-de-sonido/#CATEGORY_ID=MLV455686&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/audio/otros/#CATEGORY_ID=MLV409811&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Cables",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/cables/#CATEGORY_ID=MLV447213&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cables Power",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/cables/cables-power/#CATEGORY_ID=MLV431829&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Cables de Audio y Video",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/cables/cables-de-audio-y-video/#CATEGORY_ID=MLV8884&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Cables de Datos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/cables/cables-de-datos/#CATEGORY_ID=MLV431803&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Cables de Red",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/cables/cables-de-red/#CATEGORY_ID=MLV431806&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Canaletas para Cables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-video/cables/canaletas-cables/#CATEGORY_ID=MLV432162&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros Cables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/cables/otros-cables/#CATEGORY_ID=MLV447239&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Componentes Electrónicos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/#CATEGORY_ID=MLV447101&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Conectores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/conectores/#CATEGORY_ID=MLV122816&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Conversores de Corriente",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/conversores-de-corriente/#CATEGORY_ID=MLV380653&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Disipadores Térmicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/disipadores-termicos/#CATEGORY_ID=MLV455492&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Displays LCD",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/displays-lcd/#CATEGORY_ID=MLV420226&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Fuentes Conmutadas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/fuentes-conmutadas/#CATEGORY_ID=MLV420350&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Inversores de Corriente",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/inversores-de-corriente/#CATEGORY_ID=MLV380666&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Lectores Láser",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/lectores-laser/#CATEGORY_ID=MLV417167&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Pasivos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/pasivos/#CATEGORY_ID=MLV455490&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Placas de Microcontroladores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/placas-de-microcontroladores/#CATEGORY_ID=MLV372999&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Plaquetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/plaquetas/#CATEGORY_ID=MLV380658&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Programadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/programadores/#CATEGORY_ID=MLV447416&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Protoboards",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/protoboards/#CATEGORY_ID=MLV417774&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Semiconductores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/semiconductores/#CATEGORY_ID=MLV455488&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Sensores Inductivos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/sensores-inductivos/#CATEGORY_ID=MLV380654&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/componentes-electronicos/otros/#CATEGORY_ID=MLV447414&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Controles Remoto",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/controles-remoto/#CATEGORY_ID=MLV8894&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Para Media Streaming Players",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/controles-remoto/para-media-streaming-players/#CATEGORY_ID=MLV430186&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Para Reproductores de Video",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/controles-remoto/para-reproductores-de-video/#CATEGORY_ID=MLV447434&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Para TV",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/controles-remoto/para-tv/#CATEGORY_ID=MLV447433&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/controles-remoto/otros/#CATEGORY_ID=MLV447436&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Drones y Accesorios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/drones-y-accesorios/#CATEGORY_ID=MLV117274&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios y Repuestos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/drones-y-accesorios/accesorios-y-repuestos/#CATEGORY_ID=MLV122347&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Drones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/drones-y-accesorios/drones/#CATEGORY_ID=MLV122346&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/drones-y-accesorios/otros/#CATEGORY_ID=MLV122348&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Estuches y Bolsos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/estuches-y-bolsos/#CATEGORY_ID=MLV9661&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Para Controles Remoto",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/estuches-y-bolsos/para-controles-remoto/#CATEGORY_ID=MLV447445&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Para Filmadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/estuches-y-bolsos/para-filmadoras/#CATEGORY_ID=MLV447446&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Para Proyectores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/estuches-y-bolsos/para-proyectores/#CATEGORY_ID=MLV447444&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/estuches-y-bolsos/otros/#CATEGORY_ID=MLV80486&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Media Streaming",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/media-streaming/#CATEGORY_ID=MLV352001&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Pilas y Cargadores",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/pilas-y-cargadores/#CATEGORY_ID=MLV447062&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cargadores de Pilas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/pilas-y-cargadores/cargadores-de-pilas/#CATEGORY_ID=MLV60185&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Pilas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/pilas-y-cargadores/pilas/#CATEGORY_ID=MLV60174&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Transformadores y Fuentes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/pilas-y-cargadores/transformadores-y-fuentes/#CATEGORY_ID=MLV447448&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/pilas-y-cargadores/otros/#CATEGORY_ID=MLV60187&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Proyectores y Pantallas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/proyectores-y-pantallas/#CATEGORY_ID=MLV447450&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Fundas y Estuches",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/proyectores-y-pantallas/fundas-y-estuches/#CATEGORY_ID=MLV431418&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Módulos Led",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/proyectores-y-pantallas/modulos-led/#CATEGORY_ID=MLV455833&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Pantallas Eléctricas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-video/proyectores-pantallas/pantallas-electricas/#CATEGORY_ID=MLV457948&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Pantallas Manuales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-video/proyectores-pantallas/pantallas-manuales/#CATEGORY_ID=MLV447454&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Piezas de Reposición",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/proyectores-y-pantallas/piezas-de-reposicion/#CATEGORY_ID=MLV431417&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Proyectores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/proyectores-y-pantallas/proyectores/#CATEGORY_ID=MLV447452&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Retroproyectores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/proyectores-y-pantallas/retroproyectores/#CATEGORY_ID=MLV395949&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Soportes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/proyectores-y-pantallas/soportes/#CATEGORY_ID=MLV447453&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/proyectores-y-pantallas/otros/#CATEGORY_ID=MLV447455&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Repuestos para TV",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/repuestos-para-tv/#CATEGORY_ID=MLV322074&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bombillos de TV",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/repuestos-para-tv/bombillos-de-tv/#CATEGORY_ID=MLV412736&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Botoneras de TV",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/repuestos-para-tv/botoneras-de-tv/#CATEGORY_ID=MLV413559&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Cables Flex",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/repuestos-para-tv/cables-flex/#CATEGORY_ID=MLV409649&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Flybacks",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/repuestos-para-tv/flybacks/#CATEGORY_ID=MLV413540&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Fuentes de Poder",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/repuestos-para-tv/fuentes-de-poder/#CATEGORY_ID=MLV122817&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Tarjetas de Video",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/repuestos-para-tv/tarjetas-de-video/#CATEGORY_ID=MLV122818&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Tira para Led",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/repuestos-para-tv/tira-para-led/#CATEGORY_ID=MLV409592&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/repuestos-para-tv/otros/#CATEGORY_ID=MLV409591&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "TVs",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/tvs/#CATEGORY_ID=MLV1002&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Video",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/video/#CATEGORY_ID=MLV447211&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cassettes de Video",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/video/cassettes-de-video/#CATEGORY_ID=MLV447242&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "DVD Portátiles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/video/dvd-portatiles/#CATEGORY_ID=MLV9370&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Receptores Satelitales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/video/receptores-satelitales/#CATEGORY_ID=MLV447243&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Reproductores Blu-Ray",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/video/reproductores-blu-ray/#CATEGORY_ID=MLV1005&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Reproductores de DVD",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/video/reproductores-de-dvd/#CATEGORY_ID=MLV1004&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Soportes para DVD",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/video/soportes-para-dvd/#CATEGORY_ID=MLV447244&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "VHS",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/video/vhs/#CATEGORY_ID=MLV6168&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/video/otros/#CATEGORY_ID=MLV1009&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Electrónica,  Audio y Video",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/electronica-audio-y-video/otros/#CATEGORY_ID=MLV1070&S=hc_electronica-audio-y-video&c_tracking_id=be826cd0-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    }
+]

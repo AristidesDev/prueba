@@ -1,0 +1,459 @@
+[
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Abrigos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/abrigos/#CATEGORY_ID=MLV458048&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Ahuyentadores Ultrasónicos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/ahuyentadores-ultrasonicos/#CATEGORY_ID=MLV458043&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Aves",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/aves/#CATEGORY_ID=MLV447465&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alimentos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aves-alimentos/#CATEGORY_ID=MLV447532&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Anillos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aves-anillos/#CATEGORY_ID=MLV429115&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Aves",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ave/#CATEGORY_ID=MLV447526&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Bebederos y Comederos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aves-bebederos-comederos/#CATEGORY_ID=MLV412638&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Cetrería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aves-cetreria/#CATEGORY_ID=MLV434841&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Huevos Fértiles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aves-huevos-fertiles/#CATEGORY_ID=MLV429112&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Incubadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aves-incubadoras/#CATEGORY_ID=MLV447534&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Juguetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aves-juguetes/#CATEGORY_ID=MLV418087&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Nidos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aves-nidos/#CATEGORY_ID=MLV434840&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Pelotas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/aves/pelotas/#CATEGORY_ID=MLV457310&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/aves-otro/#CATEGORY_ID=MLV447533&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Botas y Zapatos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/botas-zapatos/#CATEGORY_ID=MLV458049&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Caballos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/caballos/#CATEGORY_ID=MLV447544&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Caballos y Yeguas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/caballos-yeguas/#CATEGORY_ID=MLV447546&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Carretas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/caballos-carretas/#CATEGORY_ID=MLV429300&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Higiene y Cuidado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/caballos-higiene-cuidado/#CATEGORY_ID=MLV435033&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Suplementos para Caballos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/caballos-suplementos/#CATEGORY_ID=MLV429105&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/caballos-otros/#CATEGORY_ID=MLV447545&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Cepillos y Peines",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/cepillos-peines/#CATEGORY_ID=MLV458037&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Cinturones de Seguridad",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/cinturones-seguridad/#CATEGORY_ID=MLV458042&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Collares",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/collares/#CATEGORY_ID=MLV458036&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Conejos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/conejos/#CATEGORY_ID=MLV447555&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Conejos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/conejo/#CATEGORY_ID=MLV447561&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Cortaúñas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/conejos/cortaunas/#CATEGORY_ID=MLV457315&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Jaulas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/conejos-jaulas/#CATEGORY_ID=MLV447560&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Pelotas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/conejos/pelotas/#CATEGORY_ID=MLV457309&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/conejos-otros/#CATEGORY_ID=MLV447562&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Contenedores de Alimento",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/contenedores-alimento/#CATEGORY_ID=MLV458045&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Correas para Mascotas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/correas-mascotas/#CATEGORY_ID=MLV370459&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Cortaúñas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/cortaunas/#CATEGORY_ID=MLV458050&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Gatos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/mascotas-gatos/#CATEGORY_ID=MLV1081&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos-accesorios/#CATEGORY_ID=MLV1088&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Ahuyentadores Ultrasónicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/gatos/ahuyentadores-ultrasonicos/#CATEGORY_ID=MLV457547&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Alimento, Premios y Suplemento",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos-alimento-premios-suplemento/#CATEGORY_ID=MLV434779&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Bozales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/gatos/bozales/#CATEGORY_ID=MLV457276&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Camas y Cuchas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos-camas-cuchas/#CATEGORY_ID=MLV434788&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Comederos y Bebederos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos-comederos-bebederos/#CATEGORY_ID=MLV447584&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Contenedores de Alimento",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/gatos/contenedores-alimento/#CATEGORY_ID=MLV457542&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Estética e Higiene",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos-estetica-e-higiene/#CATEGORY_ID=MLV447570&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Gatos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos/#CATEGORY_ID=MLV1082&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Indumentaria y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/gatos/indumentaria-accesorios/#CATEGORY_ID=MLV457539&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Juguetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos-juguetes/#CATEGORY_ID=MLV447581&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Kits de Juguetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/gatos/kits-juguetes/#CATEGORY_ID=MLV457875&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Pelotas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/gatos/pelotas/#CATEGORY_ID=MLV457249&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Puertas y Rampas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos-puertas-rampas/#CATEGORY_ID=MLV434781&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Soportes para Rehabilitación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/gatos/soportes-rehabilitacion/#CATEGORY_ID=MLV458903&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Viaje y Paseo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos-viaje-paseo/#CATEGORY_ID=MLV434784&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gatos-otros/#CATEGORY_ID=MLV1090&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Golosinas para Mascotas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/golosinas-mascotas/#CATEGORY_ID=MLV458038&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Insectos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/insectos/#CATEGORY_ID=MLV429311&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cucarachas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insectos-cucarachas/#CATEGORY_ID=MLV429328&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Escarabajos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insectos-escarabajos/#CATEGORY_ID=MLV429314&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Grillos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insectos-grillos/#CATEGORY_ID=MLV429313&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insectos-otros/#CATEGORY_ID=MLV429312&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Jabones",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/jabones/#CATEGORY_ID=MLV458033&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Jaulas para Mascotas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/jaulas-mascotas/#CATEGORY_ID=MLV456660&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Moños",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/monos/#CATEGORY_ID=MLV458046&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Otros Accesorios para Animales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-y-mascotas-otros/#CATEGORY_ID=MLV1126&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Pastas Dentales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/pastas-dentales/#CATEGORY_ID=MLV458051&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Pañales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/panales/#CATEGORY_ID=MLV458040&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Peces",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/peces/#CATEGORY_ID=MLV447598&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alimentos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/peces-alimentos/#CATEGORY_ID=MLV447621&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Peceras y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/peces-peceras-accesorios/#CATEGORY_ID=MLV447609&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Peces",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/pece/#CATEGORY_ID=MLV447622&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/peces-otros/#CATEGORY_ID=MLV447623&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Perros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/perros/#CATEGORY_ID=MLV1072&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Adiestramiento",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-adiestramiento/#CATEGORY_ID=MLV32261&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Alimento, Premios y Suplemento",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-alimento-premios-suplemento/#CATEGORY_ID=MLV434760&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Bebederos y Comederos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-bebederos-comederos/#CATEGORY_ID=MLV434771&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Cachorros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-cachorros/#CATEGORY_ID=MLV7430&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Camas y Casas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-camas-cuchas/#CATEGORY_ID=MLV447673&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Estética e Higiene",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-estetica-e-higiene/#CATEGORY_ID=MLV447674&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Juguetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-juguetes/#CATEGORY_ID=MLV447685&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Perros de Cruza",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-cruza/#CATEGORY_ID=MLV417323&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Perros en Adopción",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-adopcion/#CATEGORY_ID=MLV369570&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Puertas, Rampas y Corrales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-puertas-rampas-corrales/#CATEGORY_ID=MLV434762&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Ropa para Perros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-ropa/#CATEGORY_ID=MLV11060&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Sillas de Ruedas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-sillas-ruedas/#CATEGORY_ID=MLV429133&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Soportes para Rehabilitación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/perros/soportes-rehabilitacion/#CATEGORY_ID=MLV458902&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Viaje y Paseo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-viaje-paseo/#CATEGORY_ID=MLV434764&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/perros-otros/#CATEGORY_ID=MLV1080&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Pilotos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/animales-mascotas/pilotos/#CATEGORY_ID=MLV458041&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Reptiles y Anfibios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/reptiles-anfibios/#CATEGORY_ID=MLV447732&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alimentos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/reptiles-anfibios-alimentos/#CATEGORY_ID=MLV406033&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Terrarios y Tortugueros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/reptiles-anfibios-terrarios-tortugueros/#CATEGORY_ID=MLV434852&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/reptiles-anfibios-otros/#CATEGORY_ID=MLV406031&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Animales y Mascotas",
+        "nombre_categoria_1": "Roedores",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/roedores/#CATEGORY_ID=MLV447733&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alimentos y Vitaminas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/roedores-alimentos-vitaminas/#CATEGORY_ID=MLV434848&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Bebederos y Comederos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/roedores-bebederos-comederos/#CATEGORY_ID=MLV412658&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Casas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/roedores-casas/#CATEGORY_ID=MLV431945&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Cortaúñas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-mascotas/roedores/cortaunas/#CATEGORY_ID=MLV457314&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Juguetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/roedores-juguetes/#CATEGORY_ID=MLV412737&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Roedores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/roedore/#CATEGORY_ID=MLV412656&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Shampoos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/roedores-shampoos/#CATEGORY_ID=MLV437349&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Sustratos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/roedores-sustratos/#CATEGORY_ID=MLV412640&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/roedores-otro/#CATEGORY_ID=MLV412657&S=hc_animales-y-mascotas&c_tracking_id=91f5da80-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    }
+]

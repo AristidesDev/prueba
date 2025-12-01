@@ -1,0 +1,111 @@
+[
+    {
+        "categoria_base": "Carros, Motos y Otros",
+        "nombre_categoria_1": "Carros y Camionetas",
+        "url_categoria_1": "https://carros.mercadolibre.com.ve/#CATEGORY_ID=MLV1744&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Carros, Motos y Otros",
+        "nombre_categoria_1": "Maquinaria Pesada",
+        "url_categoria_1": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada/#CATEGORY_ID=MLV405183&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Minicargadoras",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada-minicargadoras/#CATEGORY_ID=MLV455844&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Otras Maquinarias",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/maquinaria-pesada-otras-maquinarias/#CATEGORY_ID=MLV405186&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Carros, Motos y Otros",
+        "nombre_categoria_1": "Motos",
+        "url_categoria_1": "https://motos.mercadolibre.com.ve/#CATEGORY_ID=MLV1763&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Carros, Motos y Otros",
+        "nombre_categoria_1": "Náutica",
+        "url_categoria_1": "https://vehiculos.mercadolibre.com.ve/nautica/#CATEGORY_ID=MLV6112&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Botes y Canoas",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-botes-y-canoas/#CATEGORY_ID=MLV44042&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Motos de Agua",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-motos-agua/#CATEGORY_ID=MLV44039&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Peñeros",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-peneros/#CATEGORY_ID=MLV44041&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Puestos en Marinas",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-puestos-marinas/#CATEGORY_ID=MLV60750&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/nautica-otros/#CATEGORY_ID=MLV44037&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Carros, Motos y Otros",
+        "nombre_categoria_1": "Otros Vehículos",
+        "url_categoria_1": "https://vehiculos.mercadolibre.com.ve/otros/#CATEGORY_ID=MLV1907&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Ambulancias",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/ambulancias/#CATEGORY_ID=MLV11915&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Autobuses",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/autobuses/#CATEGORY_ID=MLV9374&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Aviones",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/aviones/#CATEGORY_ID=MLV122216&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Camiones",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/camiones/#CATEGORY_ID=MLV41696&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Carros de Colección",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/carros-de-coleccion/#CATEGORY_ID=MLV53286&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Chocados",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/chocados/#CATEGORY_ID=MLV53276&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Gruas",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/gruas/#CATEGORY_ID=MLV52943&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Kartings",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/kartings/#CATEGORY_ID=MLV9069&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Maquinaria Pesada",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/maquinaria-pesada/#CATEGORY_ID=MLV41706&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Motorhomes",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/motorhomes/#CATEGORY_ID=MLV7370&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Taxis",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/taxis/#CATEGORY_ID=MLV47913&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://vehiculos.mercadolibre.com.ve/otros/otros-vehiculos/#CATEGORY_ID=MLV4096&S=hc_carros-motos-y-otros&c_tracking_id=fdb15a10-ce66-11f0-9464-a11b190b4580"
+            }
+        ]
+    }
+]

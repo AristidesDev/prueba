@@ -1,0 +1,231 @@
+[
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Acción de Club",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/accion-de-club/#CATEGORY_ID=MLV50970&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/accion-de-club/alquiler/#CATEGORY_ID=MLV50971&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/accion-de-club/venta/#CATEGORY_ID=MLV50972&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Anexos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/otro-inmueble/#CATEGORY_ID=MLV1892&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/otro-inmueble/alquiler/#CATEGORY_ID=MLV6395&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/otro-inmueble/venta/#CATEGORY_ID=MLV6396&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Apartamentos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/apartamentos/#CATEGORY_ID=MLV1472&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/apartamentos/alquiler/#CATEGORY_ID=MLV1473&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Alquiler Vacacional",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/apartamentos/alquiler-vacacional/#CATEGORY_ID=MLV118046&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apartamentos-venta/#CATEGORY_ID=MLV455676&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Casas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/casas/#CATEGORY_ID=MLV1466&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/casas/alquiler/#CATEGORY_ID=MLV1467&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Alquiler Vacacional",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/casas/alquiler-vacacional/#CATEGORY_ID=MLV118047&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/casas-venta/#CATEGORY_ID=MLV455672&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Edificios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/edificios/#CATEGORY_ID=MLV50957&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/edificios/alquiler/#CATEGORY_ID=MLV50958&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/edificios/venta/#CATEGORY_ID=MLV50959&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Galpones",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/galpones/#CATEGORY_ID=MLV50951&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/galpones/alquiler/#CATEGORY_ID=MLV50952&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/galpones/venta/#CATEGORY_ID=MLV50953&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Habitaciones",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/habitaciones/#CATEGORY_ID=MLV60774&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/habitaciones/alquiler/#CATEGORY_ID=MLV60775&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Haciendas - Fincas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/haciendas-fincas/#CATEGORY_ID=MLV50964&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/haciendas-fincas/alquiler/#CATEGORY_ID=MLV50965&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/haciendas-fincas/venta/#CATEGORY_ID=MLV50966&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Hoteles y Resorts",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/hoteles-resorts/#CATEGORY_ID=MLV50960&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/hoteles-resorts/alquiler/#CATEGORY_ID=MLV50961&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Alquiler Vacacional",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/hoteles-resorts/alquiler-vacacional/#CATEGORY_ID=MLV118048&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/hoteles-resorts/venta/#CATEGORY_ID=MLV50962&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Locales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/locales/#CATEGORY_ID=MLV68199&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/locales/alquiler/#CATEGORY_ID=MLV68201&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/locales/venta/#CATEGORY_ID=MLV68200&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Negocios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/negocios/#CATEGORY_ID=MLV50529&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/negocios/alquiler/#CATEGORY_ID=MLV50528&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/negocios/venta/#CATEGORY_ID=MLV50530&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Oficinas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/oficinas/#CATEGORY_ID=MLV1487&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/oficinas/alquiler/#CATEGORY_ID=MLV1488&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/oficinas-venta/#CATEGORY_ID=MLV455683&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Parcelas de Cementerio",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/parcelas-cementerio/#CATEGORY_ID=MLV50968&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/parcelas-cementerio/venta/#CATEGORY_ID=MLV50969&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Terrenos y Lotes",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/terrenos-lotes/#CATEGORY_ID=MLV1493&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/terrenos/alquiler/#CATEGORY_ID=MLV1494&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/terrenos-lotes-venta/#CATEGORY_ID=MLV455679&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Inmuebles",
+        "nombre_categoria_1": "Townhouses",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/inmuebles/townhouses/#CATEGORY_ID=MLV60745&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alquiler",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/townhouses/alquiler/#CATEGORY_ID=MLV60747&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            },
+            {
+                "nombre_categoria_2": "Venta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/inmuebles/townhouses/venta/#CATEGORY_ID=MLV60746&S=hc_inmuebles&c_tracking_id=ff64fd80-ce66-11f0-8ade-65b9fbb8be0e"
+            }
+        ]
+    }
+]

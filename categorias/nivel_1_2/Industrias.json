@@ -1,0 +1,652 @@
+[
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Arquitectura y Diseño",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/arquitectura-diseno/#CATEGORY_ID=MLV447438&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Materiales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/arquitectura-diseno-materiales/#CATEGORY_ID=MLV447442&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Planos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/arquitectura-diseno-planos/#CATEGORY_ID=MLV447441&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Tableros y Mesas de Dibujo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/arquitectura-diseno/tableros-mesas-dibujo/#CATEGORY_ID=MLV447439&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/arquitectura-diseno-otros/#CATEGORY_ID=MLV447440&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Embalaje y Logística",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/embalaje-logistica/#CATEGORY_ID=MLV447218&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bolsos Térmicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/embalaje-logistica/bolsos-termicos/#CATEGORY_ID=MLV417158&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Dispensador de Cinta Eléctrico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/embalaje-logistica/dispensador-cinta-electrico/#CATEGORY_ID=MLV457323&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Dispensadores de Cinta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/embalajes-dispensadores-cinta/#CATEGORY_ID=MLV416558&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Envasadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/embalajes-envasadoras/#CATEGORY_ID=MLV454794&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Flejadoras y Tensoras Manuales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/embalaje-logistica/flejadoras-tensoras-manuales/#CATEGORY_ID=MLV405181&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Materiales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/embalaje-logistica-materiales/#CATEGORY_ID=MLV454898&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Mochilas Térmicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/embalaje-logistica/mochilas-termicas/#CATEGORY_ID=MLV458069&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Selladoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/embalajes-selladoras/#CATEGORY_ID=MLV454793&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Túneles Termocontraíbles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/embalajes-tuneles-termocontraibles/#CATEGORY_ID=MLV416660&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/embalajes-otros/#CATEGORY_ID=MLV405113&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Equipamiento Médico",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/equipamiento-medico/#CATEGORY_ID=MLV454798&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cabinas de Flujo Laminar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-cabinas-flujo-laminar/#CATEGORY_ID=MLV999163&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Desfibriladores Externos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-desfibriladores-externos/#CATEGORY_ID=MLV454800&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Educación y Entrenamiento",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-educacion-entrenamiento/#CATEGORY_ID=MLV454801&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Encapsuladoras Manuales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-encapsuladoras-manuales/#CATEGORY_ID=MLV999164&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Equipamiento Odontológico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-odontologico/#CATEGORY_ID=MLV454806&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Equipos de Magnetoterapia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-equipos-magnetoterapia/#CATEGORY_ID=MLV454828&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Equipos de Monitoreo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-equipos-monitoreo/#CATEGORY_ID=MLV454829&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Instrumental Médico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-instrumental/#CATEGORY_ID=MLV454845&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Lámparas Cialíticas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/equipamiento-medico/lamparas-cialiticas/#CATEGORY_ID=MLV457744&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Material de Laboratorio",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-material-laboratorio/#CATEGORY_ID=MLV454858&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Mobiliario Clínico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-mobiliario-clinico/#CATEGORY_ID=MLV454873&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Máquinas Centrífugas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/equipamiento-medico/maquinas-centrifugas/#CATEGORY_ID=MLV454799&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Oxigenoterapia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-oxigenoterapia/#CATEGORY_ID=MLV454885&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-medico-otros/#CATEGORY_ID=MLV454893&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Equipamiento para Comercios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/equipamiento-comercios/#CATEGORY_ID=MLV447158&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Balanzas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercios-balanzas/#CATEGORY_ID=MLV454938&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Butacas para Cines y Teatros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercios-butacas-cines-teatros/#CATEGORY_ID=MLV417319&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Canastos de Supermercado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/equipamiento-comercios/canastos-supermercado/#CATEGORY_ID=MLV455777&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Carritos de Supermercado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/equipamiento-comercios/carritos-supermercado/#CATEGORY_ID=MLV413530&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cobro y Control",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercial-cobro-control/#CATEGORY_ID=MLV454777&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cortinas Metálicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercios-cortinas-metalicas/#CATEGORY_ID=MLV417247&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cortinas para Refrigeración",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/equipamiento-comercios/cortinas-refrigeracion/#CATEGORY_ID=MLV414160&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Dispensadores de Números",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/equipamiento-comercios/dispensadores-numeros/#CATEGORY_ID=MLV414024&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Dispensadores de Vasos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercios-dispensadores-vasos/#CATEGORY_ID=MLV431742&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Etiquetado de Mercadería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercios-etiquetado-mercaderia/#CATEGORY_ID=MLV454934&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Locutorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercios-locutorios/#CATEGORY_ID=MLV447288&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Máquinas Expendedoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercios-maquinas-expendedoras/#CATEGORY_ID=MLV447286&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Organización y Exhibición",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercios-organizacion-exhibicion/#CATEGORY_ID=MLV454936&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-comercial-otros/#CATEGORY_ID=MLV447298&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Equipamiento para Oficinas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/equipamiento-oficinas/#CATEGORY_ID=MLV8535&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Control de Acceso y Asistencia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-oficinas-control-acceso-asistencia/#CATEGORY_ID=MLV454771&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cortadoras de Tarjetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-oficinas-cortadoras-tarjetas/#CATEGORY_ID=MLV416772&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cubículos de Oficina",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/equipamiento-oficinas/cubiculos-oficina/#CATEGORY_ID=MLV416584&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Fotocopiadoras y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/equipamiento-para-oficinas/fotocopiadoras-y-accesorios/#CATEGORY_ID=MLV1941&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Impresoras de Credenciales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-oficinas-impresoras-credenciales/#CATEGORY_ID=MLV432928&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Mesas, Sillas y Escritorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-oficinas-mesas-sillas-escritorios/#CATEGORY_ID=MLV29760&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Muebles de Guardado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-oficinas-muebles-guardado/#CATEGORY_ID=MLV454775&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Organización para Oficinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-oficinas-organizacion/#CATEGORY_ID=MLV454769&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Regatones para Sillas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/equipamiento-oficinas/regatones-sillas/#CATEGORY_ID=MLV430928&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Teléfonos y Faxes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-oficinas-telefonos-faxes/#CATEGORY_ID=MLV9503&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Trituradoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/equipamiento-oficinas-trituradoras/#CATEGORY_ID=MLV412579&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/oficinas-otros/#CATEGORY_ID=MLV8522&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Gastronomía y Hotelería",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria/#CATEGORY_ID=MLV29758&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios para Restaurantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-accesorios-restaurantes/#CATEGORY_ID=MLV417285&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cafeteras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-cafeteras/#CATEGORY_ID=MLV447317&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Carritos de Servicio",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/gastronomia-hoteleria/carritos-servicio/#CATEGORY_ID=MLV417198&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Carros de Comida",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-carros-comida/#CATEGORY_ID=MLV178346&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cervecería Artesanal",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-cerveceria-artesanal/#CATEGORY_ID=MLV417290&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cocción",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-coccion/#CATEGORY_ID=MLV447157&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Equipamiento de Panadería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-equipamiento-panaderia/#CATEGORY_ID=MLV454922&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Fabricadora de Helados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-fabricadora-helados/#CATEGORY_ID=MLV380110&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Fabricadoras de Hielo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-fabricadoras-hielo/#CATEGORY_ID=MLV380111&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Limpieza y Organización",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-limpieza-organizacion/#CATEGORY_ID=MLV454930&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Mantenedores Calientes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-mantenedores-calientes/#CATEGORY_ID=MLV454928&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Mesas de Trabajo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-mesas-trabajo/#CATEGORY_ID=MLV447325&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Máquinas de Cotufas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-maquinas-cotufas/#CATEGORY_ID=MLV413200&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros Artículos Industriales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industria-alimentaria-otros-articulos-industriales/#CATEGORY_ID=MLV122280&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Preparación de Bebidas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industria-gastronomica-preparacion-bebidas/#CATEGORY_ID=MLV454896&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Procesado de Alimentos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-procesado-alimentos/#CATEGORY_ID=MLV454924&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Refrigeración",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-refrigeracion/#CATEGORY_ID=MLV447318&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Tratamiento de Lácteos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-tratamiento-lacteos/#CATEGORY_ID=MLV454920&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Tratamiento de la Carne",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/gastronomia-hoteleria-tratamiento-carne/#CATEGORY_ID=MLV454918&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Gráfica e Impresión",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/grafica-e-impresion/#CATEGORY_ID=MLV412676&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Codificadoras y Fechadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/grafica-impresion/codificadoras-fechadoras/#CATEGORY_ID=MLV416708&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cortadores de Cinta Eléctricos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/grafica-e-impresion-cortadores-cinta-electricos/#CATEGORY_ID=MLV433119&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cuchillas para Plotters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/grafica-e-impresion/cuchillas-para-plotters/#CATEGORY_ID=MLV430927&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Hendidoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/grafica-e-impresion-hendidoras/#CATEGORY_ID=MLV252528&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Impresoras Offset",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/grafica-e-impresion-impresoras-offset/#CATEGORY_ID=MLV412682&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Impresoras Térmicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/grafica-e-impresion-impresoras-termicas/#CATEGORY_ID=MLV456343&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Plastificado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industria-grafica-e-impresion-plastificado/#CATEGORY_ID=MLV454779&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Plotters de Corte",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/grafica-e-impresion/plotters-de-corte/#CATEGORY_ID=MLV1681&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Serigrafía",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/grafica-e-impresion-serigrafia/#CATEGORY_ID=MLV454782&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Tampográficas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/grafica-e-impresion-tampograficas/#CATEGORY_ID=MLV454784&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industria-grafica-e-impresion-otros/#CATEGORY_ID=MLV412680&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Herramientas Industriales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/herramientas-industriale/#CATEGORY_ID=MLV454785&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Balanceadoras de Ruedas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-balanceadoras-ruedas/#CATEGORY_ID=MLV454969&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Bobinadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-bobinadora/#CATEGORY_ID=MLV455003&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "CNC",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-cnc/#CATEGORY_ID=MLV371969&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Calderas Industriales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-calderas/#CATEGORY_ID=MLV416842&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Carga y Descarga",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-carga-descarg/#CATEGORY_ID=MLV454992&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Colectores de Polvo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-colectores-polv/#CATEGORY_ID=MLV455463&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Conformado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-conformado/#CATEGORY_ID=MLV454789&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Enfriadores de Agua",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-enfriadores-agua/#CATEGORY_ID=MLV416864&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Equip. Pintura Electrostática",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-equip-pintura-electrostatica/#CATEGORY_ID=MLV433169&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Escopleadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-escopleadoras/#CATEGORY_ID=MLV431057&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Hornos y Tratamiento Térmico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-hornos-tratamiento-termic/#CATEGORY_ID=MLV454787&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Mecanizado y Acabado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-mecanizado-acabad/#CATEGORY_ID=MLV454980&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Motores Estacionarios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-motores-estacionario/#CATEGORY_ID=MLV455004&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Máquinas Duplicadoras de Llave",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/herramientas-industriales/maquinas-duplicadoras-llave/#CATEGORY_ID=MLV455001&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Máquinas Pelacables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-maquinas-pelacable/#CATEGORY_ID=MLV455453&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Pegadoras de Cantos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-pegadoras-cantos/#CATEGORY_ID=MLV416891&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Plasturgia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-plasturgia/#CATEGORY_ID=MLV454791&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Rebobinadoras para Papel",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-rebobinadoras-pape/#CATEGORY_ID=MLV455729&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Repuestos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-insumos/#CATEGORY_ID=MLV416972&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Sierras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/herramientas-industriales/sierras/#CATEGORY_ID=MLV455002&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Taladros a Combustión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/herramientas-industriales/taladros-combustion/#CATEGORY_ID=MLV455477&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-industriales-otras/#CATEGORY_ID=MLV454786&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Publicidad y Promoción",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/publicidad-promocion/#CATEGORY_ID=MLV49043&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Carteles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/material-promocion-carteles/#CATEGORY_ID=MLV447251&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Carteles Luminosos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/publicidad-promocion-carteles-luminosos/#CATEGORY_ID=MLV416559&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Folletos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/material-promocion-folletos/#CATEGORY_ID=MLV447254&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Identificación para Eventos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/publicidad-promocion-identificacion-eventos/#CATEGORY_ID=MLV454916&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Inflables Danzantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/publicidad-promocion-inflables-danzantes/#CATEGORY_ID=MLV429581&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Merchandising",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/publicidad-promocion-merchandising/#CATEGORY_ID=MLV454914&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Portafolletos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/material-promocion-portafolletos/#CATEGORY_ID=MLV417110&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Vinilos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/material-promocion-vinilos/#CATEGORY_ID=MLV393902&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Volantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/material-promocion-volantes/#CATEGORY_ID=MLV447252&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/publicidad-mercadeo-materiales-otros/#CATEGORY_ID=MLV447098&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Seguridad Laboral",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/seguridad-laboral/#CATEGORY_ID=MLV8515&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alfombras Antifatiga",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-industrial-alfombras-antifatiga/#CATEGORY_ID=MLV430775&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Botiquines",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-industrial-botiquines/#CATEGORY_ID=MLV447240&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Chalecos Reflectivos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-laboral-chalecos-reflectivos/#CATEGORY_ID=MLV447351&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Cinta Antideslizante",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-industrial-cinta-antideslizante/#CATEGORY_ID=MLV352174&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Detectores de Gases",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-industrial-detectores-gases/#CATEGORY_ID=MLV417317&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Equipos Contra Incendios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-laboral-equipos-contra-incendios/#CATEGORY_ID=MLV454908&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Limpieza y Sanitización",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-industrial-limpieza-sanitizacion/#CATEGORY_ID=MLV454773&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Protección Personal",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-laboral-proteccion-personal/#CATEGORY_ID=MLV454904&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Señalización",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-laboral-senalizacion/#CATEGORY_ID=MLV454906&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias-seguridad-otros/#CATEGORY_ID=MLV8518&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Textil y Calzado",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/textil-calzado/#CATEGORY_ID=MLV29759&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Confección de Ropa",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/textil-calzado-confeccion-ropa/#CATEGORY_ID=MLV454900&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Fabricación de Cholas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industrias/textil-calzado/fabricacion-cholas/#CATEGORY_ID=MLV433369&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Lavado y Planchado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/textil-calzado-lavado-planchado/#CATEGORY_ID=MLV454902&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/industria-textil-otros/#CATEGORY_ID=MLV49042&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Uniformes y Ropa de Trabajo",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/uniformes-ropa-trabajo/#CATEGORY_ID=MLV447337&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Ambos Médicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-ambos-medicos/#CATEGORY_ID=MLV447352&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Bragas de Trabajo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-bragas-trabajo/#CATEGORY_ID=MLV447350&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Camisas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-camisas/#CATEGORY_ID=MLV417964&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Camperas de Trabajo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-camperas-trabajo/#CATEGORY_ID=MLV433708&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Medias de Trabajo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-medias-trabajo/#CATEGORY_ID=MLV440497&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Pantalones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-pantalones/#CATEGORY_ID=MLV417963&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Trajes de Bombero",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-trajes-bombero/#CATEGORY_ID=MLV417359&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Uniformes Gastronómicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-gastronomicos/#CATEGORY_ID=MLV447354&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Uniformes de Trabajo Doméstico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-trabajo-domestico/#CATEGORY_ID=MLV447353&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/uniformes-otros/#CATEGORY_ID=MLV447339&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Industrias",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/industrias-otros/#CATEGORY_ID=MLV1893&S=hc_industrias&c_tracking_id=cced86b0-ce66-11f0-8c77-cffb4c1494ed",
+        "categorias_nivel_2": []
+    }
+]

@@ -1,0 +1,466 @@
+[
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Belleza e Higiene Personal",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal/#CATEGORY_ID=MLV9079&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Estética",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-e-higiene-personal-estetica/#CATEGORY_ID=MLV117285&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Masajes y Spa",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-masajes-y-spa/#CATEGORY_ID=MLV9089&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Peluquería",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-peluqueria/#CATEGORY_ID=MLV9088&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Tatuajes y Piercing",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-tatuajes-y-piercing/#CATEGORY_ID=MLV92348&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/belleza-higiene-personal-otros/#CATEGORY_ID=MLV9092&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Cursos y Clases",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/cursos-clases/#CATEGORY_ID=MLV1563&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Académicos",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-academicos/#CATEGORY_ID=MLV117322&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Ocio y Tiempo Libre",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/cursos-clases-ocio-tiempo-libre/#CATEGORY_ID=MLV117323&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/educacion-y-formacion-otros/#CATEGORY_ID=MLV8981&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Fiestas y Eventos",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos/#CATEGORY_ID=MLV8738&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Agencias de Festejos",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-eventos-agencias-festejos/#CATEGORY_ID=MLV9091&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Alquiler de Equipamiento",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-eventos-alquiler-equipamiento/#CATEGORY_ID=MLV116731&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Carros para Bodas",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-eventos-carros-bodas/#CATEGORY_ID=MLV94545&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Catering y Bebidas",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-alimentos-catering/#CATEGORY_ID=MLV9114&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Decoración y Ambientación",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-decoracion/#CATEGORY_ID=MLV9093&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Entretenimiento",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/entretenimiento-fiestas-eventos/#CATEGORY_ID=MLV116730&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Salones y Quintas",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/salones-quintas-eventos/#CATEGORY_ID=MLV9109&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Servicios Audiovisuales",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-eventos-audiovisuales/#CATEGORY_ID=MLV116732&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/fiestas-y-eventos-otros/#CATEGORY_ID=MLV9101&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Gastronomía",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/restaurantes/#CATEGORY_ID=MLV9020&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Chefs",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/gastronomia-chefs/#CATEGORY_ID=MLV117395&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Delivery",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/gastronomia-delivery/#CATEGORY_ID=MLV92389&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Restaurantes",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/gastronomia-restaurantes/#CATEGORY_ID=MLV117394&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/restaurantes-otros/#CATEGORY_ID=MLV9033&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Hogar",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/hogar/#CATEGORY_ID=MLV116745&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Construcción",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-construccion/#CATEGORY_ID=MLV9074&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Mantenimiento",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mantenimiento/#CATEGORY_ID=MLV9080&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Imprenta",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/imprenta/#CATEGORY_ID=MLV56666&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Impresiones 3D",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-impresiones-3d/#CATEGORY_ID=MLV117422&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Impresiones Digitales",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-impresiones-digitales/#CATEGORY_ID=MLV93877&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Impresiones en Gran Formato",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-impresiones-gran-formato/#CATEGORY_ID=MLV117344&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Sellos",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-sellos/#CATEGORY_ID=MLV117352&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Sublimación y Estampados",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-sublimacion-estampados/#CATEGORY_ID=MLV117353&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/imprenta-otros/#CATEGORY_ID=MLV94544&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Mantenimiento de Vehículos",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos/#CATEGORY_ID=MLV92403&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Audio",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-audio/#CATEGORY_ID=MLV117300&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Instalación de Papel Ahumado",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-instalacion-papel-ahumado/#CATEGORY_ID=MLV117296&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Latonería, Pintura y Pulitura",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-latoneria-pintura-pulitura/#CATEGORY_ID=MLV112057&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Lavado y Limpieza",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-lavado-limpieza/#CATEGORY_ID=MLV117299&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Mecánica",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-mecanica/#CATEGORY_ID=MLV117295&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Parabrisas y Faros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-parabrisas-faros/#CATEGORY_ID=MLV117297&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Servicios para Motos",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-motos/#CATEGORY_ID=MLV117298&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Sistemas de Seguridad",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-sistemas-seguridad/#CATEGORY_ID=MLV117302&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Tapizados",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-vehiculos-tapizados/#CATEGORY_ID=MLV117301&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/automotriz-otros/#CATEGORY_ID=MLV94549&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Oficios",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/oficios/#CATEGORY_ID=MLV116749&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Albañilería",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/albanileria/#CATEGORY_ID=MLV9099&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Carpintería",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/carpinteria/#CATEGORY_ID=MLV9082&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Cerrajería",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/cerrajeria/#CATEGORY_ID=MLV9096&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Electricidad",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/electricidad/#CATEGORY_ID=MLV9118&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Herrería",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/herreria/#CATEGORY_ID=MLV9111&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Pintura",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/pintura/#CATEGORY_ID=MLV9097&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Plomería",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/plomeria/#CATEGORY_ID=MLV9084&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/mantenimiento-oficios-otros/#CATEGORY_ID=MLV116752&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Otros Servicios",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/servicios-otros/#CATEGORY_ID=MLV1898&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Fabricación Parques Infantiles",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/fabricacion-parques-infantiles/#CATEGORY_ID=MLV112051&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Fabricación de Bolsas",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/fabricacion-de-bolsas/#CATEGORY_ID=MLV94553&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Recarga de Saldo",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/recarga-de-saldo/#CATEGORY_ID=MLV112056&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/otros-servicios/#CATEGORY_ID=MLV9016&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Profesionales",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/profesionales/#CATEGORY_ID=MLV1541&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Abogados y Bufetes",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-abogados-bufetes/#CATEGORY_ID=MLV1546&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Consultoría y Asesoría",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-consultoria-y-asesoria/#CATEGORY_ID=MLV1544&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Contadores y Auditorías",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-contadores-auditorias/#CATEGORY_ID=MLV1547&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Diseñadores Gráficos",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-disenadores-graficos/#CATEGORY_ID=MLV9098&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Informática",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-informatica/#CATEGORY_ID=MLV1545&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Marketing",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-marketing/#CATEGORY_ID=MLV117412&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Traductores",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-traductores/#CATEGORY_ID=MLV9018&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Trámites para Empresas",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-tramites-empresas/#CATEGORY_ID=MLV8983&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/profesionales-otros/#CATEGORY_ID=MLV1894&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Profesionales Médicos",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/profesionales-medicos/#CATEGORY_ID=MLV9056&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Medicina Ocupacional",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/medicina-salud-ocupacional/#CATEGORY_ID=MLV117312&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Profesionales",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/medicina-salud-profesionales/#CATEGORY_ID=MLV117313&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Servicios de Ambulancia",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/medicina-salud-ambulancia/#CATEGORY_ID=MLV117310&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-medicos-otros/#CATEGORY_ID=MLV9061&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Reparaciones e Instalaciones",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones/#CATEGORY_ID=MLV9004&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Equipos Industriales",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/equipos-industriales/#CATEGORY_ID=MLV93613&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Equipos Médicos",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/equipos-medicos/#CATEGORY_ID=MLV93610&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Hogar y Oficina",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-e-instalaciones-hogar-oficina/#CATEGORY_ID=MLV117400&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Tecnología",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-e-instalaciones-tecnologia/#CATEGORY_ID=MLV117401&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/reparaciones-instalaciones-otros/#CATEGORY_ID=MLV9019&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Ropa y Moda",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/ropa-moda/#CATEGORY_ID=MLV91068&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bordados",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-bordados/#CATEGORY_ID=MLV112061&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Confección de Trajes de Baños",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-confeccion-trajes-banos/#CATEGORY_ID=MLV117343&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Confección de Uniformes",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/confeccion-de-uniformes/#CATEGORY_ID=MLV112059&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Corte y Costura",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-corte-costura/#CATEGORY_ID=MLV117341&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Trajes y Vestidos",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/ropa-moda-trajes-vestidos/#CATEGORY_ID=MLV117342&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/indumentaria-otros/#CATEGORY_ID=MLV112055&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Servicios para Mascotas",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/servicios-mascotas/#CATEGORY_ID=MLV9116&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Adiestramiento y Recreación",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-adiestramiento-recreacion/#CATEGORY_ID=MLV117355&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Cuidado e Higiene",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-cuidado-e-higiene/#CATEGORY_ID=MLV117356&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Monta",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-monta/#CATEGORY_ID=MLV117354&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/servicios-mascotas-otros/#CATEGORY_ID=MLV117357&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Transporte",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/transporte/#CATEGORY_ID=MLV9038&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Encomiendas y Mensajerías",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-encomiendas-mensajerias/#CATEGORY_ID=MLV117336&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Grúas",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/traslados-y-envios-gruas/#CATEGORY_ID=MLV92402&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Mudanzas y Fletes",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/traslados-y-envios-mudanzas-fletes/#CATEGORY_ID=MLV9015&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Taxis",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-taxis/#CATEGORY_ID=MLV117339&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Traslados Ejecutivos",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/transporte-traslados-ejecutivos/#CATEGORY_ID=MLV8986&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/traslados-y-envios-otros/#CATEGORY_ID=MLV8987&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Servicios",
+        "nombre_categoria_1": "Viajes y Turismo",
+        "url_categoria_1": "https://servicios.mercadolibre.com.ve/viajes-y-turismo/#CATEGORY_ID=MLV1229&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Excursiones Turísticas",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-turismo-excursiones-turisticas/#CATEGORY_ID=MLV6311&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Full Day",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-turismo-full-day/#CATEGORY_ID=MLV117393&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://servicios.mercadolibre.com.ve/viajes-y-turismo-otros/#CATEGORY_ID=MLV1245&S=hc_servicios&c_tracking_id=ee928090-ce66-11f0-a65b-eb4c7e9a80f8"
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "categoria_base": "Música, Películas y Series",
+        "nombre_categoria_1": "Contenido Deportivo",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/contenido-deportivo/#CATEGORY_ID=MLV456481&S=hc_musica-peliculas-y-series&c_tracking_id=df6ffd90-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Música, Películas y Series",
+        "nombre_categoria_1": "Cursos Completos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/musica-peliculas-series/cursos-completos/#CATEGORY_ID=MLV445795&S=hc_musica-peliculas-y-series&c_tracking_id=df6ffd90-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Música, Películas y Series",
+        "nombre_categoria_1": "Música",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/musica-video/#CATEGORY_ID=MLV446235&S=hc_musica-peliculas-y-series&c_tracking_id=df6ffd90-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Música, Películas y Series",
+        "nombre_categoria_1": "Peliculas Online",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/peliculas-online/#CATEGORY_ID=MLV456083&S=hc_musica-peliculas-y-series&c_tracking_id=df6ffd90-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Música, Películas y Series",
+        "nombre_categoria_1": "Películas Físicas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/musica-peliculas-series/peliculas-fisicas/#CATEGORY_ID=MLV1169&S=hc_musica-peliculas-y-series&c_tracking_id=df6ffd90-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Música, Películas y Series",
+        "nombre_categoria_1": "Series de TV y Telenovelas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/musica-peliculas-series-tv-telenovelas/#CATEGORY_ID=MLV6217&S=hc_musica-peliculas-y-series&c_tracking_id=df6ffd90-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Música, Películas y Series",
+        "nombre_categoria_1": "Series y Tv Shows Online",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/series-tv-shows-online/#CATEGORY_ID=MLV456084&S=hc_musica-peliculas-y-series&c_tracking_id=df6ffd90-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Música, Películas y Series",
+        "nombre_categoria_1": "Videos de Recetas y DIY",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/videos-recetas-diy/#CATEGORY_ID=MLV456272&S=hc_musica-peliculas-y-series&c_tracking_id=df6ffd90-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Música, Películas y Series",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/otros/#CATEGORY_ID=MLV446476&S=hc_musica-peliculas-y-series&c_tracking_id=df6ffd90-ce66-11f0-b910-2fa4e51b71a5",
+        "categorias_nivel_2": []
+    }
+]

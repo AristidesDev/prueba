@@ -1,0 +1,274 @@
+[
+    {
+        "categoria_base": "Alimentos y Bebidas",
+        "nombre_categoria_1": "Bebidas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/bebidas/#CATEGORY_ID=MLV178700&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aguas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-aguas/#CATEGORY_ID=MLV194289&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Bebidas Blancas y Licores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-blancas-licores/#CATEGORY_ID=MLV447579&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Bebidas Deportivas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-deportivas/#CATEGORY_ID=MLV416869&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Bebidas Energéticas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-energeticas/#CATEGORY_ID=MLV447599&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cervezas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-cervezas/#CATEGORY_ID=MLV403656&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Jugos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-jugos/#CATEGORY_ID=MLV194298&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Leche",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-leche/#CATEGORY_ID=MLV455818&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-otras/#CATEGORY_ID=MLV403667&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Refrescos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-refrescos/#CATEGORY_ID=MLV403659&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Vinos y Espumantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebidas-vinos-espumantes/#CATEGORY_ID=MLV194523&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Alimentos y Bebidas",
+        "nombre_categoria_1": "Comida Preparada",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/comida-preparada/#CATEGORY_ID=MLV410883&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bandejas Dulces y Saladas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-bandejas-dulces-saladas/#CATEGORY_ID=MLV410885&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Desayunos y Meriendas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-desayunos-meriendas/#CATEGORY_ID=MLV455932&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Empanadas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-empanadas/#CATEGORY_ID=MLV410886&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Entradas y Acompañamientos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-entradas-acompanamientos/#CATEGORY_ID=MLV455930&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Helados y Postres",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-helados-postres/#CATEGORY_ID=MLV410894&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Sandwiches",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-sandwiches/#CATEGORY_ID=MLV416529&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Tablas de Pasapalos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-tablas-pasapalos/#CATEGORY_ID=MLV447769&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Tartas Saladas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-tartas-saladas/#CATEGORY_ID=MLV433757&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Tortas y Tartas Dulces",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-tortas-tartas-dulces/#CATEGORY_ID=MLV434369&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-preparada-otros/#CATEGORY_ID=MLV410887&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Alimentos y Bebidas",
+        "nombre_categoria_1": "Congelados",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/congelados/#CATEGORY_ID=MLV455292&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Frutas Congeladas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-frutas-congeladas/#CATEGORY_ID=MLV455296&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Hamburguesas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-hamburguesas/#CATEGORY_ID=MLV455580&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Helados y Postres",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-helados-postres/#CATEGORY_ID=MLV455294&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Mariscos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-mariscos/#CATEGORY_ID=MLV455581&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Milanesas y Medallones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-milanesas-medallones/#CATEGORY_ID=MLV455585&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Papas Congeladas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-papas-congeladas/#CATEGORY_ID=MLV455565&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pizzas Congeladas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-pizzas-congeladas/#CATEGORY_ID=MLV455428&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Snacks Congelados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-snacks/#CATEGORY_ID=MLV455564&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Vegetales Congelados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-vegetales/#CATEGORY_ID=MLV455295&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/congelados-otros/#CATEGORY_ID=MLV455297&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Alimentos y Bebidas",
+        "nombre_categoria_1": "Despensa",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/alimentos-bebidas/despensa/#CATEGORY_ID=MLV447578&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aceites y Vinagres",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-aceites-vinagres/#CATEGORY_ID=MLV194310&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Alimentos Instantáneos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-alimentos-instantaneos/#CATEGORY_ID=MLV194316&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Arroz, Legumbres y Semillas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-arroz-legumbres-semillas/#CATEGORY_ID=MLV194308&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Azúcar y Endulzantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-azucar-endulzantes/#CATEGORY_ID=MLV194315&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Bolsas para Cocinar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-bolsas-cocinar/#CATEGORY_ID=MLV430203&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Café, Té e Infusiones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/alimentos-bebidas/despensa/cafe-te-infusiones/#CATEGORY_ID=MLV447684&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cajas Navideñas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/alimentos-bebidas/almacen/cajas-navidenas/#CATEGORY_ID=MLV457336&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cereales y Barras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-cereales-barras/#CATEGORY_ID=MLV194313&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cous Cous",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacen-cous/#CATEGORY_ID=MLV455800&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Dulces y Chocolates",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-dulces-chocolates/#CATEGORY_ID=MLV194317&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Enlatados y Conservas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/alimentos-bebidas/despensa/enlatados-conservas/#CATEGORY_ID=MLV457552&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Galletas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-galletas/#CATEGORY_ID=MLV122676&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Harina",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacen-harina/#CATEGORY_ID=MLV389313&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Leches y Cremas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-leches-cremas/#CATEGORY_ID=MLV194319&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Levaduras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacen-levaduras/#CATEGORY_ID=MLV417268&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Mantecas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-mantecas/#CATEGORY_ID=MLV440711&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Mermeladas, Dulces y Miel",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-mermeladas-dulces-miel/#CATEGORY_ID=MLV447688&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pan Rallado",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacen-pan-rallado/#CATEGORY_ID=MLV412349&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Panadería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacen-panaderia/#CATEGORY_ID=MLV455522&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pastas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-pastas/#CATEGORY_ID=MLV412073&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pulpas de Fruta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacen-pulpas-fruta/#CATEGORY_ID=MLV417700&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Quesos Rallados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacen-quesos-rallados/#CATEGORY_ID=MLV456415&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Repostería y Pastelería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacen-reposteria-pasteleria/#CATEGORY_ID=MLV410854&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Saborizantes y Jarabes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-saborizantes-jarabes/#CATEGORY_ID=MLV194318&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Salsas y Condimentos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-salsas-condimentos/#CATEGORY_ID=MLV194311&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Snacks",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-snacks/#CATEGORY_ID=MLV194320&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Yogures",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-yogures/#CATEGORY_ID=MLV447756&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comestibles-otros/#CATEGORY_ID=MLV447585&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Alimentos y Bebidas",
+        "nombre_categoria_1": "Kéfir",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/kefir/#CATEGORY_ID=MLV455505&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Alimentos y Bebidas",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/alimentos-bebidas-otros/#CATEGORY_ID=MLV122665&S=hc_alimentos-y-bebidas&c_tracking_id=8e6b2d20-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": []
+    }
+]

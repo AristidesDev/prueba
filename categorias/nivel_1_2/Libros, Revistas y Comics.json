@@ -1,0 +1,32 @@
+[
+    {
+        "categoria_base": "Libros, Revistas y Comics",
+        "nombre_categoria_1": "Catálogos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/catalogos/#CATEGORY_ID=MLV433385&S=hc_libros-revistas-y-comics&c_tracking_id=dafc9de0-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Libros, Revistas y Comics",
+        "nombre_categoria_1": "Ebooks",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/ebooks/#CATEGORY_ID=MLV455868&S=hc_libros-revistas-y-comics&c_tracking_id=dafc9de0-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Libros, Revistas y Comics",
+        "nombre_categoria_1": "Libros Físicos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/libros-revistas-y-comics/libros-fisicos/#CATEGORY_ID=MLV1196&S=hc_libros-revistas-y-comics&c_tracking_id=dafc9de0-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Libros, Revistas y Comics",
+        "nombre_categoria_1": "Revistas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/revistas/#CATEGORY_ID=MLV1955&S=hc_libros-revistas-y-comics&c_tracking_id=dafc9de0-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Libros, Revistas y Comics",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/libros-musica-peliculas-otros/#CATEGORY_ID=MLV1228&S=hc_libros-revistas-y-comics&c_tracking_id=dafc9de0-ce66-11f0-9cfd-77a04b8d5f96",
+        "categorias_nivel_2": []
+    }
+]

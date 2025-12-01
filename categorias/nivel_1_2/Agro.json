@@ -1,0 +1,746 @@
+[
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Agricultura de Precisión",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/precision/#CATEGORY_ID=MLV446791&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Banderilleros Satelitales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-precision-banderilleros-satelitales/#CATEGORY_ID=MLV442357&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Dosificadores Variables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-precision-dosificadores-variables/#CATEGORY_ID=MLV446796&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Equipos GPS",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agricultura-precision-equipos-gps/#CATEGORY_ID=MLV456814&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medidores de Leche",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/agricultura-precision/medidores-leche/#CATEGORY_ID=MLV455741&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Monitores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agricultura-precision-monitores/#CATEGORY_ID=MLV442421&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pilotos Automáticos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-precision-pilotos-automaticos/#CATEGORY_ID=MLV446795&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sensores de Siembra",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-precision-sensores-siembra/#CATEGORY_ID=MLV446798&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-precision-otros/#CATEGORY_ID=MLV446792&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Almacenaje",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/almacenaje/#CATEGORY_ID=MLV456820&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aireadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacenaje-aireadores/#CATEGORY_ID=MLV456823&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Silo Bolsas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacenaje-silo-bolsas/#CATEGORY_ID=MLV417109&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Silos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacenaje-silos/#CATEGORY_ID=MLV404090&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/almacenaje-otros/#CATEGORY_ID=MLV456822&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Animales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro-animales/#CATEGORY_ID=MLV442346&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bovinos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/animales/bovinos/#CATEGORY_ID=MLV457064&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Caballos y Yeguas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-caballos-yeguas/#CATEGORY_ID=MLV449878&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Gallos y Gallinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-gallos-gallinas/#CATEGORY_ID=MLV449879&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Ovinos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/animales/ovinos/#CATEGORY_ID=MLV457058&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Porcinos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/animales/porcinos/#CATEGORY_ID=MLV457057&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/animales-otros/#CATEGORY_ID=MLV442432&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Apicultura",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/apicultura/#CATEGORY_ID=MLV456826&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Colmenas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apicultura-colmenas/#CATEGORY_ID=MLV430205&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Extracción de Miel",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apicultura-extraccion-miel/#CATEGORY_ID=MLV456835&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Herramientas de Trabajo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apicultura-herramientas-trabajo/#CATEGORY_ID=MLV456848&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Piqueras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apicultura-piqueras/#CATEGORY_ID=MLV456855&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Rejillas Excluidoras de Reinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apicultura-rejillas-excluidoras-reinas/#CATEGORY_ID=MLV456854&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Traje de Apicultor",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apicultura-traje-apicultor/#CATEGORY_ID=MLV456921&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Trampas Cazapolen",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apicultura-trampas-cazapolen/#CATEGORY_ID=MLV456858&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Trampas para Propóleos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apicultura-trampas-propoleos/#CATEGORY_ID=MLV456828&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/apicultura-otros/#CATEGORY_ID=MLV456827&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Energia Renovable",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/energia-renovable/#CATEGORY_ID=MLV456833&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Baterías Solares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/energia-renovable/baterias-solares/#CATEGORY_ID=MLV457083&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bombas Solares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/energia-renovable/bombas-solares/#CATEGORY_ID=MLV457079&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Generadores Eólicos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/energia-renovable/generadores-eolicos/#CATEGORY_ID=MLV455356&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Inversores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/energia-renovable-inversores/#CATEGORY_ID=MLV455355&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Kits de Termotanques Solares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/energia-renovable/kits-termotanques-solares/#CATEGORY_ID=MLV457080&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Molinos de Viento",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/energia-renovable-molinos-viento/#CATEGORY_ID=MLV442426&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Paneles Solares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/energia-renovable-paneles-solares/#CATEGORY_ID=MLV442425&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Reguladores de Voltaje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/energia-renovable/reguladores-voltaje/#CATEGORY_ID=MLV457081&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/energia-renovable-otros/#CATEGORY_ID=MLV456834&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Fertilizantes",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro/fertilizantes/#CATEGORY_ID=MLV456932&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Herramientas de Trabajo",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/herramientas-trabajo/#CATEGORY_ID=MLV456927&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Antenas de Conectividad",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/herramientas-trabajo/antenas-conectividad/#CATEGORY_ID=MLV457886&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Artículos para Equitación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/herramientas-trabajo/articulos-equitacion/#CATEGORY_ID=MLV447547&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Herramientas Eléctricas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-trabajo-ele-ctricas/#CATEGORY_ID=MLV456929&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Herramientas Manuales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/herramientas-trabajo/herramientas-manuales/#CATEGORY_ID=MLV456933&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Instrumentos de Medición",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/herramientas-trabajo/instrumentos-medicion/#CATEGORY_ID=MLV457022&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/herramientas-trabajo-otros/#CATEGORY_ID=MLV456928&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Infraestructura Rural",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/infraestructura-rural/#CATEGORY_ID=MLV454448&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alambrados y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/infraestructura-rural/alambrados-accesorios/#CATEGORY_ID=MLV446799&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bebederos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/infraestructura-rural/bebederos-automaticos/#CATEGORY_ID=MLV414087&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bombas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/infraestructura-rural-bombas/#CATEGORY_ID=MLV442396&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Carros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/infraestructura-rural-carros/#CATEGORY_ID=MLV429647&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Equipos a Explosión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/infraestructura-rural/equipos-explosion/#CATEGORY_ID=MLV457147&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Fundas para Tanques",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/infraestructura-rural/fundas-tanques/#CATEGORY_ID=MLV457186&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Molinos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/infraestructura-rural/molinos/#CATEGORY_ID=MLV457117&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Planos y Proyectos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/infraestructura-rural-planos-proyectos/#CATEGORY_ID=MLV430207&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Surtidores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/infraestructura-rural/surtidores/#CATEGORY_ID=MLV457206&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tanques",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/infraestructura-rural-tanques/#CATEGORY_ID=MLV455566&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Trailers",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/infraestructura-rural/trailers/#CATEGORY_ID=MLV457146&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tranqueras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/infraestructura-rural-tranqueras/#CATEGORY_ID=MLV442394&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/infraestructura-rural-otros/#CATEGORY_ID=MLV454449&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Insumos Agroganaderos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro-insumos-agroganaderos/#CATEGORY_ID=MLV407816&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alimentación y Suplementos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insumos-agroganaderos-alimentacion-suplementos/#CATEGORY_ID=MLV442345&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Comederos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insumos-agroganaderos-comederos/#CATEGORY_ID=MLV404094&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insumos-agroganaderos-otros/#CATEGORY_ID=MLV407821&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Insumos Agrícolas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro-insumos-agricolas/#CATEGORY_ID=MLV442343&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Fertilizantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insumos-agricolas-fertilizantes/#CATEGORY_ID=MLV442408&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Hidroponía",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insumos-agricolas-hidroponia/#CATEGORY_ID=MLV442414&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Insecticidas y Herbicidas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insumos-agricolas-insecticidas-herbicidas/#CATEGORY_ID=MLV442409&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/insumos-agricolas-otros/#CATEGORY_ID=MLV442406&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Lubricantes y Fluidos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/lubricantes-fluidos/#CATEGORY_ID=MLV456817&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aceites de Motor",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/lubricantes-fluidos-aceites-motor/#CATEGORY_ID=MLV456825&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Aditivos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/lubricantes-fluidos-aditivos/#CATEGORY_ID=MLV456846&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Grasas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/lubricantes-fluidos-grasas/#CATEGORY_ID=MLV456847&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/lubricantes-fluidos-otros/#CATEGORY_ID=MLV456818&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Maquinaria Agrícola",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro/maquinaria-agricola/#CATEGORY_ID=MLV417282&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Clasificadoras de Vegetales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-clasificadoras-vegetales/#CATEGORY_ID=MLV430506&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Desmotadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinas/desmotadoras/#CATEGORY_ID=MLV457073&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Desparramadores de Paja",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-agricola/desparramadores-paja/#CATEGORY_ID=MLV457202&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Dosificadoras de Polvo y Grano",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-dosificadoras-polvo-grano/#CATEGORY_ID=MLV416949&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Embolsadoras de Forrajes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-embolsadoras-forrajes/#CATEGORY_ID=MLV430502&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Equipos de Labranza",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-agricola/equipos-labranza/#CATEGORY_ID=MLV457077&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Extractoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinas/extractoras/#CATEGORY_ID=MLV457074&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Fertilizadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinas/fertilizadoras/#CATEGORY_ID=MLV457075&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Moledoras de Granos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-moledoras-granos/#CATEGORY_ID=MLV404093&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Molinos Pulverizadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-molinos-pulverizadores/#CATEGORY_ID=MLV433021&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-otras/#CATEGORY_ID=MLV417283&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Plantadoras Manuales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-plantadoras-manuales/#CATEGORY_ID=MLV455712&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Plantas de Alimentos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-plantas-alimentos/#CATEGORY_ID=MLV430958&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Prensas Compactadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-prensas-compactadoras/#CATEGORY_ID=MLV416851&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pulverizadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-agricola/pulverizadoras/#CATEGORY_ID=MLV457122&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Rastras de Levante",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-rastras-levante/#CATEGORY_ID=MLV430443&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sembradoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-sembradoras/#CATEGORY_ID=MLV404089&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Subsoladores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-subsoladores/#CATEGORY_ID=MLV431060&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Talladoras de Engranaje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-talladoras-engranaje/#CATEGORY_ID=MLV430316&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tolvas Industriales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-agricola/tolvas-industriales/#CATEGORY_ID=MLV457078&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tostadoras de Café",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-tostadoras-cafe/#CATEGORY_ID=MLV429616&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tractores Cortagrama",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/maquinas-herramientas-tractores-cortagrama/#CATEGORY_ID=MLV454716&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Maquinaria Forrajera",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/#CATEGORY_ID=MLV457084&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cintas Transportadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/cintas-transportadoras/#CATEGORY_ID=MLV457107&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cortahileradoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/cortahileradoras/#CATEGORY_ID=MLV457120&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Desmalezadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/desmalezadoras/#CATEGORY_ID=MLV457101&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Elevadores de Rollos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/elevadores-rollos/#CATEGORY_ID=MLV457103&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Enfardadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/enfardadoras/#CATEGORY_ID=MLV457110&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Mixers Agrícolas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/mixers-agricolas/#CATEGORY_ID=MLV457104&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Moledoras de Granos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/moledoras-granos/#CATEGORY_ID=MLV457105&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Picadoras de Forraje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/picadoras-forraje/#CATEGORY_ID=MLV457121&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Quebradoras de Granos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/quebradoras-granos/#CATEGORY_ID=MLV457109&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Rotoenfardadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/rotoenfardadoras/#CATEGORY_ID=MLV457108&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Segadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/segadoras/#CATEGORY_ID=MLV457119&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Transportadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/transportadores/#CATEGORY_ID=MLV457106&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/maquinaria-forrajera/otros/#CATEGORY_ID=MLV457102&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Nutrición de Cultivos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/nutricion-cultivos/#CATEGORY_ID=MLV456796&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Producción Animal",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro/produccion-animal/#CATEGORY_ID=MLV457052&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Herramientas y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/produccion-animal/herramientas-accesorios/#CATEGORY_ID=MLV457072&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Insumos Nutrición Animal",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/produccion-animal/insumos-nutricion-animal/#CATEGORY_ID=MLV457171&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Insumos Sanidad Animal",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/produccion-animal/insumos-sanidad-animal/#CATEGORY_ID=MLV457055&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tambo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/produccion-animal/tambo/#CATEGORY_ID=MLV457111&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/produccion-animal/otros/#CATEGORY_ID=MLV457056&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Protección de Cultivos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/proteccion-cultivos/#CATEGORY_ID=MLV456795&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Coadyuvantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/proteccion-cultivos-coadyuvantes/#CATEGORY_ID=MLV456840&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Fungicidas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/proteccion-cultivos-fungicidas/#CATEGORY_ID=MLV456803&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Herbicidas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/proteccion-cultivos-herbicidas/#CATEGORY_ID=MLV456841&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Insecticidas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/proteccion-cultivos-insecticidas/#CATEGORY_ID=MLV456842&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/proteccion-cultivos-otros/#CATEGORY_ID=MLV456799&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Repuestos Maquinaria Agrícola",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/#CATEGORY_ID=MLV442351&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bastidores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/bastidores/#CATEGORY_ID=MLV457646&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Baterías",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/baterias/#CATEGORY_ID=MLV442384&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cabina",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-cabina/#CATEGORY_ID=MLV999179&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cajas del Alimentador",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/cajas-alimentador/#CATEGORY_ID=MLV457240&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Carrocería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-carroceri-a/#CATEGORY_ID=MLV456876&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Catalizadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/catalizadores/#CATEGORY_ID=MLV457592&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cerraduras y Llaves",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/cerraduras-llaves/#CATEGORY_ID=MLV457667&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cinturones de Seguridad",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/cinturones-seguridad/#CATEGORY_ID=MLV457587&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Climatización",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/climatizacion/#CATEGORY_ID=MLV457710&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cristales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/cristales/#CATEGORY_ID=MLV457697&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Dirección y Frenos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-direccio-n-frenos/#CATEGORY_ID=MLV456874&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Discos Marcadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/discos-marcadores/#CATEGORY_ID=MLV457263&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Eje Delantero y Dirección",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-eje-delantero-direccio-n/#CATEGORY_ID=MLV456873&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Electroventiladores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/electroventiladores/#CATEGORY_ID=MLV457593&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Embocadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/embocadores/#CATEGORY_ID=MLV457205&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Encendido",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/encendido/#CATEGORY_ID=MLV457656&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Escapes Completos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-escapes-completos/#CATEGORY_ID=MLV456869&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Filtros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-filtros/#CATEGORY_ID=MLV456875&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Frenos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/frenos/#CATEGORY_ID=MLV457599&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Iluminación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/iluminacion/#CATEGORY_ID=MLV457660&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Implementos y Tomas de Fuerza",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-implementos-tomas-fuerza/#CATEGORY_ID=MLV456879&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Inyección",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/inyeccion/#CATEGORY_ID=MLV457754&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Motor",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-motor/#CATEGORY_ID=MLV442365&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Plataforma",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-plataforma/#CATEGORY_ID=MLV456878&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Repuestos de Exterior",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/repuestos-exterior/#CATEGORY_ID=MLV457675&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Rines",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/rines/#CATEGORY_ID=MLV457289&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sensores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/sensores/#CATEGORY_ID=MLV457971&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sistema Eléctrico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/sistema-electrico/#CATEGORY_ID=MLV457727&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sistema Hidráulico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-sistema-hidra-ulico/#CATEGORY_ID=MLV456882&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sistema de Pulverización",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-sistema-pulverizacio-n/#CATEGORY_ID=MLV456880&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Suspensión y Dirección",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/suspension-direccion/#CATEGORY_ID=MLV457694&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Tanques de Combustible",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/tanques-combustible/#CATEGORY_ID=MLV456881&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Transmisión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/transmision/#CATEGORY_ID=MLV456866&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Turbinas de Succión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/turbinas-succion/#CATEGORY_ID=MLV457262&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Unidad de Separador y Limpieza",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/unidad-separador-limpieza/#CATEGORY_ID=MLV457288&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Variador",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/repuestos-maquinaria-agricola/variador/#CATEGORY_ID=MLV457290&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/repuestos-maquinaria-pesada-otros/#CATEGORY_ID=MLV442387&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Riego",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro/riego/#CATEGORY_ID=MLV457264&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Goteros para Riego",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/riego/goteros-riego/#CATEGORY_ID=MLV457265&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pivotes para Riego",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/riego/pivotes-riego/#CATEGORY_ID=MLV457266&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Riego por Aspersión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/riego/riego-aspersion/#CATEGORY_ID=MLV457267&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/agro/riego/otros/#CATEGORY_ID=MLV457268&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Semillas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro/semillas/#CATEGORY_ID=MLV456964&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Agro",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/agro-otros/#CATEGORY_ID=MLV404085&S=hc_agro&c_tracking_id=8a820c10-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": []
+    }
+]

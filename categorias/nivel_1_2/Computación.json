@@ -1,0 +1,670 @@
+[
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Accesorios de Antiestática",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/accesorios-de-antiestatica/#CATEGORY_ID=MLV416199&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alicates Antiestáticos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-antiestatica/alicates-antiestaticos/#CATEGORY_ID=MLV416578&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Batas Antiestática",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-de-antiestatica/batas-antiestatica/#CATEGORY_ID=MLV430643&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Bolsas Antiestáticas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-de-antiestatica/bolsas-antiestaticas/#CATEGORY_ID=MLV416244&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Guantes Antiestáticos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-de-antiestatica/guantes-antiestaticos/#CATEGORY_ID=MLV416212&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Kits de Antiestática",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-de-antiestatica/kits-de-antiestatica/#CATEGORY_ID=MLV430644&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Mantas Antiestáticas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-antiestatica/mantas-antiestaticas/#CATEGORY_ID=MLV430642&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Pulseras de Protección",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-de-antiestatica/pulseras-de-proteccion/#CATEGORY_ID=MLV416200&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-de-antiestatica/otros/#CATEGORY_ID=MLV416202&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Accesorios para PC Gaming",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/accesorios-para-pc-gaming/#CATEGORY_ID=MLV447778&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Audífonos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-para-pc-gaming/audifonos/#CATEGORY_ID=MLV1664&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Controles para Gamers",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-para-pc-gaming/controles-para-gamers/#CATEGORY_ID=MLV446814&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Lentes VR",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-para-pc-gaming/lentes-vr/#CATEGORY_ID=MLV447780&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Micrófonos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-para-pc-gaming/microfonos/#CATEGORY_ID=MLV447063&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Sillas Gamer",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-para-pc-gaming/sillas-gamer/#CATEGORY_ID=MLV447782&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Soportes para Auriculares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-para-pc-gaming/soportes-para-auriculares/#CATEGORY_ID=MLV456571&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Tarjetas Prepagas para Juegos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-para-pc-gaming/tarjetas-prepagas-para-juegos/#CATEGORY_ID=MLV447783&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/accesorios-para-pc-gaming/otros/#CATEGORY_ID=MLV447784&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Almacenamiento",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/almacenamiento/#CATEGORY_ID=MLV430598&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Discos y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/almacenamiento/discos-y-accesorios/#CATEGORY_ID=MLV9533&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Disquetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/almacenamiento/disquetes/#CATEGORY_ID=MLV446851&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Emuladores de Disqueteras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/almacenamiento/emuladores-de-disqueteras/#CATEGORY_ID=MLV430183&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Padlocks USB",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/almacenamiento/padlocks-usb/#CATEGORY_ID=MLV416580&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Pen Drives",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/almacenamiento/pen-drives/#CATEGORY_ID=MLV5027&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Tape Backups",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/almacenamiento/tape-backups/#CATEGORY_ID=MLV446852&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/almacenamiento/otros/#CATEGORY_ID=MLV430604&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Cables y Hubs USB",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/cables-y-hubs-usb/#CATEGORY_ID=MLV10848&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/cables-y-hubs-usb/cables/#CATEGORY_ID=MLV1715&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Hubs USB",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/cables-y-hubs-usb/hubs-usb/#CATEGORY_ID=MLV446857&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/cables-y-hubs-usb/otros/#CATEGORY_ID=MLV58155&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Componentes de PC",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/#CATEGORY_ID=MLV1691&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cases de PC y Soportes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/cases-de-pc-y-soportes/#CATEGORY_ID=MLV446724&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Discos y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/discos-y-accesorios/#CATEGORY_ID=MLV430796&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Emuladores de Disqueteras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/emuladores-de-disqueteras/#CATEGORY_ID=MLV430895&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Fuentes de Poder",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/fuentes-de-poder/#CATEGORY_ID=MLV430916&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Memorias RAM",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/memorias-ram/#CATEGORY_ID=MLV1694&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Procesadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/procesadores/#CATEGORY_ID=MLV1693&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Refrigeración",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/refrigeracion/#CATEGORY_ID=MLV430788&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Sintonizadoras de TV",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/sintonizadoras-de-tv/#CATEGORY_ID=MLV446868&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Tarjetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/tarjetas/#CATEGORY_ID=MLV455814&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Unidades de Disquetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/unidades-de-disquetes/#CATEGORY_ID=MLV446853&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Zip Drives",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/zip-drives/#CATEGORY_ID=MLV446867&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/componentes-de-pc/otros/#CATEGORY_ID=MLV1699&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Conectividad y Redes",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/#CATEGORY_ID=MLV446725&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Antenas Inalámbricas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/antenas-inalambricas/#CATEGORY_ID=MLV6050&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cables de Red y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/cables-de-red-y-accesorios/#CATEGORY_ID=MLV430794&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Consolas de Sistema Operativo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/consolas-de-sistema-operativo/#CATEGORY_ID=MLV456224&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Fuentes Poe",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/fuentes-poe/#CATEGORY_ID=MLV414121&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Herramientas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/herramientas/#CATEGORY_ID=MLV9646&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Hubs",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/hubs/#CATEGORY_ID=MLV446726&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Interruptores de Red",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-redes/interruptores-red/#CATEGORY_ID=MLV446727&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Modems",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/modems/#CATEGORY_ID=MLV1698&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Patch Panels",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/patch-panels/#CATEGORY_ID=MLV446882&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Racks para Servidores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/racks-para-servidores/#CATEGORY_ID=MLV6722&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Routers y Access Points",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/routers-y-access-points/#CATEGORY_ID=MLV6058&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Servidores de Impresión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/servidores-de-impresion/#CATEGORY_ID=MLV446881&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Tarjetas de Red",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/tarjetas-de-red/#CATEGORY_ID=MLV6054&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Telefonía VoIP",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/telefonia-voip/#CATEGORY_ID=MLV6739&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Torres de Comunicación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/torres-de-comunicacion/#CATEGORY_ID=MLV432893&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/conectividad-y-redes/otros/#CATEGORY_ID=MLV1710&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Impresión",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/impresion/#CATEGORY_ID=MLV2141&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/impresion/accesorios/#CATEGORY_ID=MLV414248&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Impresión 3D",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/impresion/impresion-3d/#CATEGORY_ID=MLV401998&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Impresoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/impresion/impresoras/#CATEGORY_ID=MLV1676&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Insumos de Impresión",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/impresion/insumos-de-impresion/#CATEGORY_ID=MLV410297&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Máquinas de Recarga de Tinta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/impresion/maquinas-de-recarga-de-tinta/#CATEGORY_ID=MLV430168&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Repuestos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/impresion/repuestos/#CATEGORY_ID=MLV10190&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Sistemas Continuos de Tinta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/impresion/sistemas-continuos-de-tinta/#CATEGORY_ID=MLV10884&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/impresion/otros/#CATEGORY_ID=MLV3570&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Laptops y Accesorios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/laptops-y-accesorios/#CATEGORY_ID=MLV430687&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios para Laptops",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/laptops-y-accesorios/accesorios-para-laptops/#CATEGORY_ID=MLV3377&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Laptops",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/laptops-accesorios/#CATEGORY_ID=MLV1652&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Repuestos para Laptops",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/laptops-y-accesorios/repuestos-para-laptops/#CATEGORY_ID=MLV446822&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/laptops-y-accesorios/otros/#CATEGORY_ID=MLV446823&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Lectores y Scanners",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/lectores-y-scanners/#CATEGORY_ID=MLV446722&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Colectores de Datos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/lectores-y-scanners/colectores-de-datos/#CATEGORY_ID=MLV417007&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Lectores de Códigos de Barra",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/lectores-y-scanners/lectores-de-codigos-de-barra/#CATEGORY_ID=MLV6280&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Lectores de Huellas Digitales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/lectores-y-scanners/lectores-de-huellas-digitales/#CATEGORY_ID=MLV447030&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Lectores de Memoria",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/lectores-y-scanners/lectores-de-memoria/#CATEGORY_ID=MLV8913&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Lectores y Quemadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/lectores-y-scanners/lectores-y-quemadoras/#CATEGORY_ID=MLV430639&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Scanners",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/lectores-y-scanners/scanners/#CATEGORY_ID=MLV1660&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/lectores-y-scanners/otros/#CATEGORY_ID=MLV447031&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Limpieza y Cuidado de PCs",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/#CATEGORY_ID=MLV446946&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aires Comprimidos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/aires-comprimidos/#CATEGORY_ID=MLV412627&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Aspiradoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/aspiradoras/#CATEGORY_ID=MLV447034&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Espuma",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/espuma/#CATEGORY_ID=MLV412660&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Forros para PC",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/forros-para-pc/#CATEGORY_ID=MLV455837&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Hisopos de Limpieza",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/hisopos-de-limpieza/#CATEGORY_ID=MLV430636&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Kits de Limpieza",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/kits-de-limpieza/#CATEGORY_ID=MLV447032&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Limpia Contactos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/limpia-contactos/#CATEGORY_ID=MLV412662&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Limpiadores de Pantallas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/limpiadores-de-pantallas/#CATEGORY_ID=MLV417107&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Localizadores de Fallas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/localizadores-de-fallas/#CATEGORY_ID=MLV416788&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Lubricantes para PC",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/lubricantes-para-pc/#CATEGORY_ID=MLV412661&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Pasta Térmica",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/pasta-termica/#CATEGORY_ID=MLV412659&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Paños de Limpieza",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/panos-de-limpieza/#CATEGORY_ID=MLV417114&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Sprays Congelantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/sprays-congelantes/#CATEGORY_ID=MLV437491&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Tarjetas de Diagnóstico",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/tarjetas-de-diagnostico/#CATEGORY_ID=MLV430194&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/limpieza-y-cuidado-de-pcs/otros/#CATEGORY_ID=MLV447033&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Monitores y Accesorios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/monitores-y-accesorios/#CATEGORY_ID=MLV446718&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bases Elevadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/monitores-y-accesorios/bases-elevadoras/#CATEGORY_ID=MLV418042&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Filtros de Privacidad",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/monitores-y-accesorios/filtros-de-privacidad/#CATEGORY_ID=MLV431333&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Fuentes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/monitores-y-accesorios/fuentes/#CATEGORY_ID=MLV416867&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Fundas para Monitores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/monitores-y-accesorios/fundas-para-monitores/#CATEGORY_ID=MLV430627&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Monitores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/monitores-y-accesorios/monitores/#CATEGORY_ID=MLV1656&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Racks de Pared",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/monitores-y-accesorios/racks-de-pared/#CATEGORY_ID=MLV430628&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Soportes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/monitores-y-accesorios/soportes/#CATEGORY_ID=MLV418043&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/monitores-y-accesorios/otros/#CATEGORY_ID=MLV447035&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "PC de Escritorio",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/pc-de-escritorio/#CATEGORY_ID=MLV430637&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "All In One",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/pc-de-escritorio/all-in-one/#CATEGORY_ID=MLV126843&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Computadoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/pc-de-escritorio/computadoras/#CATEGORY_ID=MLV1649&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Mini PC",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/pc-de-escritorio/mini-pc/#CATEGORY_ID=MLV407379&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/pc-de-escritorio/otros/#CATEGORY_ID=MLV430638&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Palms y Pocket PC's",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/palms-y-pocket-pcs/#CATEGORY_ID=MLV1651&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/palms-y-pocket-pcs/accesorios/#CATEGORY_ID=MLV3308&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/palms-y-pocket-pcs/otras/#CATEGORY_ID=MLV3307&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Palms",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/palms-y-pocket-pcs/palms/#CATEGORY_ID=MLV3303&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Periféricos de PC",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/perifericos-de-pc/#CATEGORY_ID=MLV454379&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cornetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/perifericos-de-pc/cornetas/#CATEGORY_ID=MLV3378&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Cámaras Web",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/perifericos-de-pc/camaras-web/#CATEGORY_ID=MLV1667&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Mouses y Teclados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/perifericos-de-pc/mouses-y-teclados/#CATEGORY_ID=MLV430630&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/perifericos-de-pc/otros/#CATEGORY_ID=MLV454380&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Protectores y UPS",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/protectores-y-ups/#CATEGORY_ID=MLV1720&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Baterías para UPS",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/protectores-y-ups/baterias-para-ups/#CATEGORY_ID=MLV446883&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Reguladores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/protectores-y-ups/reguladores/#CATEGORY_ID=MLV63874&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "UPS",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/protectores-y-ups/ups/#CATEGORY_ID=MLV446815&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/protectores-y-ups/otros/#CATEGORY_ID=MLV63881&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Proyectores y Pantallas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/proyectores-y-pantallas/#CATEGORY_ID=MLV1657&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Fundas y Estuches",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/proyectores-y-pantallas/fundas-y-estuches/#CATEGORY_ID=MLV435572&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Módulos Led",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/proyectores-y-pantallas/modulos-led/#CATEGORY_ID=MLV455835&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Pantallas Eléctricas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/proyectores-pantallas/pantallas-electricas/#CATEGORY_ID=MLV457950&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Pantallas Manuales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/proyectores-pantallas/pantallas-manuales/#CATEGORY_ID=MLV9585&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Piezas de Reposición",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/proyectores-y-pantallas/piezas-de-reposicion/#CATEGORY_ID=MLV435574&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Proyectores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/proyectores-y-pantallas/proyectores/#CATEGORY_ID=MLV11901&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Retroproyectores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/proyectores-y-pantallas/retroproyectores/#CATEGORY_ID=MLV395948&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Soportes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/proyectores-y-pantallas/soportes/#CATEGORY_ID=MLV435573&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/proyectores-y-pantallas/otros/#CATEGORY_ID=MLV11184&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Software",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/software/#CATEGORY_ID=MLV1723&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Antivirus",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/software/antivirus/#CATEGORY_ID=MLV10337&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Aplicaciones Comerciales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/software/aplicaciones-comerciales/#CATEGORY_ID=MLV1728&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Diseño y Edición",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/software/diseno-y-edicion/#CATEGORY_ID=MLV4214&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Educación y Referencia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/software/educacion-y-referencia/#CATEGORY_ID=MLV447061&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Redes y Servidores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/software/redes-y-servidores/#CATEGORY_ID=MLV430593&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Sistemas Operativos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/software/sistemas-operativos/#CATEGORY_ID=MLV1737&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Software de Oficina",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/software/software-de-oficina/#CATEGORY_ID=MLV1738&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Softwares para Impresoras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/software/softwares-para-impresoras/#CATEGORY_ID=MLV414250&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/software/otros/#CATEGORY_ID=MLV1739&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Tablets y Accesorios",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/tablets-y-accesorios/#CATEGORY_ID=MLV117283&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/tablets-y-accesorios/accesorios/#CATEGORY_ID=MLV86307&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "E-readers",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/tablets-y-accesorios/e-readers/#CATEGORY_ID=MLV107724&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Repuestos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/tablets-y-accesorios/repuestos/#CATEGORY_ID=MLV125256&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Tablets",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/tablets-y-accesorios/tablets/#CATEGORY_ID=MLV91757&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/computacion/tablets-y-accesorios/otros/#CATEGORY_ID=MLV117284&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Computación",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/computacion/otros/#CATEGORY_ID=MLV1912&S=hc_computacion&c_tracking_id=aac37e50-ce66-11f0-8bfe-f744d5c6a2ad",
+        "categorias_nivel_2": []
+    }
+]

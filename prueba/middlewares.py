@@ -4,6 +4,9 @@
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 
+import json
+import os
+import scrapy
 from scrapy import signals
 
 # useful for handling different item types with a single interface
@@ -103,3 +106,38 @@ class PruebaDownloaderMiddleware:
 
 
 
+
+class RedirectMiddleware:
+
+    def __init__(self):
+        self.redirected_urls = []
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        s = cls()
+        crawler.signals.connect(s.spider_closed, signal=signals.spider_closed)
+        return s
+
+    def process_response(self, request, response, spider):
+        if response.status in [301, 302, 303, 307, 308]:
+            redirect_to = response.headers.get('Location')
+            if redirect_to:
+                redirect_to = redirect_to.decode('utf-8') if isinstance(redirect_to, bytes) else str(redirect_to)
+                jerarquia = request.meta.get('jerarquia', [])
+                categoria = ' > '.join(jerarquia) if jerarquia else 'Desconocida'
+                self.redirected_urls.append({
+                    'url': request.url,
+                    'status': response.status,
+                    'redirect_to': redirect_to,
+                    'categoria': categoria
+                })
+                # Follow the redirect
+                return scrapy.Request(url=redirect_to, callback=request.callback, meta=request.meta, dont_filter=True)
+        return response
+
+    def spider_closed(self, spider):
+        if self.redirected_urls:
+            filename = 'categorias/redirected_urls.json'
+            os.makedirs(os.path.dirname(filename), exist_ok=True)
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(self.redirected_urls, f, ensure_ascii=False, indent=4)

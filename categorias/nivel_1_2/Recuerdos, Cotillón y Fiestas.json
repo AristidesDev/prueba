@@ -1,0 +1,492 @@
+[
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Botellas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/botellas/#CATEGORY_ID=MLV457487&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Cotillón",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/fiestas-cotillones/#CATEGORY_ID=MLV44015&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Anillos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cotillon-anillos/#CATEGORY_ID=MLV430965&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Anteojos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cotillon-anteojos/#CATEGORY_ID=MLV430966&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Antifaces",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/cotillon/antifaces/#CATEGORY_ID=MLV447021&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Badanas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cotillon-badanas/#CATEGORY_ID=MLV430969&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Collares y Pulseras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cotillon-collares-pulseras/#CATEGORY_ID=MLV430973&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Colorantes Comestibles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/cotillon/colorantes-comestibles/#CATEGORY_ID=MLV457464&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Figuras Fluorescentes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/cotillon/figuras-fluorescentes/#CATEGORY_ID=MLV457469&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Kits de Cotillón",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cotillon-kits/#CATEGORY_ID=MLV432047&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pelucas, Barbas y Bigotes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/cotillon/pelucas-barbas-bigotes/#CATEGORY_ID=MLV430978&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Silbatos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cotillon-silbatos/#CATEGORY_ID=MLV455766&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Sombreros y Gorras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cotillon-sombreros-gorras/#CATEGORY_ID=MLV430982&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Vinchas, Coronas y Tiaras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/cotillon/vinchas-coronas-tiaras/#CATEGORY_ID=MLV430974&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cotillon-otros/#CATEGORY_ID=MLV430977&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Decoración para Fiestas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas-decoracion/#CATEGORY_ID=MLV44014&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Banderines y Guirnaldas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-banderines-guirnaldas/#CATEGORY_ID=MLV430968&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Carteles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/decoracion-fiestas/carteles/#CATEGORY_ID=MLV457477&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Centros de Mesa",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-centros-mesa/#CATEGORY_ID=MLV71796&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Colgantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/decoracion-fiestas/colgantes/#CATEGORY_ID=MLV457468&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cortinas de Cotillón",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/decoracion-fiestas/cortinas-cotillon/#CATEGORY_ID=MLV457413&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Fondos para Fiestas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-fondos/#CATEGORY_ID=MLV435371&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Globos y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-globos-accesorios/#CATEGORY_ID=MLV420077&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Kits de Decoración",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-kits/#CATEGORY_ID=MLV435356&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Luces Sumergibles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-luces-sumergibles/#CATEGORY_ID=MLV417113&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Lámparas de Papel",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-lamparas-papel/#CATEGORY_ID=MLV179537&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Mantelería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-manteleria/#CATEGORY_ID=MLV44013&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Mesa de Dulces y Repostería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-mesa-dulces-reposteria/#CATEGORY_ID=MLV179574&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Piñatas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-pinatas/#CATEGORY_ID=MLV447024&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pompones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-pompones/#CATEGORY_ID=MLV179623&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Posters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/decoracion-fiestas/posters/#CATEGORY_ID=MLV457467&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Velas, Bengalas y Estrellitas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-velas-bengalas-estrellitas/#CATEGORY_ID=MLV447025&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/decoracion-fiestas-otros/#CATEGORY_ID=MLV403649&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Desechables para Fiestas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/desechables-fiestas/#CATEGORY_ID=MLV413646&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bandejas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/desechables-fiestas/bandejas/#CATEGORY_ID=MLV457431&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Bolsas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/desechables-fiestas/bolsas/#CATEGORY_ID=MLV457423&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Bowls",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/desechables-fiestas/bowls/#CATEGORY_ID=MLV457509&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cajas de Cotufas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/desechables-fiestas-cajas-cotufas/#CATEGORY_ID=MLV416780&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Copas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/desechables-fiestas-copas/#CATEGORY_ID=MLV179561&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Jarras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/desechables-fiestas/jarras/#CATEGORY_ID=MLV457422&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Kits de Vajilla",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/desechables-fiestas/kits-vajilla/#CATEGORY_ID=MLV413642&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Moldes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/desechables-fiestas/moldes/#CATEGORY_ID=MLV457439&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Platos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/desechables-fiestas-platos/#CATEGORY_ID=MLV179562&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Servilletas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/desechables-fiestas-servilletas/#CATEGORY_ID=MLV413649&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Sorbetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/desechables-fiestas-sorbetes/#CATEGORY_ID=MLV430983&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Utensilios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/desechables-fiestas/utensilios/#CATEGORY_ID=MLV457505&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Vasos Desechables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/desechables-fiestas-vasos/#CATEGORY_ID=MLV413643&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/desechables-fiestas-otros/#CATEGORY_ID=MLV413647&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Disfraces y Cosplay",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/#CATEGORY_ID=MLV455857&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/alas/#CATEGORY_ID=MLV457405&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Anillos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/anillos/#CATEGORY_ID=MLV457457&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Aros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/aros/#CATEGORY_ID=MLV457415&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Bates",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/bates/#CATEGORY_ID=MLV457420&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Capas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/capas/#CATEGORY_ID=MLV457411&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cascos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/cascos/#CATEGORY_ID=MLV457794&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Collares",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/collares/#CATEGORY_ID=MLV457416&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cuchillos de Disfraz",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/cuchillos-disfraz/#CATEGORY_ID=MLV457463&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Dientes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/dientes/#CATEGORY_ID=MLV457404&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Disfraces Completos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/disfraces/#CATEGORY_ID=MLV446863&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Escobas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/escobas/#CATEGORY_ID=MLV457430&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Escudos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-cosplay-escudos/#CATEGORY_ID=MLV455860&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Faldas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/faldas/#CATEGORY_ID=MLV457421&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Guantes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-cosplay-guantes/#CATEGORY_ID=MLV455861&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Kits de Cosplay",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-cosplay-kits/#CATEGORY_ID=MLV455862&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Kits de Maquillaje para FX",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/kits-maquillaje-fx/#CATEGORY_ID=MLV457402&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Lentes de Contacto",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/lentes-contacto/#CATEGORY_ID=MLV457427&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Maquillaje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/maquillaje/#CATEGORY_ID=MLV457425&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Máscaras y Cascos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/mascaras-cascos/#CATEGORY_ID=MLV457414&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Orejas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/orejas/#CATEGORY_ID=MLV457406&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pelucas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/pelucas/#CATEGORY_ID=MLV457501&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pinturas Corporales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/pinturas-corporales/#CATEGORY_ID=MLV457403&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pinturas para el Cabello",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/pinturas-cabello/#CATEGORY_ID=MLV457408&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pinturas para la Ropa",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/pinturas-ropa/#CATEGORY_ID=MLV457426&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Sombreros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/sombreros/#CATEGORY_ID=MLV457435&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Tiaras y Vinchas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/disfraces-cosplay/tiaras-vinchas/#CATEGORY_ID=MLV457436&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Varitas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-cosplay-varitas/#CATEGORY_ID=MLV455859&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/accesorios-cosplay-otros/#CATEGORY_ID=MLV455858&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Equipamiento para Fiestas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/#CATEGORY_ID=MLV457417&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Bolas Audiorrítmicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/bolas-audiorritmicas/#CATEGORY_ID=MLV457418&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Botellas para Recuerdo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/botellas-recuerdo/#CATEGORY_ID=MLV457432&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Carros para Candy Bar",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/carros-candy-bar/#CATEGORY_ID=MLV457434&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cilindros Decorativos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/cilindros-decorativos/#CATEGORY_ID=MLV457424&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Confeti",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/confeti/#CATEGORY_ID=MLV457485&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Inflables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/inflables/#CATEGORY_ID=MLV179254&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Máquinas de Efectos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/maquinas-efectos/#CATEGORY_ID=MLV457790&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Proyectores a Láser",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/proyectores-laser/#CATEGORY_ID=MLV457502&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Repuestos de Máquinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/repuestos-maquinas/#CATEGORY_ID=MLV457428&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/equipamiento-fiestas/otros/#CATEGORY_ID=MLV457563&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Espuma, Serpentina y Confeti",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/espuma-serpentina-confeti/#CATEGORY_ID=MLV435284&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cañones de Confeti",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/espuma-serpentina-confeti-canones/#CATEGORY_ID=MLV417267&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Espumas en Aerosol",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/espuma-serpentina-confeti-espumas-aerosol/#CATEGORY_ID=MLV430975&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Polvos de Colores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/espuma-serpentina-confeti-polvos-colores/#CATEGORY_ID=MLV414162&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Serpentinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/espuma-serpentina-confeti-serpentinas/#CATEGORY_ID=MLV430981&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/espuma-serpentina-confeti-otros/#CATEGORY_ID=MLV435285&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Invitaciones",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/invitaciones/#CATEGORY_ID=MLV457647&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cajas para Invitaciones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/invitaciones/cajas-invitaciones/#CATEGORY_ID=MLV457488&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Tarjetas y Papelería",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/invitaciones/tarjetas-papeleria/#CATEGORY_ID=MLV44012&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/invitaciones/otros/#CATEGORY_ID=MLV457648&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Kits Imprimibles para Fiestas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/kits-imprimibles-fiestas/#CATEGORY_ID=MLV447020&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Props para Photo Booths",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/props-photo-booths/#CATEGORY_ID=MLV412009&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Recuerdos para Fiestas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/#CATEGORY_ID=MLV457521&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aromatizadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/aromatizadores/#CATEGORY_ID=MLV457504&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Burbujeros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/burbujeros/#CATEGORY_ID=MLV457515&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Cajas de Regalo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/cajas-regalo/#CATEGORY_ID=MLV457495&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Difusores de Varillas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/difusores-varillas/#CATEGORY_ID=MLV457516&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Golosinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/golosinas/#CATEGORY_ID=MLV457510&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Juguetes para Piñata",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/juguetes-pinata/#CATEGORY_ID=MLV457486&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Latas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/latas/#CATEGORY_ID=MLV457494&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Llaveros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/llaveros/#CATEGORY_ID=MLV457519&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Pines y Prendedores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/pines-prendedores/#CATEGORY_ID=MLV457506&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Vasos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/vasos/#CATEGORY_ID=MLV457489&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/recuerdos-cotillon-fiestas/recuerdos-fiestas/otros/#CATEGORY_ID=MLV457527&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Regalos y Recuerdos",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/fiestas-recuerdos-y-regalos/#CATEGORY_ID=MLV44016&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Recuerdos, Cotillón y Fiestas",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/recuerdos-y-cotillones-otros/#CATEGORY_ID=MLV44017&S=hc_recuerdos-cotillon-y-fiestas&c_tracking_id=e390f780-ce66-11f0-b91f-c5487d15b1ff",
+        "categorias_nivel_2": []
+    }
+]

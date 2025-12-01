@@ -1,0 +1,661 @@
+[
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Andaderas y Vehículos de Bebés",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/andaderas-vehiculos-bebes/#CATEGORY_ID=MLV446202&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Andaderas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/andaderas-bebes/#CATEGORY_ID=MLV74766&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bicicletas de Equilibrio",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/andaderas-vehiculos-bebes-bicicletas-equilibrio/#CATEGORY_ID=MLV425095&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Triciclos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/andaderas-vehiculos-bebes-triciclos/#CATEGORY_ID=MLV71988&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/andaderas-vehiculos-bebes-otros/#CATEGORY_ID=MLV446205&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Artículos de Bebés para Baño",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/articulos-bebes-bano/#CATEGORY_ID=MLV5373&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alargadores de Grifo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/articulos-bebes-bano/alargadores-grifo/#CATEGORY_ID=MLV417904&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Almohadas y Redes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/articulos-bebes-bano/almohadas-redes/#CATEGORY_ID=MLV413738&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Asientos de Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/articulos-bebes-bano/asientos-bano/#CATEGORY_ID=MLV446206&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Batas de Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-bebes-bano-batas/#CATEGORY_ID=MLV446207&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bañeras",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-baneras/#CATEGORY_ID=MLV40602&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cepillos de Dientes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-bebes-bano-cepillos-dientes/#CATEGORY_ID=MLV416890&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pocetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-pocetas/#CATEGORY_ID=MLV40592&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Termómetros para Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-bebes-bano-termometros/#CATEGORY_ID=MLV417905&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Toallas de Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-bebes-bano-toallas/#CATEGORY_ID=MLV40585&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Urinarios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-bebes-bano-urinarios/#CATEGORY_ID=MLV414016&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Viseras de Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-bebes-bano-viseras/#CATEGORY_ID=MLV417906&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-articulos-para-bano-otros/#CATEGORY_ID=MLV40580&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Artículos de Maternidad",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/articulos-maternidad/#CATEGORY_ID=MLV417864&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cambiadores Portátiles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-cambiadores-portatiles/#CATEGORY_ID=MLV446233&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cojines de Maternidad",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-cojines/#CATEGORY_ID=MLV446234&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Diarios para Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-diarios-bebes/#CATEGORY_ID=MLV430998&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Fajas para Embarazadas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-fajas-embarazadas/#CATEGORY_ID=MLV417867&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Kit Maternidad",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-kit/#CATEGORY_ID=MLV419267&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Morrales y Bolsos Maternales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-morrales-bolsos-maternales/#CATEGORY_ID=MLV446232&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Protectores de Pezones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-protectores-pezones/#CATEGORY_ID=MLV417866&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Protectores para Lactancia",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-protectores-lactancia/#CATEGORY_ID=MLV431595&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Ropa para Embarazadas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-ropa-embarazadas/#CATEGORY_ID=MLV417868&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/articulos-maternidad-otros/#CATEGORY_ID=MLV417878&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Chupones y Mordedores",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/chupones-mordedores/#CATEGORY_ID=MLV417853&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Chupones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/chupones-mordedor/#CATEGORY_ID=MLV446229&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Chupones Alimentarios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/chupones-mordedores-alimentarios/#CATEGORY_ID=MLV416786&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Esterilizadores de Chupones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/chupones-mordedores-esterilizadores/#CATEGORY_ID=MLV417858&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Estuches para Chupones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/chupones-mordedores/estuches-chupones/#CATEGORY_ID=MLV417856&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Mordedores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/chupones-mordedore/#CATEGORY_ID=MLV413241&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sujetadores Para Chupones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/chupones-mordedores-sujetadores/#CATEGORY_ID=MLV446230&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/chupones-mordedores-otros/#CATEGORY_ID=MLV417857&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Comida para Bebés",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/comida-bebes/#CATEGORY_ID=MLV417851&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cereales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-bebes-cereales/#CATEGORY_ID=MLV401260&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Fórmulas para Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-bebes-formulas/#CATEGORY_ID=MLV446254&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Galletas para Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-bebes-galletas/#CATEGORY_ID=MLV417862&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Papilla",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-bebes-papilla/#CATEGORY_ID=MLV417860&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/comida-bebes-otros/#CATEGORY_ID=MLV417863&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Corrales",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/corrales/#CATEGORY_ID=MLV40401&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Cuarto del Bebé",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/cuarto-del-bebe/#CATEGORY_ID=MLV446203&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Cambiadores Rígidos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-cambiadores-rigidos/#CATEGORY_ID=MLV417983&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cojines",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-cojines/#CATEGORY_ID=MLV446295&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Colchones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-colchones/#CATEGORY_ID=MLV446296&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Colgantes de Puerta",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/cuarto-bebe/colgantes-puerta/#CATEGORY_ID=MLV417942&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cunas, Catres y Moisés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-cunas-catres-moises/#CATEGORY_ID=MLV1388&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Juegos de Dormitorio",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/cuarto-bebe/juegos-dormitorio/#CATEGORY_ID=MLV419268&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Lencería de Cuna",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-lenceria-cuna/#CATEGORY_ID=MLV446257&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Mantas de Apego",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-mantas-apego/#CATEGORY_ID=MLV417898&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Máquinas de Ruido Blanco",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/cuarto-bebe/maquinas-ruido-blanco/#CATEGORY_ID=MLV457853&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Nido de Contención",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-nido-contencion/#CATEGORY_ID=MLV417895&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Organizadores de Juguetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-organizadores-juguetes/#CATEGORY_ID=MLV417897&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Organizadores de Pañales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-organizadores-panales/#CATEGORY_ID=MLV417707&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Portadientes de Leche",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-portadientes-leche/#CATEGORY_ID=MLV417043&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/cuarto-del-bebe-otros/#CATEGORY_ID=MLV446297&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Higiene y Cuidado del Bebé",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe/#CATEGORY_ID=MLV409456&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Colonias para Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-colonias-bebes/#CATEGORY_ID=MLV417641&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cremas, Pomadas y Aceites",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-cremas-pomadas-aceites/#CATEGORY_ID=MLV409461&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Esponjas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-esponjas/#CATEGORY_ID=MLV446307&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Jabones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-jabones/#CATEGORY_ID=MLV455874&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Kits de Cuidado para Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-kits-bebes/#CATEGORY_ID=MLV413349&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pañales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-panales/#CATEGORY_ID=MLV440833&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Paños de Algodón",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-panos-algodon/#CATEGORY_ID=MLV417912&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Peines y Cepillos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-peines-cepillos/#CATEGORY_ID=MLV399208&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Shampoos y Acondicionadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-shampoos-acondicionadores/#CATEGORY_ID=MLV399205&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Talcos para Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-talcos-bebes/#CATEGORY_ID=MLV455894&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Toallitas Húmedas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-toallitas-humedas/#CATEGORY_ID=MLV409460&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/higiene-cuidado-del-bebe-otros/#CATEGORY_ID=MLV409458&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Juguetes para Bebés",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/bebes-juguetes/#CATEGORY_ID=MLV1392&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Caballitos Mecedores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-caballitos-mecedores/#CATEGORY_ID=MLV437272&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Centros de Actividades",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/juguetes-bebes/centros-actividades/#CATEGORY_ID=MLV417922&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Juegos de Arrastre",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-juegos-arrastre/#CATEGORY_ID=MLV445837&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Juegos de Encastre y Apilables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-juegos-encastre-apilables/#CATEGORY_ID=MLV445834&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Juguetes para el Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-bano/#CATEGORY_ID=MLV445838&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Laberintos y Cubos Didácticos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-laberintos-didacticos/#CATEGORY_ID=MLV352342&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Mecedoras y Saltarines",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-mecedoras-saltarines/#CATEGORY_ID=MLV445830&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Mesas de Actividades",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/juguetes-bebes/mesas-actividades/#CATEGORY_ID=MLV417923&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Muñecos de Estimulación",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-munecos-estimulacion/#CATEGORY_ID=MLV437544&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Móviles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-moviles/#CATEGORY_ID=MLV45969&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pelotas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-pelotas/#CATEGORY_ID=MLV445833&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Peluches",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-peluches/#CATEGORY_ID=MLV445836&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sonajeros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-sonajeros/#CATEGORY_ID=MLV445835&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/juguetes-bebes-otros/#CATEGORY_ID=MLV1887&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Lactancia y Alimentación",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/lactancia-alimentacion/#CATEGORY_ID=MLV5360&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Baberos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-baberos/#CATEGORY_ID=MLV82303&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Babitas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/lactancia-alimentacion-babitas/#CATEGORY_ID=MLV417938&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bolsas de Leche Materna",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/lactancia-alimentacion-bolsas-leche-materna/#CATEGORY_ID=MLV413746&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Calentadores de Mamaderas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/lactancia-alimentacion/calentadores-mamaderas/#CATEGORY_ID=MLV39990&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Esterilizadores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-esterilizadores-alimentos/#CATEGORY_ID=MLV39991&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Esterilizadores Manuales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/lactancia-alimentacion/esterilizadores-manuales/#CATEGORY_ID=MLV457029&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Extractores de Leche",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/extractores-leche-bebes/#CATEGORY_ID=MLV39945&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sillas de Bebés para Comer",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/lactancia-alimentacion-sillas-bebes-comer/#CATEGORY_ID=MLV40428&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Teteros y Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/lactancia-alimentacion-teteros-accesorios/#CATEGORY_ID=MLV409381&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Vasos, Platos y Cubiertos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/lactancia-alimentacion-vasos-platos-cubiertos/#CATEGORY_ID=MLV417876&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/otros-alimentacion-bebes/#CATEGORY_ID=MLV5361&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Paseo del Bebé",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/paseo-del-bebe/#CATEGORY_ID=MLV418189&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios para Coches",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/paseo-del-bebe-accesorios-coches/#CATEGORY_ID=MLV418192&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Arneses y Correas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/paseo-del-bebe-arneses-correas/#CATEGORY_ID=MLV121292&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Canguros y Porta Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/paseo-del-bebe-canguros-porta-bebes/#CATEGORY_ID=MLV40402&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Coches para Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/paseo-del-bebe-coches-bebes/#CATEGORY_ID=MLV1386&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cojines para Cinturones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/paseo-del-bebe-cojines-cinturones/#CATEGORY_ID=MLV431045&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Organizadores para Carros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/paseo-del-bebe-organizadores-carros/#CATEGORY_ID=MLV431270&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Reductores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/paseo-bebe/reductores/#CATEGORY_ID=MLV457459&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sillas de Bebés para Carros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/paseo-del-bebe-sillas-bebes-carros/#CATEGORY_ID=MLV1387&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Viseras Tapasol para Carros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/paseo-del-bebe-viseras-tapasol-carros/#CATEGORY_ID=MLV271305&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/paseo-del-bebe-otros/#CATEGORY_ID=MLV418190&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Ropa de Bebé",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/bebes-ropa/#CATEGORY_ID=MLV1396&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Accesorios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-ropa-accesorios/#CATEGORY_ID=MLV24795&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Batas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-batas/#CATEGORY_ID=MLV446080&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bermudas y Shorts",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-bermudas-shorts/#CATEGORY_ID=MLV446071&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Blusas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-blusas/#CATEGORY_ID=MLV417936&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Bolsas de Dormir",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/ropa-bebe/bolsas-dormir/#CATEGORY_ID=MLV458053&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Calzados",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-ropa-zapatos/#CATEGORY_ID=MLV1400&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Camisas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-camisas/#CATEGORY_ID=MLV446076&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Chaquetas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-chaquetas/#CATEGORY_ID=MLV446072&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Conjuntos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-ropa-conjuntos/#CATEGORY_ID=MLV74770&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Faldas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-faldas/#CATEGORY_ID=MLV446077&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Franelas y Chemises",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-franelas-chemises/#CATEGORY_ID=MLV446078&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Jardineros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-jardineros/#CATEGORY_ID=MLV446073&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Kits para Salida del Hospital",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-kits-salida-del-hospital/#CATEGORY_ID=MLV434728&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Medias",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-medias/#CATEGORY_ID=MLV446079&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Monitos y Bodys",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-ropa-monitos-y-bodys/#CATEGORY_ID=MLV10209&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pantalones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-ropa-pantalones/#CATEGORY_ID=MLV1399&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pijamas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-pijamas/#CATEGORY_ID=MLV446075&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sweaters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/ropa-bebe-sweaters/#CATEGORY_ID=MLV446074&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Sweters",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-ropa-sweters/#CATEGORY_ID=MLV24764&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Trajes de Baño",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-ropa-trajes-de-bano/#CATEGORY_ID=MLV39961&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Vestidos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-ropa-vestidos/#CATEGORY_ID=MLV1397&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-ropa-otros-/#CATEGORY_ID=MLV1888&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Salud del Bebé",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/salud-del-bebe/#CATEGORY_ID=MLV417887&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Aspiradores Nasales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-del-bebe-aspiradores-nasales/#CATEGORY_ID=MLV413426&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Chupones Termómetros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-del-bebe-chupones-termometros/#CATEGORY_ID=MLV417889&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Clips y Parches Repelentes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes/salud-bebe/clips-parches-repelentes/#CATEGORY_ID=MLV416656&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Collares de Dentición",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-del-bebe-collares-denticion/#CATEGORY_ID=MLV417890&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/salud-del-bebe-otros/#CATEGORY_ID=MLV417888&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Seguridad para Bebés",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/seguridad-bebes/#CATEGORY_ID=MLV1390&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Alfombras Antigolpes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-alfombras-antigolpes/#CATEGORY_ID=MLV416837&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Barandas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-barandas/#CATEGORY_ID=MLV121293&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Cascos para Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-cascos/#CATEGORY_ID=MLV416836&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Espejos Retrovisores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-espejos-retrovisores/#CATEGORY_ID=MLV413741&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Monitores",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/bebes-monitores/#CATEGORY_ID=MLV74025&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Pisos de Goma",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-pisos-goma/#CATEGORY_ID=MLV446313&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Protectores de Enchufes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-protectores-enchufes/#CATEGORY_ID=MLV418318&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Protectores de Esquinas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-protectores-esquinas/#CATEGORY_ID=MLV416812&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Puertas de Seguridad",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-puertas/#CATEGORY_ID=MLV446312&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Rodilleras para Bebés",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-rodilleras/#CATEGORY_ID=MLV417249&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Torres de Aprendizaje",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-torres-aprendizaje/#CATEGORY_ID=MLV431046&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Trabas para Puertas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-trabas-puertas/#CATEGORY_ID=MLV414135&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/seguridad-bebes-otros/#CATEGORY_ID=MLV72217&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5"
+            }
+        ]
+    },
+    {
+        "categoria_base": "Bebés",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/bebes-otros/#CATEGORY_ID=MLV1889&S=hc_bebes&c_tracking_id=9cef4d40-ce66-11f0-86fa-d9527d15e9a5",
+        "categorias_nivel_2": []
+    }
+]

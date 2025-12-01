@@ -1,6 +1,48 @@
 import json
+import os
 from itemadapter import ItemAdapter
 from scrapy.exceptions import DropItem
+
+class JsonPipeline:
+
+    def open_spider(self, spider):
+        if spider.name == 'categorias_base':
+            self.items = []
+        elif spider.name == 'categorias_subsecuentes_levels':
+            self.items = []
+        else:
+            self.items_by_base = {}
+
+    def close_spider(self, spider):
+        if spider.name == 'categorias_base':
+            filename = 'categorias/base/categorias_base.json'
+            os.makedirs(os.path.dirname(filename), exist_ok=True)
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(self.items, f, ensure_ascii=False, indent=4)
+        elif spider.name == 'categorias_subsecuentes_levels':
+            filename = f"categorias/otros_niveles/{spider.categoria_base}.json"
+            os.makedirs(os.path.dirname(filename), exist_ok=True)
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(self.items, f, ensure_ascii=False, indent=4)
+        else:
+            for base, items in self.items_by_base.items():
+                filename = f"categorias/nivel_1_2/{base}.json"
+                os.makedirs(os.path.dirname(filename), exist_ok=True)
+                with open(filename, 'w', encoding='utf-8') as f:
+                    json.dump(items, f, ensure_ascii=False, indent=4)
+
+    def process_item(self, item, spider):
+        if spider.name == 'categorias_base':
+            self.items.append(dict(item))
+        elif spider.name == 'categorias_subsecuentes_levels':
+            self.items.append(dict(item))
+        else:
+            base = item.get('categoria_base')
+            if base:
+                if base not in self.items_by_base:
+                    self.items_by_base[base] = []
+                self.items_by_base[base].append(dict(item))
+        return item
 
 class NestedJsonPipeline:
 
@@ -19,7 +61,7 @@ class NestedJsonPipeline:
         Aquí guardamos la estructura de árbol completa en un archivo JSON.
         """
         # Abre el archivo de salida en modo escritura con codificación UTF-8
-        with open('categorias_prueba.json', 'w', encoding='utf-8') as f:
+        with open('categorias_tree_alimentos.json', 'w', encoding='utf-8') as f:
             # json.dump escribe la estructura de datos en el archivo.
             # ensure_ascii=False permite que se guarden caracteres como tildes correctamente.
             # indent=4 hace que el archivo JSON sea legible para los humanos.
@@ -63,6 +105,8 @@ class NestedJsonPipeline:
             # Actualizamos su URL, ya que la que creamos por defecto podría ser None.
             if i == len(jerarquia) - 1:
                 node['url'] = adapter.get('url')
+                if adapter.get('is_leaf'):
+                    node['is_leaf'] = True
 
             # Movemos 'current_level' para que apunte a la lista de hijos del nodo actual,
             # preparándonos para la siguiente iteración del bucle.
