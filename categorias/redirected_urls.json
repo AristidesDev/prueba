@@ -2,36 +2,37 @@
     {
         "url": "https://listado.mercadolibre.com.ve/antiguedades-balanzas-antiguas-otros/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV446222%26applied_value_name%3DOtros%26applied_value_order%3D3%26applied_value_results%3D2%26is_custom%3Dfalse",
         "status": 301,
-        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-balanzas-antiguas-otros/"
+        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-balanzas-antiguas-otros/",
+        "categoria": "Antigüedades y Colecciones > Antigüedades > Balanzas Antiguas > Otros"
     },
     {
         "url": "https://listado.mercadolibre.com.ve/balanzas-antiguas-almacen/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV446219%26applied_value_name%3DDe+Almac%C3%A9n%26applied_value_order%3D2%26applied_value_results%3D2%26is_custom%3Dfalse",
         "status": 301,
-        "redirect_to": "https://listado.mercadolibre.com.ve/balanzas-antiguas-almacen/"
-    },
-    {
-        "url": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-hornos/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV430717%26applied_value_name%3DHornos%26applied_value_order%3D5%26applied_value_results%3D1%26is_custom%3Dfalse",
-        "status": 301,
-        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-hornos/"
-    },
-    {
-        "url": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-batidoras/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV430718%26applied_value_name%3DBatidoras%26applied_value_order%3D2%26applied_value_results%3D1%26is_custom%3Dfalse",
-        "status": 301,
-        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-batidoras/"
+        "redirect_to": "https://listado.mercadolibre.com.ve/balanzas-antiguas-almacen/",
+        "categoria": "Antigüedades y Colecciones > Antigüedades > Balanzas Antiguas > Balanzas > De Almacén"
     },
     {
         "url": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-maquinas-afeitar/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV446200%26applied_value_name%3DM%C3%A1quinas+de+Afeitar%26applied_value_order%3D7%26applied_value_results%3D1%26is_custom%3Dfalse",
         "status": 301,
-        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-maquinas-afeitar/"
+        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-maquinas-afeitar/",
+        "categoria": "Antigüedades y Colecciones > Antigüedades > Electrodomésticos Antiguos > Máquinas de Afeitar"
+    },
+    {
+        "url": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-batidoras/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV430718%26applied_value_name%3DBatidoras%26applied_value_order%3D2%26applied_value_results%3D1%26is_custom%3Dfalse",
+        "status": 301,
+        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-batidoras/",
+        "categoria": "Antigüedades y Colecciones > Antigüedades > Electrodomésticos Antiguos > Batidoras"
     },
     {
         "url": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-aspiradoras/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV381960%26applied_value_name%3DAspiradoras%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse",
         "status": 301,
-        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-aspiradoras/"
+        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-aspiradoras/",
+        "categoria": "Antigüedades y Colecciones > Antigüedades > Electrodomésticos Antiguos > Aspiradoras"
     },
     {
         "url": "https://listado.mercadolibre.com.ve/antiguedades-maquinas-escribir-e-insumos-otros/_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D2%26applied_value_id%3DMLV417838%26applied_value_name%3DOtros%26applied_value_order%3D3%26applied_value_results%3D2%26is_custom%3Dfalse",
         "status": 301,
-        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-maquinas-escribir-e-insumos-otros/"
+        "redirect_to": "https://listado.mercadolibre.com.ve/antiguedades-maquinas-escribir-e-insumos-otros/",
+        "categoria": "Antigüedades y Colecciones > Antigüedades > Máquinas de Escribir e Insumos > Otros"
     }
 ]

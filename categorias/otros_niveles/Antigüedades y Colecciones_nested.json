@@ -1,0 +1,509 @@
+[
+    {
+        "categoria_base": "Antigüedades y Colecciones",
+        "nombre_categoria_1": "Afiches de Películas y Libros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/arte-antiguedades-afiches-peliculas-libros/#CATEGORY_ID=MLV80266&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Antigüedades y Colecciones",
+        "nombre_categoria_1": "Antigüedades",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/antiguedades/#CATEGORY_ID=MLV1372&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Arañas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-aranas/#CATEGORY_ID=MLV446251&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Artículos Marítimos Antiguos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-articulos-maritimos-antiguos/#CATEGORY_ID=MLV446247&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Audio Antiguo",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-audio-antiguo/#CATEGORY_ID=MLV446204&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": false,
+                "categorias_nivel_3": [
+                    {
+                        "nombre_categoria_3": "Otros",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-audio-antiguo-otros/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Cajas Acústicas",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-audio-antiguo-cajas-acusticas/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Grabadoras",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-audio-antiguo-grabadoras/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Rockolas",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-audio-antiguo-rockolas/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Vitrolas",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-audio-antiguo-vitrolas/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Tocadiscos",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-audio-antiguo-tocadiscos/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Álbumes de Música",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-colecciones/antiguedades/audio-antiguo/albumes-musica/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Radios",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-audio-antiguo-radios/",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "nombre_categoria_2": "Balanzas Antiguas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-balanzas-antiguas/#CATEGORY_ID=MLV446215&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": false,
+                "categorias_nivel_3": [
+                    {
+                        "nombre_categoria_3": "Pesas",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-balanzas-antiguas-pesas/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Balanzas",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-balanzas-antiguas/",
+                        "is_leaf": false,
+                        "categorias_nivel_4": [
+                            {
+                                "nombre_categoria_4": "Otras Balanzas",
+                                "url_categoria_4": "https://listado.mercadolibre.com.ve/balanzas-antiguas-otras/",
+                                "is_leaf": true
+                            },
+                            {
+                                "nombre_categoria_4": "Colgantes",
+                                "url_categoria_4": "https://listado.mercadolibre.com.ve/balanzas-antiguas-colgantes/",
+                                "is_leaf": true
+                            },
+                            {
+                                "nombre_categoria_4": "De Dos Platos",
+                                "url_categoria_4": "https://listado.mercadolibre.com.ve/balanzas-antiguas-dos-platos/",
+                                "is_leaf": true
+                            },
+                            {
+                                "nombre_categoria_4": "De Almacén",
+                                "url_categoria_4": "https://listado.mercadolibre.com.ve/balanzas-antiguas-almacen/",
+                                "is_leaf": true
+                            }
+                        ]
+                    },
+                    {
+                        "nombre_categoria_3": "Otros",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-balanzas-antiguas-otros/",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "nombre_categoria_2": "Botellas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones/antiguedades/botellas/#CATEGORY_ID=MLV458010&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Campanas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-campanas/#CATEGORY_ID=MLV121387&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Cinturones de Lucha",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-cinturones-lucha/#CATEGORY_ID=MLV433118&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Electrodomésticos Antiguos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-electrodomesticos-antiguos/#CATEGORY_ID=MLV446192&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": false,
+                "categorias_nivel_3": [
+                    {
+                        "nombre_categoria_3": "Cafeteras",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-cafeteras/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Licuadoras",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-licuadoras/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Ventiladores",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-ventiladores/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Máquinas de Afeitar",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-maquinas-afeitar/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Planchas",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-planchas/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Cocinas",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-cocinas/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Televisores",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-televisores/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Batidoras",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-batidoras/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Aspiradoras",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-electrodomesticos-antiguos-aspiradoras/",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "nombre_categoria_2": "Instrumentos Musicales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-instrumentos-musicales/#CATEGORY_ID=MLV446248&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Latas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/antiguedades/latas/#CATEGORY_ID=MLV6104&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Llaveros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-llaveros/#CATEGORY_ID=MLV121297&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Llaves y Candados Antiguos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-llaves-candados-antiguos/#CATEGORY_ID=MLV446223&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": false,
+                "categorias_nivel_3": [
+                    {
+                        "nombre_categoria_3": "Otros",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-llaves-candados-antiguos-otros/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Candados",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-llaves-candados-antiguos/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Llaves",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-llaves-candados-antiguo/",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "nombre_categoria_2": "Medalleros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-medalleros/#CATEGORY_ID=MLV429612&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Máquinas de Escribir e Insumos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-maquinas-escribir-e-insumos/#CATEGORY_ID=MLV417836&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": false,
+                "categorias_nivel_3": [
+                    {
+                        "nombre_categoria_3": "Máquinas de Escribir",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-maquinas-escribir-e-insumos/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Insumos",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-maquinas-escribir-e-insumo/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Otros",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-maquinas-escribir-e-insumos-otros/",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "nombre_categoria_2": "Navajas y Cuchillos Antiguos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-navajas-cuchillos-antiguos/#CATEGORY_ID=MLV416694&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Percheros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-percheros/#CATEGORY_ID=MLV446245&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Perfumeros Decorativos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones/antiguedades/perfumeros-decorativos/#CATEGORY_ID=MLV430308&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Petacas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones/antiguedades/petacas/#CATEGORY_ID=MLV413494&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Proyectores Antiguos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-proyectores-antiguos/#CATEGORY_ID=MLV429166&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Registradoras Antiguas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-registradoras-antiguas/#CATEGORY_ID=MLV446244&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Relicarios",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-relicarios/#CATEGORY_ID=MLV446252&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Retablos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-retablos/#CATEGORY_ID=MLV430305&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Sifones",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones/antiguedades/sifones/#CATEGORY_ID=MLV446243&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Sillas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-sillas/#CATEGORY_ID=MLV446246&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Sulkys y Carros Antiguos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-sulkys-carros-antiguos/#CATEGORY_ID=MLV446249&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Tarjetas Coleccionables",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-tarjetas-coleccionables/#CATEGORY_ID=MLV446250&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Tazos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-tazos/#CATEGORY_ID=MLV413011&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Teléfonos Antiguos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-telefonos-antiguos/#CATEGORY_ID=MLV446253&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Trofeos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-trofeos/#CATEGORY_ID=MLV413508&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-otros/#CATEGORY_ID=MLV1383&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            }
+        ]
+    },
+    {
+        "categoria_base": "Antigüedades y Colecciones",
+        "nombre_categoria_1": "Banderas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/banderas/#CATEGORY_ID=MLV393901&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Antigüedades y Colecciones",
+        "nombre_categoria_1": "Coleccionables de Deportes",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-coleccionables-deportes/#CATEGORY_ID=MLV446294&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Antigüedades y Colecciones",
+        "nombre_categoria_1": "Figuras y Esculturas",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/antiguedades-colecciones-figuras-esculturas/#CATEGORY_ID=MLV34200&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+        "categorias_nivel_2": []
+    },
+    {
+        "categoria_base": "Antigüedades y Colecciones",
+        "nombre_categoria_1": "Filatelia",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/filatelia/#CATEGORY_ID=MLV1861&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Estampillas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/filatelia/estampillas/#CATEGORY_ID=MLV1862&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Postales",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/filatelia/postales/#CATEGORY_ID=MLV1807&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Sellos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/filatelia/sellos/#CATEGORY_ID=MLV446139&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Sobres",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/filatelia/sobres/#CATEGORY_ID=MLV2434&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Tarjetas Telefónicas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/filatelia/tarjetas-telefonicas/#CATEGORY_ID=MLV1830&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/filatelia/otros/#CATEGORY_ID=MLV2457&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            }
+        ]
+    },
+    {
+        "categoria_base": "Antigüedades y Colecciones",
+        "nombre_categoria_1": "Militaría y Afines",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/#CATEGORY_ID=MLV1805&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Fotos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/fotos/#CATEGORY_ID=MLV434385&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Indumentaria Táctica",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/indumentaria-tactica/#CATEGORY_ID=MLV446160&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": false,
+                "categorias_nivel_3": [
+                    {
+                        "nombre_categoria_3": "Otros",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/indumentaria-tactica/otros/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Emblemas",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/indumentaria-tactica/emblemas/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Escudos",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/indumentaria-tactica/escudos/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Cascos",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/indumentaria-tactica/cascos/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Insignias",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/indumentaria-tactica/insignias/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Cinturones",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/indumentaria-tactica/cinturones/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Uniformes Tácticos",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/indumentaria-tactica/uniformes-tacticos/",
+                        "is_leaf": true
+                    },
+                    {
+                        "nombre_categoria_3": "Chaquetas",
+                        "url_categoria_3": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/indumentaria-tactica/chaquetas/",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "nombre_categoria_2": "Láminas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/laminas/#CATEGORY_ID=MLV446168&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Medallas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/medallas/#CATEGORY_ID=MLV446159&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Platos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/platos/#CATEGORY_ID=MLV446169&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Vainas para Cuchillos",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/vainas-para-cuchillos/#CATEGORY_ID=MLV433425&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/militaria-y-afines/otros/#CATEGORY_ID=MLV446167&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            }
+        ]
+    },
+    {
+        "categoria_base": "Antigüedades y Colecciones",
+        "nombre_categoria_1": "Monedas y Billetes",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/monedas-y-billetes/#CATEGORY_ID=MLV1806&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+        "categorias_nivel_2": [
+            {
+                "nombre_categoria_2": "Billetes",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/monedas-y-billetes/billetes/#CATEGORY_ID=MLV1949&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Fichas y Cospeles",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/monedas-y-billetes/fichas-y-cospeles/#CATEGORY_ID=MLV446144&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Medallas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/monedas-y-billetes/medallas/#CATEGORY_ID=MLV446145&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Monedas",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/monedas-y-billetes/monedas/#CATEGORY_ID=MLV2061&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Álbumes para Numismática",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/monedas-y-billetes/albumes-para-numismatica/#CATEGORY_ID=MLV441114&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            },
+            {
+                "nombre_categoria_2": "Otros",
+                "url_categoria_2": "https://listado.mercadolibre.com.ve/antiguedades-y-colecciones/monedas-y-billetes/otros/#CATEGORY_ID=MLV1948&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+                "is_leaf": true
+            }
+        ]
+    },
+    {
+        "categoria_base": "Antigüedades y Colecciones",
+        "nombre_categoria_1": "Otros",
+        "url_categoria_1": "https://listado.mercadolibre.com.ve/arte-y-antiguedades-otros/#CATEGORY_ID=MLV1885&S=hc_antiguedades-y-colecciones&c_tracking_id=95675a90-ce66-11f0-9d72-8d74e937ae9a",
+        "categorias_nivel_2": []
+    }
+]
