@@ -68,7 +68,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    "prueba.middlewares.RedirectMiddleware": 543,
+    "mlScraper.middlewares.RedirectMiddleware": 543,
 }
 
 # Enable or disable extensions
@@ -86,8 +86,8 @@ DOWNLOADER_MIDDLEWARES = {
 # Configure item pipelines
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   "prueba.pipelines.JsonPipeline": 200,
-   "prueba.pipelines.NestedJsonPipeline": 300,
+   "mlScraper.pipelines.JsonPipeline": 200,
+   "mlScraper.pipelines.NestedJsonPipeline": 300,
  }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

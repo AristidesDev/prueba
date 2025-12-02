@@ -1,7 +1,7 @@
 import scrapy
 import json
 from pathlib import Path
-from ..items import CategoryItem
+from mlScraper.items import CategoryItem
 
 class MercadolibreCategorias1Spider(scrapy.Spider):
     name = 'categorias_subsecuentes_levels'
