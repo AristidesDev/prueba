@@ -54,21 +54,23 @@ class MercadolibreCategorias1Spider(scrapy.Spider):
 
         # **XPath CORREGIDO Y PRECISO (basado en tu sugerencia)**
         # Selecciona solo los 'li' dentro del div de filtros cuyo h3 contiene "Categor".
-        selector_sidebar = './/div[@class="ui-search-filter-dl" and .//h3[contains(text(), "Categor")]]//li'
-        
+        selector_sidebar = './/div[@class="ui-search-filter-dl" and .//h3[contains(text(), "Categor")]]/ul/li'
+
         categories_sidebar = response.xpath(selector_sidebar)
-        
+
+        # Yield item for current page
+        jerarquia_tuple = tuple(jerarquia_actual)
+        if jerarquia_tuple not in self.processed_hierarchies:
+            self.processed_hierarchies.add(jerarquia_tuple)
+            item = CategoryItem()
+            item['nombre'] = jerarquia_actual[-1]
+            item['url'] = response.url
+            item['jerarquia'] = jerarquia_actual
+            item['is_leaf'] = not categories_sidebar
+            yield item
+
         if not categories_sidebar:
             self.logger.info(f'--- Hoja final del árbol: {" > ".join(jerarquia_actual)} ---')
-            jerarquia_tuple = tuple(jerarquia_actual)
-            if jerarquia_tuple not in self.processed_hierarchies:
-                self.processed_hierarchies.add(jerarquia_tuple)
-                item = CategoryItem()
-                item['nombre'] = jerarquia_actual[-1]
-                item['url'] = response.url
-                item['jerarquia'] = jerarquia_actual
-                item['is_leaf'] = True
-                yield item
             return
 
         for category_item in categories_sidebar:
@@ -82,16 +84,8 @@ class MercadolibreCategorias1Spider(scrapy.Spider):
                 jerarquia_tuple = tuple(nueva_jerarquia)
 
                 if jerarquia_tuple not in self.processed_hierarchies:
-                    self.processed_hierarchies.add(jerarquia_tuple)
-                    item = CategoryItem()
-                    item['nombre'] = nombre_limpio
-                    item['url'] = response.urljoin(url)
-                    item['jerarquia'] = nueva_jerarquia
-                    item['is_leaf'] = False
-                    yield item
-
-                yield scrapy.Request(
-                    url=response.urljoin(url),
-                    callback=self.parse_subsequent_levels,
-                    meta={'jerarquia': nueva_jerarquia}
-                )
+                    yield scrapy.Request(
+                        url=response.urljoin(url),
+                        callback=self.parse_subsequent_levels,
+                        meta={'jerarquia': nueva_jerarquia}
+                    )

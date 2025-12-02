@@ -20,10 +20,40 @@ class JsonPipeline:
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(self.items, f, ensure_ascii=False, indent=4)
         elif spider.name == 'categorias_subsecuentes_levels':
-            filename = f"categorias/otros_niveles/{spider.categoria_base}.json"
+            # Load original JSON
+            original_file = f"categorias/nivel_1_2/{spider.categoria_base}.json"
+            with open(original_file, 'r', encoding='utf-8') as f:
+                original = json.load(f)
+            # Update with deeper levels
+            for item in self.items:
+                jerarquia = item['jerarquia']
+                if len(jerarquia) < 3:
+                    continue
+                categoria = next((c for c in original if c['categoria_base'] == jerarquia[0] and c['nombre_categoria_1'] == jerarquia[1]), None)
+                if not categoria:
+                    continue
+                current = categoria['categorias_nivel_2']
+                for i in range(2, len(jerarquia)):
+                    name = jerarquia[i]
+                    level = i
+                    key_name = f'nombre_categoria_{level}'
+                    key_url = f'url_categoria_{level}'
+                    child = next((c for c in current if c.get(key_name) == name), None)
+                    if not child:
+                        child = {key_name: name, key_url: item['url']}
+                        current.append(child)
+                    if i == len(jerarquia) - 1:
+                        child['is_leaf'] = item['is_leaf']
+                    else:
+                        next_level = f'categorias_nivel_{level + 1}'
+                        if next_level not in child:
+                            child[next_level] = []
+                        current = child[next_level]
+            # Save updated JSON
+            filename = f"categorias/otros_niveles/{spider.categoria_base}_nested.json"
             os.makedirs(os.path.dirname(filename), exist_ok=True)
             with open(filename, 'w', encoding='utf-8') as f:
-                json.dump(self.items, f, ensure_ascii=False, indent=4)
+                json.dump(original, f, ensure_ascii=False, indent=4)
         else:
             for base, items in self.items_by_base.items():
                 filename = f"categorias/nivel_1_2/{base}.json"
